@@ -1,0 +1,687 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98135,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166230,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14688055,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270345,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91715,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,862,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175185533,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5858,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1423,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893021,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2518,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25994,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196202,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140620113,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324261757,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673722545,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44814106,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,723217,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378826,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157405,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6353,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100743,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517152,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540918432,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650308408,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135889,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2607,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23701292,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1776841,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2692,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19166,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6008678,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145233,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226046,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9071,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2843047,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2846781450,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2359379079,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30897,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,713493,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4684,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6937151,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31345214,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3530,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565787,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4440,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11726455,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236004,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27177,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12689,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63896,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1186673,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523342611,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290108726,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6126,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1218701,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5089,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343384,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3860,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4530211,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4623,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73046,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72360367,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50209634,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26638,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24741,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38347,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4576895,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2626423,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8963600,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475900,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102757300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19371700,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4874258,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242949,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2849,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,48013,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7645,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6388575,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10040458,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607809,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,903258826,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499750929,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25426139,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9094,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784166,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3107093,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26240,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10808063,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16223394,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9156,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15169,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,853534,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282105628,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247568837,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99802578,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2069693,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17521581,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365495101,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4259327659,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2845701253,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23024,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200134,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130000106,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71430640,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632156,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1976278,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,785,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11279,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10912,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9347740,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40644085,,,0
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13834,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36872733,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35957726,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145642,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182164,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106078,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15888331,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4197785,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482773,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496023,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2074046,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2842832,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139012,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96282,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452214572,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013027710,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212402088,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594002230,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138362,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126775,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138906,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4008686,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1213261297,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2031733427,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85805,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7006,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1938137,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11022747,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5350294,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48663,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21001714,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8625604,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8624,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1630,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11038104,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1610820,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,906688,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3224661,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1855327467,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2342489604,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956505,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,242,Fiji,FJI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956505,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1367410,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12080,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11350,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251836,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11898501,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1711,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82725,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139771,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38061335,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5561233,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731933,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41849,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2309355,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10797306,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2696787776,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2320341260,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20496536,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61499139,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2686040,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645770,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2354729,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13573043,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9330977971,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12457362231,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3766188,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106984,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12890574,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42475,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162696166,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151325457,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1096831,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1218597,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23403,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1690205,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25090968,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9506200,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2261,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4734831,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19114553,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7990480,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19227795,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161225997,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338280464,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384041,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355986,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317800309,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372305847,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19613694,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33691704,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9405,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8311,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72765594,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5521537,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44597,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611879,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22942480,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609540156,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88570456,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87498,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112594432,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520627,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2220006,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451645,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1383774,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36637,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139583,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185262755,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381331109,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2146000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260495000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65500000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486551,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4589304,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452396,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85828,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16429680,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7456598,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1695664387,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807014457,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8919858,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1158131,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993279,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19483,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42757227,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72635299,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1653105646,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396219935,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410044,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131976070,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176021685,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49813306,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65387,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3635,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2272,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605261,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174809,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42269,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5138453,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211837732,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975345255,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296941722,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628939,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51883847,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9164325,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3610411,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27292,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234123,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291847,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44982796,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431881,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21367,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2949910,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2130364,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33915,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4986,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,686619388,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260474368,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1084999,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6777966,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104038,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795777863,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497695567,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418221,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,805888,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11890,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2659810,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37250938,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56582512,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5658,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12603,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3930765,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5321935,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2691,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23751,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4536692,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71248672,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173804567,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123800749,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83120,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025524,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157343,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2866,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57199,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7315,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2401488,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10914812,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12794844,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142935,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4374,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6781066,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51203921,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276987149,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257759933,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,848,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85492,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17413344,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242040,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33817,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466249,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6617323,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226917,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2077235,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256231109,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6281813,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42213,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10606896,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280195,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79882,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174375,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7198908,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231631,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10648,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4494536,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174512,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3146,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32932808,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21166598,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413700,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6901342,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11456658,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5751980,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4610831686,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4940003009,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10633,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3196847,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39037,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152012,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5053,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45298628,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350141041,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85604556,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116736781,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11646800,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476784,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12432,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2249029,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7745290,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76801246,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114315146,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26150,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74760,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273843,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1866150403,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1594352466,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43931,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187780,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378232,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64495097,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34087651,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59087,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12616,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16575367,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8600,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7008,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16331,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126376606,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24042760,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79067692,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39938268,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22978,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347073,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256943,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1624005334,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1735675064,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2764688,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2001138,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1650,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21104242,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55275,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228980944,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261501998,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1526,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517500,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191946089,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221522784,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378259205,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14140357,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985693,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1762290,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99361,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,951174,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3400346390,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8148477019,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210185,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288086,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379643,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94980,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123154087,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22658119,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2843,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251235,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424765,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53293783,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274647768,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286289594,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453764,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1854662,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27466,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1081,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18213,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55072,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179481772,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239921041,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2150,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389264,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200056,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24140,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86423857,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97259893,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75185,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8041,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427854,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208350,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68866,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636612,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376664005,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41607127,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38135923,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1982894,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171808175,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34808641,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19896035,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3003180,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1232938578,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070252388,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26100,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6064335,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5360906,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31187174,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8202,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52159,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214797,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7269232105,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10518755569,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1473475,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552729,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105011,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289428,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2051051,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103581299,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710397155,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147622,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26396,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26396,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941993,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4000842,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1422885,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365107535,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30417960,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22539713,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134403,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264740,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38852,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107724,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1422578,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938899632,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297217985,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32207,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3692,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10718357,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1277424,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274579681,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26728282,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4885560,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58283020,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34861901,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18071734,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3189556618,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761438262,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73968944,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2557396,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153221692,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2034537,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127104,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11825802,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482089,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126381,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273651721,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66551898,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3015112,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6062686319,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509363041,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134774636,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1321,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28882688,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2724049,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39084193,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180666,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246802,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18420753,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748354,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30158,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314675,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250816150,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95593557,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75785,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5081,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,614622,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13034562,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1067995,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22134,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537820,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727835,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115968,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22523219,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1136729,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461391,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1015324,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121476,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480008,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17948349,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315962,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197574,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359445,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2072418,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37058642,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412859,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519245,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6134,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22014614,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781037,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147680,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632296,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104886,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3580,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16437,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20532660,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9961557,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1828698,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95209,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17677938,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14907,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52273364,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983236,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161603,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,39147,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3800540,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743544,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,532553071,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,137393253,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561666,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34697,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13382258,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253559,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24308,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2683174,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3207,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2777007,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973463,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64556689,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23306666,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,703009,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48512,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3886181,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2176648,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197543294,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41870258,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263419,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84884,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156427,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1244216,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430328811,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12793087,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1626908,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25468561,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31989,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536054,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,896438,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3149439,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286600816,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308424715,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169916939,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6945065,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21499718,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292767590,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164886454,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2722511,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3569,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278245,,,4
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2289888,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60210,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2397,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1088,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62989171,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11050642,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3114366,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2010294,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4186522,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409718,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4385,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61375,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253004497,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78851024,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78448,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441197187,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20583857,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4707,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2236,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22145529,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99314,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20729673,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1779079,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3759,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15868,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63821,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116374,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542899,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5005193,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18104,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1537103,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360446,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528246,,,4
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2820710,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,304,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,10000,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,333800,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,97352,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1427,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,792985,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1888,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,14113,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,300,,,0

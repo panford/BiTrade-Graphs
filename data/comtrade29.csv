@@ -1,0 +1,1066 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309093,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3148,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12867,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286763,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419400,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576025,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539488,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2607904,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26556,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40164540,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49085655,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2394,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21423425,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5385,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7350,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246385,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230156,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1617407,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12208979,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19006273,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14752854,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30731266,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820418,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12837,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16546449,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8964955,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1432026,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10210384,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5187404,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54400927,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4377997,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59851529,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12989,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68600,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42824723,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144340613,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88800,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1762680,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30444,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783956,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231137,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30546,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2354,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2709775,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2902615,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,992933,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501389,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25144792,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10550068,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22066320,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43798491,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600954268,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298178112,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3068633,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118026976,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378923815,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8203,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10878,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54294,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10369,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4617,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242528,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3109,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567177,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8993,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7163,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533060,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125646,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43442,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46129,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2136958,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3449040,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1747903,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75071,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070666,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,876482,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1563379,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19564005,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263496004,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51390,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1410972,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8236078,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13027384,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5626,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181560,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1168,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3275224,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2749534,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480082,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130943,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50482864,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96458743,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5007,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40556123,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33617174,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209610,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1585631,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82750,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789317,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197177,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374370,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455902,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6610200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123450300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90965400,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10911800,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88577600,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349151000,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,274709,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7825737,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5984711,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,24202298,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4725703,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271960,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,24281081,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97311181,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29056857,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7480145,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232729,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33795753,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396824429,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2826308,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68680,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3593032,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269135,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219372,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470927,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36809171,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7323,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607888,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6936683,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47504,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4424,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77994,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268422,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69293,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5448383,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255398,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7232915,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10777389,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87055356,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5336808026,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1604997325,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1419351176,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23040153,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2010610880,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24846786,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61300650,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177240332,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148242366,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4248,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2301,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154449,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238950,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575770,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40716404,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3450,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3156638,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2977631,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4630247,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136636,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4381545,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8182,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62211,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,671334,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48715,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2718167,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,988103,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,76118,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341162,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,12045,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,203130,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,480083,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14167406,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10357925,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14580225,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15029,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4855,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23338,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13078367,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50932734,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19558107,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4173579,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6772001,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3905136,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664350,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15586402,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3604559,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41332857,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1376713,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66594170,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23023,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21239,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137466671,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274249067,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123800,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2960728,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18350405,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1293867,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2836220,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80482052,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217317,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487653303,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290479812,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2620,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11878,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,856,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135412,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228651,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,952633,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209537,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4420,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502833,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5303,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142739,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2553176,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4998,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11496071,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10726900,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4241,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3925,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1800,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23830,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1656,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71772,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571341,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106569,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451910,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3029708,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83881,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121136,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62708,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995918,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44836,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,739244376,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1323560652,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1034,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250396,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5003,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7440,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5784,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1769705,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550406,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13301485,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005671,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30661243,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40745,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227292637,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,644978995,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1171683,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20559388,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24522421,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11049797,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53124644,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827873521,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185805,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412481,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208644103,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354624448,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16646560,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73481570,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89786819,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33955208,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51925679,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,945104960,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2381291,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2160635,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,969892791,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2022877217,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412436,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2505801,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185670,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36743590,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412785091,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17815782,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21871520,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6335,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246853,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9218,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1845,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2995372,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28805770,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419429,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63545,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186070,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16308,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,922056,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189645,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247924,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11630723,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4474951,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22043714,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6160042,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54343057,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12140,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9358930,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20187524,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92120579,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8772,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7959506,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124973,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2789225,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410283,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50549295,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3074,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43520100,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200219094,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178585,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44897,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3629,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35306102,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3750513,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240494,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666801,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11891223,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4213085,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2274576,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83730122,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177576,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9803191,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108909401,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6055887,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38650541,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38137727,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89022102,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3071521,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308342,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5717,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274729,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1322018,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4542807,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1413777,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91933887,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30245,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497983,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52004617,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71500858,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50786000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29876000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15557617,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25035031,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166838,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22735237,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19039627,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1578068,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46557848,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1710894608,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2092603,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11067,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006108,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22741,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156294775,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548263879,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608106,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162823,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1362619,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21536381,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149433516,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116181505,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21859078,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639009189,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513220,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8893903,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71486458,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67528331,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255197685,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503232988,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359654,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371291,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2884366,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23424,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23794678,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74436356,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31729,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617909,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75101067,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143785213,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26827015,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2263265,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11187,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455690,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85019034,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27329242,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92202275,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41768991,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188492180,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12906,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391751,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79667326,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66340535,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49169,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193820,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1896,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159003641,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30674995,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11844,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4564924,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17296,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5446,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4530,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5400,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6950267,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2648797,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15258,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15943,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146216,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6287547,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,422,Lebanon,LBN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6287547,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472181,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7740217,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712017,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2586668,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13040925,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36637,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157889,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281344,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4756464,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12819886,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46188604,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17668,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138373,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6207726,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100594,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2185963432,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2809566824,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225820,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71941,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116299,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71305,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2161887,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63830,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5556873,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6877467,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2370,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998784,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13538,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24228,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594502,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48934,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36519,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100144,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48482,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2231083,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5504255,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14509013,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6365215,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73151225,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15653,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1071824,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26982606,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82025206,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248362,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794057,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236833,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442110,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3716,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131715,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356339,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360339,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7473,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296921,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148652,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106461,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1108228,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15563098,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6743366,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4164251,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91599729,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250042,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55607140,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8577358,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112352443,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378427,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268632,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36616,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4516,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1420601,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626612,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193056,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98424,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1281759,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12562961,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111341,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266300,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56821,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23254539,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67251150,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2459,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5283534,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3690046,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8624,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70192,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20355935,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33433000,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22428367,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13908547,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111029,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111029,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2804,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3032,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2308607,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,948166,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410747,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44636,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39047,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25209,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28772,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19315,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1543020,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24317737,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8218149,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4254917,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77160235,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389356013,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3324523,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751594,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625639169,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652123355,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114477,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29094,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1967628,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1094457,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,526849,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209318,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10495733,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,103611,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659909,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7938068,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10011713,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,87421,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3796,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8093,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319182,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26999,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451149,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331102,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57120,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2439572,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1653513,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302606,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1965804,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12695519,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356584980,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112555900,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117530,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,928724,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36140,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42758,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1156622,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3496101,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15609400,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17583,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2290,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4821019,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10196053,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12761497,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588097,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26819841,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1468,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527782,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8535,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200302,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113512,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3988717,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66142,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8753210,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674691,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3196210,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22660541,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20378273,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4208789,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9188309,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81595270,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62933,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375573259,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1399807777,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260009,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17417572,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57776,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10520217,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106683450,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25660,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16459559,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24972090,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478257,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3245258,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1252667,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2783157,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276792279,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25594762,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26071309,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169165224,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388700986,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5263127,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7412153,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23158565,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622896449,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58462,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380017804,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4438693346,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3231622,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13228945,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260914,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2085927,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7720369,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107459,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5698501,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5553534,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30831176,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30921812,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249856462,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23592590,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35495663,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245125954,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74093820,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32696312,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49126431,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119874576,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305267,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938516,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616044,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27536,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2041972,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34086049,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2634964,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34725806,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180711314,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168775,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10719104,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,281615,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15854,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,909779,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18561228,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10289,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10698780,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,53059731,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135816,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439360,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1344454,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295502,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2805972,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10118005,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310715741,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1346116376,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47923595,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43851749,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129803,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5813256,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4966103,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2980194,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49166388,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596970916,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25160,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431909,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151048051,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229054170,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137908,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1307851,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16421912,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13454436,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17577324,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23090,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4722019,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4795008,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8170139,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18079065,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77202493,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3399,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2226,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,809875521,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414588446,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337160606,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15937443,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8587525,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4397884,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236592289,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573468280,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522871,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46641515,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153941000,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58119628,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252182997,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245074179,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22825454,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1548568,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1548563,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486694310,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482925787,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050903830,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57217726,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,908078,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678536,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23180900,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34832763,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24975050,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143794003,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343599840,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4545216,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1354773,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131205484,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889313311,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42822,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1417719,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141081008,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127385193,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2973483,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9641,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15639,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84972,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274752,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3645,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845076,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4096732,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129296557,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8127277,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27395888,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11833707,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43114165,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475994110,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1221356,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236200,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787003630,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456307246,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1911,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3415857,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634021,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271646,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880814,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28986,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6757225,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26066859,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2249379,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98786749,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25671660,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5107770,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131409666,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1221286595,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119912200,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316749706,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1901616,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21581,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467945438,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381611738,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79170376,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2232,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494917,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17087373,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23086,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414243,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915138,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11233,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2883,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2779720,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5479,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168077,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382597,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480067,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1156843,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603389,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22288,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1112257,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32884314,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3562,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13033315,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2028053,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2809,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84219,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331722,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231753,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291792,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102757191,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7081,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321710,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6326951,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62091559,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3978,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1065831,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290302,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46241,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96486,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41744,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38705,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67029,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55209,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27162,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6694,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6318936,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912255,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19653,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8612769,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169634,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1685,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106179,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24760,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1064,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1749984,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2299,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4731934,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947128,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,864122,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2028091,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9446986,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4457734,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1065698,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437403,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66186,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24126169,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9444853,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1578498,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92812,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,839492,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48831,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2946,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5142,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18963760,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28658823,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9328,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17317514,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8423,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26210664,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7032752,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722375,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40178089,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119592,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696931,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7112,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599215,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441383,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550046,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1129,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11348,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3152000,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1886793,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12321542,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4613994,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709621,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790489,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504528,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55987,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4372,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2736648,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26192,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1440642,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14339,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239326,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52600,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316942,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743895,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118522,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2787602,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330635,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847626,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30551847,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3040080,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93264,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,17328393,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17155917,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276380,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1285537,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89121,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41033,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570731,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7986940,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76880,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6790,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8833820,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6384525,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350681,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13304,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1870,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11832487,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5268954,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241722,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9178403,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82787,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5704,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238226,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103695,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1022,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176659,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127170,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25089,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23731106,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783020,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524321391,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81770,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8966,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,76100,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21116,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80251,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2953537,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366277,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202943,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5958068,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8012,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32547,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2538675,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2869455,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7043,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606929,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60842,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433898,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415083565,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446432138,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80337426,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667784,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964269,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1580,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72156108,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478910,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64469,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14160,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9941169,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16888309,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10869,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3415,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68963,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2220143,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6507680,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31947924,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1046761,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37398549,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26430,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279020,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192748900,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15477721,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370609265,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518346360,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410996,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68988209,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8063759,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157980452,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7507911,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62615,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133127,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3640,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6207874,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10541687,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2761846,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17901,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2411921,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8806964,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8802674,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29911014,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26042,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26042,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18106,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12439720,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14650420,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441978,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363630,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1781,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2748769,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2403873,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46977,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5267,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104632,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3148933,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363259,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47746,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998589,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34315381,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860859,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174142,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2324095,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427139717,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22983,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112192,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144188888,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212820489,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,835,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88626444,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,668103221,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7610,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85299911,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5158814,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9226,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7834401,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17798,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230768,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5650377,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25378,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5676,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205364,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65836,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189036,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3328,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6393,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222562,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,624,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399136,,,4
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216396,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,636840,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20942166,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5536533,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5507625,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1615117,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,12866,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,17654,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,180833,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2830,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,167993,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,271,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,419,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,475,,,0

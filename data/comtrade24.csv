@@ -1,0 +1,1030 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,916113,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17503,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709220,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63804,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1437696,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5669743,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31613,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1019002,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3822,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378005,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2267,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17191817,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2589624,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73616,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5940169,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412255,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3226622,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2057053,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151159,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2894,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6219563,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20043172,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352943,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7300780,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917714,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223327,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315362,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1108617,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3854166,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31628,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1407,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65795239,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56051400,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14527293,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271089557,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88000347,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5529134,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12067414,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19059310,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,723,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6213884,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59711,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437482,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11864,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1780829,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1228381,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75971,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22727,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2142291,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29958,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34402,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31436318,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266616434,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10221623,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55943342,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5279385,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33561015,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1114575,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68059645,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3740149,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15872,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3257,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1772,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1306464,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4879665,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1499721,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210888,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48940,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33210,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23178527,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2793,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33515,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26005112,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1362800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13208800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72242100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2015800,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11600,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107400,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181800,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,553016979,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88430563,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10301683,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,48174477,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10882882,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2081558,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,509781553,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22046627,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966115,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,32554625,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57185782,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162317,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16788,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82800,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26331,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18956773,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9469885,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4098892,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2549,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716154,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19011,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1189670,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18194,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11102,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179821,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14603,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91835471,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109048315,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130430,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857469,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1304536,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3237663,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117750,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106841158,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1959399855,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1466753446,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239956655,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38391190,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188638049,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7610322,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532573667,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402375,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33724346,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61684887,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295555787,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18709,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7735857,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,854924,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10992769,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371727,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50869260,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228855,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306230,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1156598,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33235,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433341961,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560374798,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245410,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11599111,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382040,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20232118,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,158333,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,220925,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1340,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,466,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,79445,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18567,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,71395,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6497,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15832,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790195,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18262,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1578133,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1578133,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11473,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9539635,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7510902,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137556,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1433385,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342221,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277811,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104252,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271346,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,950,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5406,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2378342,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13229778,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2783,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6687391,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273585,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3661395,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101024,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1512414,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,972,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788893,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189509218,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23004744,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1090,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620827,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6130771,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15659405,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42177383,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,852525405,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3197,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40356667,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74551966,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702531,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153543,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11960,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2128226,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1047571173,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,792227922,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1575949,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98849,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7524356,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349291,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319056,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1029771,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23091,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179193,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18118,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63929,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5539,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122267,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75807,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1946,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9295980,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7347067,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10228,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7678314,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230591,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310960,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160564,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284670,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213455,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51318572,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61503840,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101346847,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193477289,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10753727,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3999727,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20401946,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58538999,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2948886,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3785575,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147178331,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337913876,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96054654,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139988368,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11388088,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12889368,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3587894,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29837430,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5243777,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6509443,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660625,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12818,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5886124,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51259,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118755,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2712,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5112,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755337,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5835291,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600389,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36407132,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,742972134,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224091387,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159057,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571532,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95063,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10455594,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5585,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19684185,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152153990,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3381739,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15893343,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15667517,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1715920,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1556553,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35221887,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2038054,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135160,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129267,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2375,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2399148,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377292,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1770999,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85172,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1221038,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375865,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22070,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111671,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46283845,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39523492,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893355,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33990292,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3495,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2706257,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189564,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120364755,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4036088,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524422,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147947,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932176,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255864,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90000,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8483197,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14892233,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146705186,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3958876,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3975915,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2530489,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51829,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2097431,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42561,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3237000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26572000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4000,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1713000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171137325,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144374900,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107808,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4468802,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70096548,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1410602,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21612193,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5772418,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485477,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180018,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22702771,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119536,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2767984,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188520314,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232908634,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1391000,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6921246,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6022091,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42362002,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2956769,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51875181,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2122,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1459873,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20535674,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16942,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1913,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21938,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14514960,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273843,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28169,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219468539,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2730944,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7183,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121976,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111964898,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241067891,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61150328,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31195840,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2924782,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17635689,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1800305,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74225765,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1640034,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301580,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12655620,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30519,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366184,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17225,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373557,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3540,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10305,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17176,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,688,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6352668,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67596347,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16398276,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242936,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63837,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14629,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14912,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93320,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5674,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22081,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1048,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1171229,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314178,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177455,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69737,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68522,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765607,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746688,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3017,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372941,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173264,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219584,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70253,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414361,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743104,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,972,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5978242,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3094337,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4400,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1334974,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120303,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11766,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30925,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3356,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1623,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27993,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145369,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58093732,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34018279,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11868885,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51889948,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025943,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6785278,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341923,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22300506,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21493,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5046381,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5814,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1397327,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478505,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66250,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4085,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112075561,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118866601,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937831,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12088881,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1883225,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3498798,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3575820,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34469434,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74766,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18232293,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4011659,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1594,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4648,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3616,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227680,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1059,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10161086,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501774,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15263201,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66312371,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2644,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88430,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5614,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6733620,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4296718,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817630,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267716,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20377,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236962,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9919,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124652,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6257,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6257,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1845092,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1534138,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532514,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170836,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338254645,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74494441,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3058224,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470145181,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44870290,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33085095,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1821899,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44148192,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53094,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23903872,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19235631,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25608349,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31956,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350670,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1420158,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2101707,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17311829,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,63143,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486879,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467998,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476831234,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110206711,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9046952,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221531,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12506020,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24291627,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13808700,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20111,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,869956,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23153,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3023452,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40480,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2912446,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4266,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11057932,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5822232,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40258,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2310293,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5678131,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39425,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330338,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491696,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42704,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1910270,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23631894,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1467788,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1728174,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77012,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886691,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92144644,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58516683,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99012,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136477,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3928453,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105424,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58430899,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23787,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36358490,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13041205,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5298801,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28879165,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463876,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2348643,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294378,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16736219,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18516,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2907329,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22425413,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14124890,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265507,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16437937,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30859132,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579413,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28672,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4119153,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294735,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102955283,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3488056,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2055036,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,564937,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6695682,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51153,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5101,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69107,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144720,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24075536,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46910606,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12256294,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17956979,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288706,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1067967,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173072,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7518299,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75416,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3599078,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,842147,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38022,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2020902,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2040,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76063,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18814,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6445,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17567591,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281657812,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505635029,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365371953,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8777984,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23167468,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6451030,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92281039,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252785396,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12821175,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180942,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4187893,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1275,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60834,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366759,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221163,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,763029,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76383,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18924,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,942952,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507002,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52981,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74880,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1698292,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27195,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117687,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551546,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,919,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359416,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43667231,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5552885,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18085140,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54871643,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142186,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1526231,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68972,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1272303,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1676,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,717237,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128616674,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249043425,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123048641,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60679284,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5196850,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2953370,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5485198,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23131603,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13054,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12805837,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2148865,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152400,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4419,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4656,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424747,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10484,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3553034,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32698722,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16292,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13668499,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430400,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2670256,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103849,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412996,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296473,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49077544,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28646716,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28362595,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6476062,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20646841,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2298944,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5632608,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998941,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239020,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79330230,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6244522,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2611580,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2722172465,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207132320,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65353471,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50655133,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1505847,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582271,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2098350,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6436281,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5740036,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5336518,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3766619,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10596764,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38553617,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18109011,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95757961,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4088553,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22895392,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303483,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86277555,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897295,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3829328,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24184263,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1188,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4044,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116422378,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45364001,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173070,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28317862,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68318808,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40883660,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9899374,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21190711,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317235,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930915,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31448,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2885,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268940,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7137,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4395350992,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6863597724,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533709076,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23469829,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103022431,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2012103,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321730371,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377450710,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29046603,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,939130324,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1422754585,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67688886,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21926,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3751655,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282633,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712232,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10821291,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181468,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66095,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3021959,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21514,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941814,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425700,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19225,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198370,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1832,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2344546,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147294194,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15200857,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,786510,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13506,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3635340,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152270,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16441452,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1886,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1706,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63426193,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6565483,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2097318,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1370467,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1419512,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231268,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,595298,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14011,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1693,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19490,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4309,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10675626,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119062,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674373,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97424,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409035,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914276,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1549483,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4111,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58252,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13356,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,986578,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603155,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9168,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54599,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92721,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23779,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493981,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169446,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4350,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2219,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2051108,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10414900,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5179196,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17546823,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5633,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38494,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4922727,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103345,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16034761,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14463,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181024,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116546250,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34369,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8483,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1775433,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6229840,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1302030,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38725179,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376500,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161731,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150863,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42059465,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9141968,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1469571,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2204659,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4171285,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142384,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3511551,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69771,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5373,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278940,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52293,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1609,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10189,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5629,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6940,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110860,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51024,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110558,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36973,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3250,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517614,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202457,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4900069,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5827711,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17378419,,,4
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1040022,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2978721,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391339,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749727,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,527679224,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1722760626,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102696,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821926,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42235729,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15023970,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20064192,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56108786,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,17039,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100535,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55150,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34982,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2384,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9604,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3876,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256291,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4981,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12855307,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,907,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8793,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,49127,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20947,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23254,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2977,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566780,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5726586,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10842481,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2054900,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485450,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,753,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1886626,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2235849,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5216,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637769,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1116295,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793280,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435078,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259018,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67420,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1938605,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50312,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6437582,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3359054,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8982,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121032867,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38474273,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24800,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,850,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36627882,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2152904,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1559802,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459299,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2195583,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3513749,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33333,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19242667,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5010559,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104839494,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2621,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59413916,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15504227,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13902377,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1491975,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8527279,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68828,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2698567,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646109,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1889084,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895,,,0
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110420,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2223935,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91868996,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150052925,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13197026,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2761893,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23167930,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65836734,,,0
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290029,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9026,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,733,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1732897,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5914080,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1587434,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7695289,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258298,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217333,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4492,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433388,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11260622,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2742,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2958,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247527,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3821689,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28369,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46593,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43187,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64611,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5842,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71504007,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576446,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97788868,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8214338,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61049829,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837345,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24257,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623465,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33245,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10980573,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5475308,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23370239,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8345072,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7087,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2845111,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13524,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59489,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7490788,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181702,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8051109,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40547,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3269,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1325725,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2820316,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173384,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173384,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2199,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3370,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3370,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5510591,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691453,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3217,,,0
+H3,2017,2017,2017,0,0,4,Re-Import,328,Guyana,GUY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3217,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120890,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3753934,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203559,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491296,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1251080,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188378,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94052,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,803264,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1851,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1851,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8164387,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241139,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39735,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17219,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18414,,,4
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50004,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19904,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19904,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8377575,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1887342,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1183144,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20384,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20384,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6886704,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6756,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6992383,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2613152,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177519,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207102,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1049209,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3438794,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1155425,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1028036,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,31423,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2878,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15562083,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,23930051,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1402709,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,54203,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,520806,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,87442,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1345,,,0

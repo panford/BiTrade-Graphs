@@ -1,0 +1,989 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163472,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17670318,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48748179,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8774497,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4574,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634055,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13628564,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64277845,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16272,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420708233,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456827553,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413074,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312206,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70894,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47349,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49383391,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8283894,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28317075,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15153010,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41081194,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293742151,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6361,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615472,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26809827,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14929007,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45288358,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39978322,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50794967,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291294416,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94377,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12200,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9003024,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4350615,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28763,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781478,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1347159,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191378523,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98980654,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276464081,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109093534,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375367799,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1429204488,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8027,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391968,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22243,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62542,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,959612,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2308526,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4751,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49108365,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73277137,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401190,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857933,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97366,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92366,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1537745,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116921,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8679317,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9237,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8306960,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14469433,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3435,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3152758,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15700376,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588458694,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131335004,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836680780,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155470227,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2417986425,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3062,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1284,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3520,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18482,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541916,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335361,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75954,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675078,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4833126,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18944939,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2404074,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635619666,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536667431,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9304,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41774,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142434,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15264,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3384,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270160,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184616,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197400,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1152000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475500,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96818000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15009300,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21338500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68696800,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,305957,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4647545,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241804,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,944677754,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127868961,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7907244,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,162714208,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240032457,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6157379,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,763703688,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224173494,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11082947,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2831496,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268465,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5535136,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1818053,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13951,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8398410,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10099512,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26602932,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21982165,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72961,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84552,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308243,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14475446,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101466657,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471655439,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507693723,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10719816,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6307983,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710143,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49128139,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167587415,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1702948057,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1127738159,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2963208185,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1341934131,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9485643131,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88740,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597277,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47305184,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347059140,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715385487,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1465317646,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17840198,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11023376,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117624270,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422745,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19824213,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29908151,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24321,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1090637,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61571047,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245493338,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31988905,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38135443,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2131970,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632963,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,65,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,176243,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80399,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13661228,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,231215,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12095401,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153483157,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120375,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155467,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674776,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3189,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3915729,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120869,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120869,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,55412044,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71468509,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7991216,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837917,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35381,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17819150,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5868292,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43899795,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15644617,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83900417,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262754316,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21450,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434512,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7405117,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79417268,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19072083,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19777630,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23974170,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161747825,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737531,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4671971,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76267548,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23764954,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6609151,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35300,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57135,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148763,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27410598,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65932380,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6716665,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650783,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1420,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70359,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14064400,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83458547,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55946513,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7731316,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388243,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56297,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9776,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349330,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1302104,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143077,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24465751,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290689,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7560317,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35712396,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23860,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540176,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11183,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,640994,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35407,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35407,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137616,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6830,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1372513,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6097123,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10863939,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17401398,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29248722,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25176609,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398924561,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1508352,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4440674,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164928645,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168919049,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450903765,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119948462,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,697130925,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2091272084,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152897,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1463489,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197920908,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267354676,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573054207,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514550694,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1493476665,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4946222497,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28212,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555226,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9996163,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113011994,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592181,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,627294095,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,853737537,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18575,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44330,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19997,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343371,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21733772,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144877192,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59161134,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43789082,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5214649,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16168663,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8041,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30252,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16772806,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42697219,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60856062,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22962211,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540930,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449053,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20264153,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102817747,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27998025,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128356097,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69697889,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549729567,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167346,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50689,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7176284,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49288,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21376555,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150422405,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125769016,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406945,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4990784,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234514,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4693226,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10259486,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13847119,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645199,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11175809,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53474933,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90872268,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57289525,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252357705,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1253623613,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6000,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105638986,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126631,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6475845,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257463498,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57800,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377570,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14865531,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12931643,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4752293,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7304240,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54976823,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181964493,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4653000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26249000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6378000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24905000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65295000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85602000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12612,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2420312,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63063772,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339670062,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139293,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453310,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537745555,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262168461,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1212026,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2062338607,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3294184688,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22056359,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1145000,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,750521,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5475353,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93796946,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264656384,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,742008174,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393747076,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131733941,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837245083,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1267,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535406,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2123806,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25803436,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67154,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50737650,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11658329,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1549543,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799553,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8248898,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66133,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,472926654,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,113913805,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24651813,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92120,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3791473,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118775201,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266911379,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127802797,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608864602,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89642721,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1324894253,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197858,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7347917,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23573741,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279025,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423457657,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55816433,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15402,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9250,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26540,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220140,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7667218,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108070,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73954,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15369,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3528087,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83950,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4925381,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102276,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593133941,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68357940,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4181,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58161,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134003,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1856859,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128454,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3162959,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2778737,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55541610,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,879824,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38404,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2595518,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11676225,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1454519,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15270364,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29610039,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382523,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2670058,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1541406,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10349969,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758120,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17785333,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6334,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12822,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5843,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157295,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,871847,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221607,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86516799,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1485407,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902779,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41059,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1064532,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5212171,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46890876,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113295524,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33788866,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132855429,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481066432,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82572,,,0
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167587,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4072005,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101000,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135886,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33374141,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160884,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102712,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193518,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73440327,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124386202,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12548318,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142404222,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28595554,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362366039,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9944,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131905,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013381,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975074,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437200,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140245,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3897278,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1597930,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2993923,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6937,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451836,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670752,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3662117,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11042990,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796117,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454602475,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60330195,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298358,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54444,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17596,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92665,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189937,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28348,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67149221,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94356360,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8661013,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52581,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13720,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532533,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199466,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3226266,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178083,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7130,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3029793,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3746318,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114475203,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138527949,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355381849,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512321631,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433623623,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1325984530,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4950,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6297,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10825610,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16178067,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,34241,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58725716,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3661506,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102360,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4593674,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,200654158,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,98980,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3664,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34795,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25177055,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17170674,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46994517,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6166802,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289844,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8768,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221011,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14289779,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47687631,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27948465,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8871217,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36154884,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314487660,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114358,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28593,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355243,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13060720,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819749,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10232601,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388566,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154069751,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77183979,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64631,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20565,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053725,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10639,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1089782,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2210193,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6275869,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59964594,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2194394,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44998164,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20298,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384670,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11253613,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101121931,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569426867,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,812671094,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7295413,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5680456,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268084,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1212040,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37994785,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14163781,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185982967,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21110625,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141770298,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276377712,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103309,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2165144,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28731542,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29160813,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16203399,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111678854,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135038502,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3544,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385842,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1503824,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5137229,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10778952,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128425508,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503370703,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43224,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386328,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20244564,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32023572,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1310458761,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218977274,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504794039,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3878260155,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2534813,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509459,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17520610,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1902009,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40310017,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29961684,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253469,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1675080,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593899556,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195834610,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331946585,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264395805,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1214149175,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2345392408,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808383,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8214,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3326417,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1431945,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23872713,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7384958,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65680605,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94172175,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39408,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44514,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4113099,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1124488,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14049377,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3783671,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,67442329,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47266821,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262827,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32861,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27600637,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6599862,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10626936,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9575231,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134077245,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180454305,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210240,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222918,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127122897,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582076203,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674825448,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600303287,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1277970745,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1427416572,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16601758,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69800,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510402055,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427767770,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7384,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2057739,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44576501,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33201321,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59625413,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48700107,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34253794,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,729897994,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2894109,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184201759,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29649682,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77804745,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126196969,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334889319,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905662314,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210221,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066726,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1045470,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19539181,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10838537,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5445061,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64879269,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9026680,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3608417,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2101177137,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2722388526,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1972579914,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157277,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530859,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15431462,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68107578,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99723997,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38268261,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997503294,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2360734145,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4779,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1219550,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8932449,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5644552,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4043849,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1258303,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10678480,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167149066,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129345218,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211162205,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126205286,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,807518506,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1559042299,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1668,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110700,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5064,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136800,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547742,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28347307,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1395155,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1319443,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166961389,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14749535,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4868055113,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7849578070,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579389262,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6758664366,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4831822150,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430523024,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1718942452,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3990352830,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186315281,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33474,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20758,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8555545,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8113917,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31188217,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12890133,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17920468,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28648274,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46462,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4832,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13633154,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14808,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8765,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3440,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161416,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22301576,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2787,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6564550,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482900,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8040,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166763,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3844950,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109862854,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323426239,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378803788,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35230912,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1262126468,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56266,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299918,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352336,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127869,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71646,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2148185,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110008,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20389,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368932,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104732,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109647,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1222,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9988958,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6971267,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104968,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106675,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662745,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975319,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33992051,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418659,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182090,,,4
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1618223,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384441,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123335,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6073363,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21916486,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14506,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18584834,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8693885,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6428680,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3354390,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,853498,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4957,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144712,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319053,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131019,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491264,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63379957,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11097092,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11358,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27576,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266228,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1820036,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32880,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44642390,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11055111,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1541985,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3555505,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551475,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95397041,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1253509,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445969,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2856880,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475763,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418002,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905087,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79921,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727027,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177937,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342256463,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183850682,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1266375,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98992,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266758,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270101,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21593716,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49018162,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38582,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,909,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27109,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7532581,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3970,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19034,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9469527,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1012332,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512231,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30442689,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,144450627,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714059774,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,138325306,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,621862191,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71025670,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52416636,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7748,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88859,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5875,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12495459,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9344444,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229809,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54540,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17466,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3202,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24986,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,122618,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531992,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114623,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35987,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5315,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171298,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95049,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25945952,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213518,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21254,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16950,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134718314,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1608542,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77889280,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223960691,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17075,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612003,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8247061,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9594027,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16544717,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1705570,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33471327,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9873545,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316563,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4978361,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4895672,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647872,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79496,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17203,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16894504,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4587366,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471620,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4455679,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7087016,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131531075,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18365705,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072934,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2264614827,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1419413665,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191606211,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,974851,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502908,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2134350,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21693512,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417008,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61990,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2354569,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41379066,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8565250,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9961965,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60449482,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66168917,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412881921,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31493973,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78685230,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35482472,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133943536,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25423090,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320986656,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4496,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22415,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9832065,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,655981,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5573,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4490100,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5185,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1291,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27885,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9266601,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186994,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185278,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1228571,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331999,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17310406,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161594,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343247377,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42150068,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108215,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174888,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129186,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3965,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4312,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69984689,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2574811,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2394510,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20983,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18421,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4008880,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1141495,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86943657,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384612,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76970207,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1831539344,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1406341,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556073,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097156,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4982821,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3346169,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6782040,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1787667,,,4
+H4,2017,2017,2017,0,0,4,Re-Import,818,Egypt,EGY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1787667,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4055,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8092,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17661,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16981577,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1776992,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2229557,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2077816,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6314754,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61842,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58554,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150380,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2087,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142166,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1903434,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11952,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9582579,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11784103,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28710,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149698,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423500,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501705,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1024312,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699901,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347584,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2480515,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1553,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1183,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32409,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295589,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5799965,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392016,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3090756,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81864,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35861,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212653,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171739,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1091,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23663,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7391173,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5791,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1611997,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217820,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217820,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235374,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36631,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5323073,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131408,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48500,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22132,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,147768,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4497916,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1047110,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,9530054,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1983702,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,60549,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,873200,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,191972,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,114984,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,36288,,,0

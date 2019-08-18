@@ -1,0 +1,1203 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60462,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6194,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8361214,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9848,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271473,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608120,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34966260,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98335,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24463027,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1205752,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1633017,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460557,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13498,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2829,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4688193,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24064,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6320,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8206,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4070464,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7865253,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72092191,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124718620,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664035677,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911392612,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1075144,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1141283,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4136324,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250836,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379765,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6062251,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34610154,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38612510,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787501305,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82075720,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629141,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561621,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25489665,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142420547,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28089,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13857586,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24543,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37638706,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6937037,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12711857,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3461395,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145785586,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94761619,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,989175611,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269974570,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12158,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4108712,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129739126,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188740630,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18939451,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718382,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2256381,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21927,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106515,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85416,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5663,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2296866,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207645,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1375,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,465,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22828,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1387222,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51610,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26272961,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1346214,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13188,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16925849,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441338,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5602934,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261896894,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94755171,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339418254,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157345311,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600077989,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324848,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12189463,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543160421,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12422996,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1140,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22368,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1083,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1318465,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65943,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1290,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1480,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45384654,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424775,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2308723,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3415960,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16321361,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15218,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69565,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23177461,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36585670,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57600,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69547,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2830612,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23807204,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128855404,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4604592,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292900,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191700,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31784600,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88521700,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29600,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6700,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9939371,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168919944,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3672110,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10416463,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79563966,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4122775,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1270553647,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561040538,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7186328,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9696384,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28555011,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2699099,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,30412845,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2331360,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160919,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28933,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16497075,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12362439,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3043,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43575540,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125060484,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2659308,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2552,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218008,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17381172,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4637209,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97956,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1411287,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1985599,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69903367,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83855268,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28521522,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658844,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2358812,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582619,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3883569,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21008615,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278492711,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123945740,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902519415,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,875144719,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15169021003,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24771159,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107797967,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515383927,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933361512,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4703,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,802694561,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16956983,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746498,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54333441,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174695,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245535,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4594277,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25728081,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716134,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49419,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7474,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31820,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331956,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9356936,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28470,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22298,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14391935,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568719,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66936,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9274350,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5200790,,,0
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,55782,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,38567,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7391692,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14923300,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3999276,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33378,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9037508,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9665674,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10686,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10884557,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10795689,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407938,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5608357,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1144099,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4941038,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2726704,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2277206,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6030155,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396037,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226620,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670851,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67397,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278419,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741833,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16470208,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25938905,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487683138,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34628035,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005679,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267240,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121305698,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225588137,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410045,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15261391,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1723702,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25917822,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704755820,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65378240,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,839568,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4499229,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18963953,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66822174,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12643828,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11229166,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76824,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60114,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7067870,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2817348,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7824125,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9346249,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349924,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544477,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239829,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072277,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4551926,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1513959,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13366482,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1328001,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87985,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495914,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9027227,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3317774,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112927,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2833,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1685,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10441011,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14782,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16903,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241350,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31137,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13843,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653468,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427061,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560799,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30289987,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3450411,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323452,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13607,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130798298,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105219647,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2366,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65962,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1880103,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389657,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105395,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7698,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657988,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1729586,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20695714,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724574,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10867354,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168977890,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136480070,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,772948,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472859,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18281386,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67695642,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25046917,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70363508,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238524518,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301560402,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2771812472,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215984223,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7523584,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20755046,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59973568,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167961113,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4435243,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36078652,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46578609,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510598019,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6111630021,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820914607,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1906242,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17271295,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575085030,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1666474211,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10418677,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50990567,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436044,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11047873,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54048458,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33679074,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21149,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4551852,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2570036,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11802155,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15612,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,960,,,0
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,871,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239434,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660591,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7784543,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44989,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1048893,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813284,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30967483,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6548121,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3071721,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7163,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1942807,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7500,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6218038,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3283826,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15234,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1428470,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55108,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863239,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66199684,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70629583,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89997566,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162986936,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1508603209,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10907205,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1354920,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7333887,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86972865,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1118549,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97411,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,887735,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5650261,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5152681,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6636537,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8969,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4726820,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75366030,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116763545,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5296,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2654164,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9730,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108271,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10877160,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242642,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5291,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181827,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794369,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28646609,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9707,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683129,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158959815,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47359676,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73185646,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596615265,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198837,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4779615,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201788156,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3519688,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5530044,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11618367,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52775102,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81775803,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16100982,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1766916,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8842326,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3195079,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1485970,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41492048,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206009823,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32742251,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131010,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1362502,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9600974,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4166715,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1916000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39241000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1256000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4712000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24869000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930630,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67889348,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30671,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124486994,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283423377,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4092211,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560630272,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821008316,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4603384,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597739,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9193841,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86020579,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412973422,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8602171,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163026,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16348877,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528006583,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378851108,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,679071460,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1168053100,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1742806095,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67954,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91392996,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20031781,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22163165,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14606,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2101641,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168337,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45833157,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229000,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14518,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508567068,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95516996,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37670710,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65141296,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4075121,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29377187,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13544631,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579318,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761795,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63849,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13512,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31343,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1737240168,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393886398,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289756300,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285756246,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276319341,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345726,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8354015,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44612722,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28644879,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37920,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30580,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303474763,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86165503,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73478795,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19135192,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3564207,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2378,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28831,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3100174,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4776,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3406,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108651278,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7083935,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136552,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39692340,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14598040,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44266136,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20978856,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124591,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4510,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16105756,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26693,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149852,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216642,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295308,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15494,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460887,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1728239,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3394651,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37408,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272503083,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174588324,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403577,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731284,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458939,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2174602,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4328398,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3963,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75012,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,742352888,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1136018178,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45859,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18883,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10255,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8674249,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25505779,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8518033,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1585,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195357,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771376,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3388626,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4379338,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2864916,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19537,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1584952,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569879,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35536,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1613813,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15979131,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2581627,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129906302,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106298395,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221133534,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1524141581,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15195224,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1707237,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41975086,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1368421,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83533,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366930,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22952,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2964661,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,685552,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5675,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10933440,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21233,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6831626,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13582069,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2599,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536464,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1816122,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403553,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941316,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146747994,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60359800,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84245673,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,996913450,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1868561,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3598847,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37720744,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17738129,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1284,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104090,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6732592,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1090,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26715824,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159343,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11551,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2254,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2982,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8666043,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130773,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10391,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491073,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607352,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44802,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77712312,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4075476,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43256685,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91603777,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59908,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18946678,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6151731,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52182,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8010,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300282149,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104898310,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7285632,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4239032,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89112033,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2320636,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17914,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6938,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1838788,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1226230,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010871,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19528018,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11551,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438804,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116293,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2526,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2281,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13589886,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229005070,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136980758,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185761378,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1416490827,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368360191,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4548907,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15498103,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215344471,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285618581,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30079,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1667135,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42819,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3721147,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26954319,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123636,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76868975,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219613002,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,340423,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014610,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18595357,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,133056,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1821205,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,832955,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83689432,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121441,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2982736,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56650,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1689,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3939896,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493767,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92371405,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40194129,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7496081,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276391473,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34580801,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294389,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1284459,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106575005,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139635562,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1475889,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218268,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97706606,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42454521,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,720376,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656291,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71890515,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646403937,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3145441,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534435,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183638,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257103,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70168643,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315715,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238453,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3212099,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2639677,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114787963,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53012,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27636637,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204751,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13756913,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5275493,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383655,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1479054,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52192769,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3398767,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61763,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1628707,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4577887,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64013,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283155268,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305337613,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32179126,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49145809,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1313256953,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46691075,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19062659,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19987310,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1067779019,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482001258,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19641,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2495437,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21411,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32342133,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72280860,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10899800,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4717,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2280893,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5850368,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9919527,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2593,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9383,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222325,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10327298,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32421320,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3185220,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148003,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114391597,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43306491,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301587,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4390864,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5207893,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5173905,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,885994188,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633233448,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615953,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10691594467,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15537356773,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49217,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464091,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678413,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59951078,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3798693,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4493,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61325212,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42258430,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40075489,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7355015,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360287004,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492861440,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591575732,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7210099516,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104294,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12017616,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189111860,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44836893,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1763,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2115,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24465,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11964773,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301183797,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3011468,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,861834,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10555,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81832927,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94957904,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221033,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184260,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376627,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11833087,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,102212397,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4837968,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67488,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160416,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14804699,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54815221,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18555406,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11721592,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371101160,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21894933,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76828864,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163065388,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2295171,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1379780,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3306123,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886244,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7337428,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203138545,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108516446,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138846602,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2789309359,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162571509,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432517,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11200789,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31522089,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94759550,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7673194,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2449214,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67306715,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1017934,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4887840,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80066923,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1293429,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30863982,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487896249,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48462576,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000869,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10616927,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27047392,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63666294,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24541938,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84156094,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61409324,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282700912,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508071887,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179361239,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27972496,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71267144,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29177393,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86005800,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1609001,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1422218,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1203921,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2305987519,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2348140673,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1258974402,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500519348,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,779944699,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235827268,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133369,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152099,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129625,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28890158,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11327129,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7731941,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29435,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9782850,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186751491,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227469372,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737093731,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294544374,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066474,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5426851,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182969357,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422011400,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26334,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36928,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9859562,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139262,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16824,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1910166,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3009501,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7287586,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37741065,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80526594,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637001896,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3567799974,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303630421,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7440494,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56534128,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69649434,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164498976,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216406,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26900259,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1049160,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2541628,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14393183,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5051,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,640850,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561766,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470763983,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3058494857,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110336975,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032996115,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897925696,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54965661,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5890025132,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1473824735,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32298720,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50133728,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525245129,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108363165,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294890925,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72668182,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6606694,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33435,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2921944,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053822,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8691228,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19661595,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136924,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4879488,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2490601,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290232,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241553,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808303,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5536,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1262927,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49427,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339715,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2855,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78629,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27021,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9420626,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295032,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16859,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130214266,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17486299,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5040687,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12189349,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7707429,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5320209,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17520068,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583529453,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13625,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672456,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11761532,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75030590,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1657,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9701,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13890,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,812,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96339,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28636,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22556,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181088,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1018212,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13117488,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282174,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641854,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12679,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506674,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15359,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135973,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4069796,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80080826,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99755,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127163,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1565902,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7125414,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10841,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118379,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91387729,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2074,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42138,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2822311,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2858,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240817,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1616172,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667083,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66941498,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27545946,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6068706,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60037,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3914,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13693,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102257,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104721,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282848,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8524,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911019,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,732278,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79756,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382879,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32101,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71579,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1306244,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092276,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21298528,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53228820,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1125,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87919,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29532099,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32753135,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4947320,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1632075,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11055,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1486,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509530,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9551,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9551,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26549553,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14541416,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1916200,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3512,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3512,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4525,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2478344,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2474621,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85558791,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9430032,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7702283,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9470293,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3302636,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,757,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3662,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1558335,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81431,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57159,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155847,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302706,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23809,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,891054,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696694,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764442,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18964059,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111205931,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16962878,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9569095,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3814897,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208761,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11393,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700973,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18434226,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19160538,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45917830,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13892231,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,266683917,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8124103,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538454,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14767309,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5473907,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1234277,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87495,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9034136,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283662,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41238,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114591476,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110076971,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37822491,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192220,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1591,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14661891,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4659246,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1519026,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329068,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98266,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12876,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9700052,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19473,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38889605,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9776077,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579050,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9885,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3493938,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58199,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3074391,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1118,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12522983,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7558,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9283,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782985,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37464661,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7353946,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40438011,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13512627,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28276,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208240,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6710223,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449459,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165944,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187373,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5226,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18690371,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6559951,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209354,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394519217,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1613938410,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,732131215,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350546604,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432572016,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7355181,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158113,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1466,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1466,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5477636,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464672,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40872,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93982,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12869,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4234875,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13561,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9366848,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5338181,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2893946,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657303271,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260038047,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118642761,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272903080,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2879385589,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001237,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7287076,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6190440,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1027209,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41258913,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12598058,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19899770,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53963393,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,868728520,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94340430,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7130983,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568391,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1530,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248252,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269104,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49479,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342449,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271942,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14705465,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321186,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3337728,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,908520,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223655,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14977079,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1486070,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13791594,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90464981,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8870,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1709122,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10721625,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531504,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4038286,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2803147,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95659,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4753,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4309,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24151,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57252,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4669265,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70040275,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372256182,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209949,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87878,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3204387459,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148447877,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83169073,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57262805,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48787668,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75868689,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47052,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62428086,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5915112,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1772,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244123,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3392114,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52534,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9319,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19029,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522522,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32335,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32335,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50027,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37886,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6981743,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511111,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382766,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259341,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68069,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526210,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11520,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11520,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16923,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262433,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24015660,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16166754,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63461,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156269,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1125,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1125,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6494787,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329950,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50217,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4392,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13605,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13605,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5503,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9062234,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7827464,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1662309,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37772,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122416,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375302,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5530,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548289,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2134,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8524,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18866,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68578,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122844,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335386,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12242,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34873,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35000,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42194,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2012926,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4454839,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96734,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,33200940,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4339206,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1754779,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7944,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,225,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,110,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,156644,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,48978,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,575,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,320837,,,0

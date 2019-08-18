@@ -1,0 +1,957 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2323,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3387,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6999182,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45649,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2681009,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7776524,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8407,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15185,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,903720,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1778988,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3859947,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,636308,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155373,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334035,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203130,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2065159,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90558,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11454,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1321982,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25743932,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96420,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6584139,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84100441,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36751231,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591883204,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9110455502,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15461176,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53922425,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31256,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59389,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40838678,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141569394,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153566949,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588433767,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2380695,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2786701,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229388,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6424689,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,944638,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481505,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,805,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29741,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14458,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26390,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633639036,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444147506,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660840962,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2407045308,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3004711,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6399606,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344523,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6244235,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4126,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1145,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225294512,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494645699,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5943478,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6729763,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12424591,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3523662,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6914,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10000,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17555845,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198616,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3932135,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,906378,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13501,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2420,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19653,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82200,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1442470976,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2507787228,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578311114,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2682541516,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3648759,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2265929,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17063,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2382,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65844,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13529,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24339584,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7449458,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18095,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2624711,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8761339,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105085595,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68170309,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392868,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63563,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5013862,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366306,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28330712,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81200144,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726353,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4781,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21432200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51642400,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6050300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11759000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23100,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,70732,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1166076,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31005,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,55598,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13447,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,757207565,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574784947,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26863484,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,298120291,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721667948,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217291038,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5558977,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23579722,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3781308,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,931,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274265,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15824979,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438955224,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200431535,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16763650,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568957,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,756226,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1182725653,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702573737,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82122153,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104801672,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161158,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132348,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3885439304,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7439749642,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7317183822,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279210546471,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103999868,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3168949080,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9493,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49922342,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84319664,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63304,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265798,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631882,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79892,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11397088,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431973,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2252,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11067,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307482875,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61154039,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169820283,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41163446,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431530,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10379,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,631,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7970252,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,202427,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13261657,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41074509,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528650,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13733,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40295,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405935,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,802250,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1242,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26713511,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28605769,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18554695,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3562,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49564,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49564,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15794,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15540,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34426043,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49268932,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131468819,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345943478,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167783,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6611877,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14783320,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55544151,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111319777,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596242718,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475405,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4088299,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409505493,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41074332,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78390698,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59210194,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14395,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3428,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603068144,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,763222021,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38024675,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24363121,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12704,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136247901,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13088145,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16139076,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5606889,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2714,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2260,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1773523,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3106053,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6799038,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25973407,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573375,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46234,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596430,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044839,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70848,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3762,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238931,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10986,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2299,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65316380,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9659529,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1389110,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40747,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250498,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66612295,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119173034,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153022088,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208148837,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,721782,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1232277,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463409,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84137,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,562536580,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566907436,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,757882915,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7074310823,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10028073,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167850441,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1348274460,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1890873516,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1472179168,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7818006355,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71513160,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79647337,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24222083,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13553472,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29074876,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89757607,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,693410,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529022,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6426,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91952,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7972,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400317982,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62123526,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199755557,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19869737,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27273,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6176,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134550511,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10935925,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4114455,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3492332,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12394,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42100000,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469548839,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,918075983,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5497575101,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714529,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52789601,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719985809,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253501770,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10172100,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1507864,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2810618,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967030,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25310082,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13948022,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40763,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582195,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59576,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71984,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16112168,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122325241,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1837842725,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2397923559,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11745430,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5292085,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2015009,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708516,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104105330,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379479642,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74800,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41949,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37162,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8769,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138142057,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71363618,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111317788,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771701314,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579202,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7521144,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14581000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83424000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912430000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4216942000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22357000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12497,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8343,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18231,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707918043,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665368210,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,898345,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307163021,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6764682167,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61001718,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41776476,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9038453,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195330910,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434564,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,877323966,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005074670,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824557342,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35437095849,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22564355,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429023836,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1883,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3325065,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63649,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7218828,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14910834,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26649,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36876173,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278546,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13601,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10314903,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15583318,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289133,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129719,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87990,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21317,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,651350631,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813717836,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1877775162,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39059145761,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5751584,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40354401,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5378885,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95644,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15769832,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48411880,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179133,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33819,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447945,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1876711,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9021,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2089,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35671450,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637369,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34354478,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9202939,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36983,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13483910,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383303,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300508,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2849754,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17917352,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33867274,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83076,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800577,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2498574,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18550005,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38330127,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1741339,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1127890,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8073953,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8348333,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29598847,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41751,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701661,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2877,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201572,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40023,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5622981,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22288770,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111631,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1632,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14098379,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254388,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807947,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58315497,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97780473,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3261911018,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11111390200,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16346351,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22637140,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31343,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34160060,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1224472,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6544,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168976,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2804,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27759479,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7549056,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73562,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2751,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43728,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9403,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125802353,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323835556,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1514432936,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41278667985,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6709719,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112179766,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133801,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8070817,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12277771,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2390994,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85924,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32980,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2359629,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794714,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35889473,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59990449,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13257920,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19735364,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9174521,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157446,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21160,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69700,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5205671,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167313,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47075257,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89055118,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77901098,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10408,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26383,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1743,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1743,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20128389,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43841297,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40592474,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2696,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159809,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164353,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231586,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,974547585,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483385901,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6156433070,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2399980672,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4789709,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85356025,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1747294,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1925455,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,803973,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52701,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18465328,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14624748,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5460007,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63784594,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,875991226,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28339742,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400351,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18867078,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,79930,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38775035,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6463722,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10770236,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22383875,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10758,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154098621,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29815035,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121955456,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192772394,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1583117,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173995,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175221,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5138,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2140953,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34497472,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,848,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94566361,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120549723,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8630627,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592134,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59779,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12600,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27218266,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6522709,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60823140,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37604444,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29472,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19851,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37849,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54459,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3857,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482457714,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673472134,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15923190,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151054392,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150301,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13375,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22865,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7891,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178902625,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70532002,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66046255,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446902004,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2943123,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22615198,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414970281,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50934750,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,47242486,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152685045,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394586,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28833054,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11275996,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115107786,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15882207,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72035465,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35281,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336292,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1095,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116474686,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422905717,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219870546,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684650636,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622030,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36091,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9288,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11474073,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1743550,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23623354,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35036388,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,775368,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653330,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4686,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,648953654,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910549825,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10993438280,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15020619619,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8429054,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7307536,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67800,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8230,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15654576,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14347123,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81136914,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64736275,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295240,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183767,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6662,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,27493921,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17258431,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8539082,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47516100,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1564203,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2556034,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4012,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25392,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26537144,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37841923,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272159360,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643327407,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244343,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608462,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18773,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1109131648,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1102786945,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255102070,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1147029566,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3284757,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19492350,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157997,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3720906,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33952,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1673026,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142856,,,0
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58940077,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107421850,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001729662,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467106972,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7672201,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2606509,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11213,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492996024,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494101680,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9372120056,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15991711924,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5933048,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46142355,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50975,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50975,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,986,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2699,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2699,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96316566,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46985207,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28834216,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3498349753,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5357505859,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4744586895,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3313036,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3348901,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261135,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40340,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1610651938,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184675447,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98589883,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628097497,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89943,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255260,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7310185,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25664,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3559518,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7189508,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6305,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124518,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47290,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36612,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197114,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272016,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512457504,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588036829,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5356919869,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9337239880,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3868640,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68912464,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446205,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273985,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51882018,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43347853,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7767,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340549,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476695,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94141,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260673,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452079,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178725,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14126818925,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13374613450,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1423135433,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7525028829,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39837440347,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16085673467,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98094903,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502134916,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104355876,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33077070,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21658503,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21878898,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,51395360,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82200,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10599,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800852,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49347448,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145530734,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374729,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71237,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2643441,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93096,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232988057,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557599471,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14527846,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266910757,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237983,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10873,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1771,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25711996,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263708622,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2819927,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19642040,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,763300,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101817,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121326,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15923807,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6436486,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4656,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3234,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600656,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5434,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2662884,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93833,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7433333,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99147,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100496,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222395,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6035,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5752,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611550,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519162,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32345,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5780,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14789436,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63077,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78757,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10167109,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,681990,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,50999,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102578284,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6346802,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5887700,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4287,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1682082,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17279,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2809,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794546,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360638,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78711665,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107239975,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6490861,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386453,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7530425,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239867,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94843,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282594553,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117920,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75633,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31705086,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17639473,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1706175,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37320,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2273,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235158,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846704,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66974553,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62004666,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917483,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23902,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105013,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23850163,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555972,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48368,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2267408,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39081,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860068,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66390,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10727,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,396394,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1674329339,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3164181825,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,331552159,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,723744428,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,497343,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1293579,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8968,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1075281,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983147,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758671,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519158,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1077,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829759,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2863530,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,21277392,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85540487,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68915,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3452,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23781,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23025,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9715,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18804517,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1158107,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16582942,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17307999,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15663,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7448,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3198791,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79322318,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200099,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28013,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,686,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2898104,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30964,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35541,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1380,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13936295,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18428341,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2864717527,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9024710307,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30657105,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24186846,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6665179,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31391,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2196180,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284824,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28939941,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33001387,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052207,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53950252,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313551116,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19423376,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600687,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14146,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3623208,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494343,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19260122,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4788809,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5759,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104938,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575620,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,927628,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403140365,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103140234,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4438007383,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46010513214,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15398927,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241524665,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17049197,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,465921638,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1664884074,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7574306658,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17596637,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5933005,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80375,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4600,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6673,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48997574,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052747,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,830,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2339856,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322493,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20191,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1530163,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357592,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30302,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5067015,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87646,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36223905,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36556073,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1825,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457750,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3333,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2063,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17314938,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39472627,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303794,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33596849,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33074406,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29097508,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54124616,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6400,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17748738,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10791415,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60843033,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24103352,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43885,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73007,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58009,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718826,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122527,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13260965,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30571,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4370980,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2359166,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148863,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20125,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4101,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14462768,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574980,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11053785,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7447436,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34054,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2325,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543334,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1240931,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33073,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2959812,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280243,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24023,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83450365,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5129431,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759027,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1904,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267065,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26583594,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9322,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14544582,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180217,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8893,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5633397,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324304239,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,54,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4887,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5340181,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,89241,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4088,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4844167,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7675487,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8672,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,9558,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,107,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,59437168,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,559259,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,224842,,,4

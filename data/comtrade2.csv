@@ -1,0 +1,893 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80219,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8365203,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1926,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221532,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67417,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7617,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1518397240,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16864309,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45338,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35984,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14613,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5861891,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,518135,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5544554,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2626938,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674564,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611991645,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95033510,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208928,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537052,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47247972,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34508,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1447744,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125631210,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155133971,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40091,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43914,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6164162,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83558,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200777,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113421,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285944184,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208209575,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3828816,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1256078,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389920936,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722426212,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66936,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1389448,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,729,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10127505,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369579,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2100,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1766,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1166,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1164041418,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1275467713,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30872901,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618573,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1711,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8356977,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137600,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265736825,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670449108,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32003,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7707353,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9435192781,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17618822550,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91288,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789937,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52407,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13734481,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16660,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940719,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92288,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54410843,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31567493,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8122027,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3453,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9502581,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5795433,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311135,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31569700,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10100,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117989400,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7823300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3400,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163792,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915833,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593065,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,130599821,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62388145,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3931366,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,217306,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7411767,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993851,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1403209832,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343496796,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31542221,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,80546,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1780329,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336756,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56743,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3189741,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88624,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226868,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8686060,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10092748,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9446,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9594139,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3862070,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080812,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2921549523,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967268673,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1564,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82474,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20698709467,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2257453225,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8389,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44869624,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4754226912,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9067210848,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63699,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1308064,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75938,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570713,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551332755,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265577012,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318753388,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523729663,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18355,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12321,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21501993,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48090,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31968,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36205,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272134,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120463634,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16824692,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7672,,,0
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,298519,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8811856,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1183389,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11741,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109831,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12667,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5728190,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429295,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28796618,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11572962,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4188,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135789,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4141,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9457109,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80348,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56465,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99585357,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92914539,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97987,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117589,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20746,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146712,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10706803,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254976,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1389191,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263506864,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126741633,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15714,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178566,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6706331,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8937,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7170587,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5198995,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122424420,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1949718,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591742,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114289,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1472495,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246248,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70788,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420156530,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270347503,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14300,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5794,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47935942,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590071,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12281364,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11267,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6259344,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40102144,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49884,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366425,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33485,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3827,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25674,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70045,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3015,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4275197,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155675,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171152473,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145298933,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1273413,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2450147,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370588475,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342264327,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1203924,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11281662,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417793148,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1079786841,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1269663,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16888844,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356949,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7872278,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50184778,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290834857,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1326206,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15317787,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412489073,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3389852476,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19494,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351175,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10580243,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167220,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1709274,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21156993,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149620769,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6555030,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1242384,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110118,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87720,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209763,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866816,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151092486,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3055183,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27250,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784305,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77150389,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9305069,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183434465,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26502957,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234823597,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643296420,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21936,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83895222,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20455,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519328,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17625392,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119219959,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45717,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4443940,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2866426,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1107551,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374616058,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90181130,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19898,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902318,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1157670181,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266441800,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149187,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14158,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98460206,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160710,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43334,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13033833,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2832,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250449,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252212546,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96319953,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2612,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24962000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135514000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140073000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391096914,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317635715,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100805045,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54409,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10300375,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139510699,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1521056854,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29749480,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24306,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288904,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257878510,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30879438,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14652033,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724998656,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736801250,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3210,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2623301,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100327,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30959561,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7644579,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41109,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46502675,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2677694,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302237673,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1913977,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576110,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1771853,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27854,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197955987,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338843787,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2568791,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4323597,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612437302,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836174324,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92459,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26263,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23779,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1934488,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107085701,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8431419,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,805,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332825,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1484,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1182829,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2075,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2261,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646259,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9898722,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51293,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113625771,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182642,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41586,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1163247,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5408,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10598343,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14430,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129068,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8882249,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7810078,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66174,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195263,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34290613,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1492,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31077,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47413070,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31580772,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264447,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8918404,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3689,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406793,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20769155,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7125279,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10810,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1968,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17275926,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99228,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1562107,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4157,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1590471,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222520851,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867404,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1164080506,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216689921,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,688427,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100917,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423371,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80427,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59856245,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508285,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1534,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109059,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1479442599,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29040282,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153806,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106132,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116886569,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300903030,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51455,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147342,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78625,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2144887,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312797,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17786,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2970538,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235663,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44502586,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183118,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576904322,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92526216,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4979,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9162696,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4775,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85656821,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41116857,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18199558,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3897493,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59428401,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45867287,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141703,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93295,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4085,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4536498,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27958,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17215,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229886,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5338262,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172478560,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64372,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6399214,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239965675,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860256025,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,872435,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186890,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28863,,,0
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20647689,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46663,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032362,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16000,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156332472,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16330917,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120385,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107238,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2236,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1419,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15143,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1759,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28216,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90166484,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182930,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31840573,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165274236,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3727,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866280,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28092181,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35734336,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15530,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48334,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18261461,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1322,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66423,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51525,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235422742,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41447622,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3172,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3986,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142132,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11534644,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220449787,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1136651893,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3797,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76167495,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180988,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12512,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533504,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1170639017,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157592675,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16563,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418265,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2134359,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21095215,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105432292,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169823728,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,801362208,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163058961,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53441,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3600925,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315119621,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2016751906,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,951,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196015,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108052574,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93688525,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22262,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108552,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3942890,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8273,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61442,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105225315,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33959420,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3053,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48387,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112357010,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,679538973,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211389387,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6467,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24933,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47438,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4240120,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2958,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32045810,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4451873,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12479,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4118279131,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233438433,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23521,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1958310,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2486575469,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659769467,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,132753,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381207,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30767,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1466120,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58563,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4446,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50967670,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29471806,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141348,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15092,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185643,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443442,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5115,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,57575296,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32586381,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2947,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2950284,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340243817,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,580789854,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65848,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4806973,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511799503,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178783158,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344189,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1063687898,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265672123,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127412,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21312856,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1789269840,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1450924043,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1401,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74020,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212343,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13621,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98538562,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105113,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112171,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7671290,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434737,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3195472,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66996732,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279352661,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474589,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239171,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16172,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123570,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8887063,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48085,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1813473,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1249137725,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,804350587,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6205,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3547,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200187690,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391743428,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315533297,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271236,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3398786,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3255011,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265546227,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36639926,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29464540,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23138,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110337,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64227,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364114,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186473093,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581221,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5516679,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450272006,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159287616,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2659,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95834,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14323,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16549201,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27420,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4019,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905349,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71779927,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493270844,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4699865,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21567450,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,898822670,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448402208,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163494,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718937,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85853,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3959,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10244825,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8547,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17524,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24042265,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250333,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2686493698,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,809493487,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20188132,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12001236,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425616676,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45984436,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5001495389,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9602249082,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1703179588,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4616978,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59398299,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3957513,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3874241,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,121162,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1063937424,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437066961,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4011,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273344,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2128104,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3204,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2016105,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40987,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26213,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17673,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22175863,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16862,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126454,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6763085,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37202375,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243298,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29975658,,,4
+H4,2017,2017,2017,0,0,4,Re-Import,32,Argentina,ARG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29975658,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112692,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1729588,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667951,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219465,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111423,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643166,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3512,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164988,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3533,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2666648,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13699426,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2161435,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59178462,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52799727,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169183,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157854,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54175,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247314,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5953936,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72261,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230329,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7704491,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238456,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6051,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1546215,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6327387,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3345224,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3045,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2541639,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20004956,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179293,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1965613,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34539381,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539252,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47527364,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19324954,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27098,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57319647,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4920318,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71002,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7330138,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1009886,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7192688,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207553,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1730,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275177,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78723,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1565364,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378611,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31444,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4144,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92244090,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1405,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213339,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140117,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131677,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21516504,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8263,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1016116,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28594,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17592061,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205669,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367130,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41523,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35058,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117350,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12518742,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,326859,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1874689,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822696931,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1503829566,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82646,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358318,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1046,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40446,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6101919,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51063,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1847390,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2994811,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7828,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,989,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,40422431,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31147,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,24771,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133715945,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30277,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,752,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8716442,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89335166,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34460,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97943526,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368046050,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5675946,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326373,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2701939,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35856,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330881304,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106371731,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16299,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58000,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1063950,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2201782,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225964,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350327,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439618,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45134,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,805151,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30049002,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2012186,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191688,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,786512538,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55997727,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494641,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15452,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143725,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,775120,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3126862,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689432,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93500101,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9817373,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104452225,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65909497,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29470,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128722190,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56085216,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116333624,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1094835,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30879228,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37603973,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2552952090,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481211682,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283340,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9395817,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279430,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27024790,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2785195,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565498,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245959,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163168,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487361,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3196506,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144268612,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5753650,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332067,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1719294,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1007937,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36309802,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72378,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30117687,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11995,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64252552,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9213833,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6046,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15100,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78132265,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25604819,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4494,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1440434321,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42170387,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2700655,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4070,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2868388,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128823,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,79,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42890,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288066,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35258,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35258,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80772,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168299,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68335,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380418,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4558831,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42836,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1927574,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3327,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3224,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26367,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151983,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534000,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932729,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351310,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103302,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409883,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304699,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131527,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122077,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5384752,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20378,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276984,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1424,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11913,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1881,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29112302,,,4
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187601,,,4
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6921,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282556,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69739,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204765,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1286551,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5046,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811554,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1450860,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14000,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,202052,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11992532,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3920787,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1228573,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,12722,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,19274,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2199865,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,367076,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,23750,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4169,,,0

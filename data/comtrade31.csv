@@ -1,0 +1,1191 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4823,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14392214,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3576,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1420,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123617,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3958570,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1047566,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156580302,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103660472,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79843,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15829,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226191,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185368,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2019075,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102242068,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386187,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3716,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60139,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261916,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4931213,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8508936988,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3409323630,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1729438,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32589344,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,854399,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8756513,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13224577,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3201365,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634453,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11845277,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402618516,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568901054,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2187120,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6231193,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369197,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102518560,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21976734,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50742141,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2225685,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13407820,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60205,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6208,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3493,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235831,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18136,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195834016,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38132556,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1192093002,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654998360,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1258706,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7128891,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1095922,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148936156,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63252276,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219507049,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628780,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22645048,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3490675,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,925,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39906,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66385,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27570,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9902765,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1019921,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2031,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16581213,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162811,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1282710,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629764,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434499636,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2489585131,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15216186,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6234,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7083850,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16747659,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13685188,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152849,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562431634,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625636237,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57254,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4938,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35262,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60021,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838258,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94367379,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32935055,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347146,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1491,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1474405,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43204254,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21198137,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313523,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,999105309,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187794526,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31668,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67416,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72612,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166989,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185600,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53381700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119400500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15700,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16744500,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,974300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64700,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1923561,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10633423,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221883,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2148421297,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553828204,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33298434,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,342877,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25876078,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1898102,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1741614,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20426907,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3966323,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33867612,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152193065,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057415,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2316253,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345390,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641100208,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55512626,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3933996,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163437942,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117365654,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9772124,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22887,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15505701,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14000269,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1155132,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534957,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5719,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206327664,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184244034,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1317,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327986,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10405,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26316,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766131,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4396504,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27326144,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261944326,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54426139443,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,41712282701,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,620503,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295626356,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67877242,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337247558,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410914244,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2095942391,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213131,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171516372,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206065672,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21794,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71831,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41705,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2151651,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1159203,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546682,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18917057,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20285926,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173752,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97033,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351757,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1373,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73925027,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6116846,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61518,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6905,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51612,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505445,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,96006,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11277147,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11293389,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,931757,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,987,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89188,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5646586,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80418040,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11423,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14768,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11240,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12062617,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7135284,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2187719,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641628,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22906,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2024,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280796,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,74459763,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33920343,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27814738,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11106921,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525413,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270824782,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208532390,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453641,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5102006,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55752,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23093557,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37588231,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44673588,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6005821,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2478108,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182996298,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185913650,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16743,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5503723,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3951454,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9722098,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27380751,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58752960,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3934300,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37975,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43397090,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4374849,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2754,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63062,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4572123,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389524,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30343,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64758869,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90479449,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633854,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31257,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31703,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2277613,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26382580,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1820657,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5763,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48221,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38398,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12258,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2844,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246316,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57558588,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5256025,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120979,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8155,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295179,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,669898,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2726215,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222685,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5540,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50811885,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2471851,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287219,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2383,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33590,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27562,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6254,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20992,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1144761,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2181895,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254454313,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127147656,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482650,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2909856,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297700,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8801286,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7451084,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90457680,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3324818,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13000364,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2397613008,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2127511687,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24199818,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32936705,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10860520,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374211570,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243906640,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660746737,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104926120,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28288379,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9805060264,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5684023160,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21347442,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52074151,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5519851,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125532586,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402793268,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719291402,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6322583,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167922,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84534183,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11465268,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3018,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,798320,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799199,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28039397,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268028812,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299233,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5000,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39595119,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71091732,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46895,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260935,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19350622,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2966728,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1204539,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2632,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1127614,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22407274,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14742730408,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3677912252,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4283317,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14540646,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,869969,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29050454,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264383427,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16469181,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511369,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940361,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357539990,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173897654,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24093,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53375,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19023,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5043955,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15776057,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18178059,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9511,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11214979,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372397,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25363,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78954,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18220,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2811491,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1109785,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12385488,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14758388,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8796733231,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8467527299,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1499,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37576245,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26877647,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5103219,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6041488,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11909556,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53037,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489448013,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204988135,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46365,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380848,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173781,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253026,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332197,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7588646,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531913282,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262790208,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8481542,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413187,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48195,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39848962,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10185917,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36319252,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107000,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14489000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6665000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5761000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34641000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177774000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12144394,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14095787,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148162736,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421276449,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69895922,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163530,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9299646,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36649134,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138785,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5695889,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96289855,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1419281,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524354645,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1946148669,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8288164,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383597,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13528551,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21787191,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19272817709,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12763038517,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4943078,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20173744,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1142678,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15023254,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153117918,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414595479,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1681804,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4860,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110265613,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13155483,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42519,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267863,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216753219,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3628871,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2073,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2073,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95788758,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44549029,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3398969,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2150,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40994,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1953,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25250,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112809,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2448582,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123487,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14429,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25623122,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9875546,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8714718093,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8044983817,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191371,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9616384,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153123,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28529026,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95960089,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659690062,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56480,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3306,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271077591,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19661669,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48662,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25396,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236475,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3668325,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2878,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4703896,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50746,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5973,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,908,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,668919,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304039,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426955,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86131268,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2280612,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7457,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326982,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14526,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5893403,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1450460,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635466,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395710,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7384,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072294,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398301,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2664980,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17855259,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9375097,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200716,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389072,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1040942,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12966021,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2872771,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8683819,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9975001,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9043123,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527867,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2876,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3317280,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3051271,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5635018,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1565904,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85463,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15742300,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12764450,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5972,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4423,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103654,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4685038,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54997,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2580553,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1475611,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1583343,,,4
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761148,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4240,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82227952,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3273846,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6663,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235330,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67406,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791537,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1756583,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32457407,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28784500,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,458,Malaysia,MYS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28784500,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664030,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136825363,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449978,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4030523,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38214959,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41635274,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173969701,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75666,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563427,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1854838,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51626,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96413698,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2233893,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25710,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4724460,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,614247,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39100,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734913,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3020323,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2477080,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1731211,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7187987184,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10381820665,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3213695,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6068053,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4935454,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524711,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18153971,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31933394,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39988259,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110678,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58984,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22319,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8046,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3080344,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4875,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10251,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98034,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430086,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1064097,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38775,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100267212,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8910389,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100489,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79979,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4400980,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70302621,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2371729,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15804034,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33133,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166401704,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224279516,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25117776,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9433218,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309261,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5934,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571087,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52270,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213408,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1141640,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834591,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12795575,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271859,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4448,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2428,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12394,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12108,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6355,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310196,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2633,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14403604,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23695609,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7487920802,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1559067194,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965346,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15881251,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8057149,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147919661,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134628955,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322321828,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201253,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,21439,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1255400535,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,721972546,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9085911,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2881,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21723348,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145517,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47315,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7740140,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2093404,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3892685,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,227909,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14990470,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8634367,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6851,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1034866,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36424,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208678,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101972,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412268759,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258168890,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,705989,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646501,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263665,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097161,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7449513,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39775177,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325010,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814519,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1101004511,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129066316,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7419094,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2538152,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1504270,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5715261,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233688,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144047,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431224,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4024476,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342731,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15228157,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9049625,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12553,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102628,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16326,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163208717,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129613068,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16417,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18555,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57566,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509284,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,835458,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34316245,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1709644,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,786107401,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139350065,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,655122,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7553701,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1494515,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19632121,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42111725,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46572131,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9933656,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2909371,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73088527,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35704569,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82158,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260582,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5005636,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9710971,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23325570,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24588888,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2016265,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28614,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95543900,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15665173,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34081,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16514,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2356397,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39885148,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18886525,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65430546,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9853973,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1548525566,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,601032492,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8758,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471171,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117985,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19494854,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25494290,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2478387330,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2691865,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47467756,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3626687,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2010,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71764,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567969,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27454147,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303387,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18988664,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223262952,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8901929511,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5546200957,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7655643,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213424755,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122779296,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123457887,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15684371,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205541907,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17710,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349387,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622229393,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24210592,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160966,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76257,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915096,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4647283,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10284393,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16299222,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31461,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4212,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42215092,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21693459,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1258,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586770,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130335,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517429,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8838009,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21706435,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57346078,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408720394,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,870431779,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676714605,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274059,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6462048,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628394,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79374061,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13353901,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18394084,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7177007,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7364782,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837197007,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738441200,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4805288,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7683937,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185354,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63014317,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70116485,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461949307,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2307524,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86166135,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7821908,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15536,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888103,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120687,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1271042,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1811420,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372587599,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313799289,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540462,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5560701,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275681,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14262735,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27389767,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30500011,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1404197,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1973233,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1528447586,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2537565098,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8966264,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5966314,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573061821,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4379908,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31103313,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58858107,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13988513,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48220581,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45261898,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2312817924,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,732102536,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218732987,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1973319,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154186657,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90735757,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387544018,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48153787,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36588685,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18841201,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15224506,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7465952,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17015393,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2744629,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3138558280,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286255433,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109046,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39517216,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29940908,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52203802,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52203428,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539956646,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133828,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18459943,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35563,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9867,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63294,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74870,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185829,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36506519,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17811676,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2383971068,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1822514130,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13120457,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18249085,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358075,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51824309,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179101473,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658657844,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16479242,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69142066,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185886472,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9794608,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6487,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4871,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298817,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68065,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350704,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64160605,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27880840,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1981253,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38100394317,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12872508827,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2385714340,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34639095,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34373287,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4453004,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3066610,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61861875,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7772596,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165888585,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293009373,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58998889,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210070,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34010769,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8943870,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15222,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116443,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85248,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86810,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14932915,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99716611,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751540,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13130040,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200923,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7848,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192277,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438886,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205795,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30756490,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4464067,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108909,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36886646,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67319,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2773324,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317540502,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867069749,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2610,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500336,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3279,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13005346,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1840810,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157139097,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1980453,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4188884,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3149603,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9421,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,830,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814215,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2775699,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94875,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72759160,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7553025,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2082,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12753,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25979,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3417133,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214442,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55124,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7082,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67128007,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77715951,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9480,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100430,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827604,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1990845,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16637111,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490969,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,559185,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5616546,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292710,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119134634,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83104997,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467282,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1291715,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435394,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136144,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2954700,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10534983,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66339,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70000,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2347730,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19441277,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361812,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18482474,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8359,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32674,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6011818,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98449,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88658,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12472,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303467257,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454298025,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3740846,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45170626,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,815708,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115035,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19934,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43454216,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466781095,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4806195,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474504456,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42790,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157835,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15982549,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97516,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135184,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3889708,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28753287,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1752893,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172833496,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9154487,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106730,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67567,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73870,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331361,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114763,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427801,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111798,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19582619,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602342,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2316,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48578,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5121,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4414396,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6218088,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66443,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2784,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17285693,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18125,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1177216,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8749712,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24916,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,392763,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117088,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7887446790,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,710605149,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1285044,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290955,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3204890,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1514899,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,66771116,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1438560,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32019,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9692643,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7824821,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45170,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3551,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40272,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243841,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23070,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17226902,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20485680,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,37297520,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033928,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32869,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,47993,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72876,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1907,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2405680,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8367,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86460899,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2556287,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3726,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99821,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1107,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205429,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9142,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84030,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255197970,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207392116,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113985,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2565790,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3988316,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209122,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6209,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7719503,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495428,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3972655888,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1713739276,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353348,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2390653,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9810,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1565129,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5980804,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,686067255,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233380,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6154,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442768,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300523,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1262188688,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216511297,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12772675,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2327087,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636097,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121662,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181264,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4319486,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,812257,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55512962,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31115768,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550314,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81696,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57846656,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1933449,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6813,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7160878,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592738970,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2138143,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605193,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1166020,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1163992,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38859613279,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39579728852,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1322098,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237703603,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,854809,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2224908,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450963993,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1208448129,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5945345613,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4204340138,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45012310,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30512812,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24416989,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12825289,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31596288,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5465686,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6699608,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29909,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22782,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115525,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75246,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7374179,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1058019,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171132,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3576,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23616,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1843,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450531,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25343833,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6853444,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78295,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554469,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42853469,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13762903,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20162,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9091,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1265535,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54089751,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27062780,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54397,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78701,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9016,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14966687,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68544127,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63190144,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888436,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2352177,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290304,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61889530,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15122542,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423478,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9664,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452490,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449516,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575788,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226850,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26275838,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84941,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187003064,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131168840,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464650,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163996,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12142951,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8693060,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53178065,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6125779,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4860463,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462119101,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69917357,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39728,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3484375,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1571,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10544880,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195052576,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291476479,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11401204,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2111259,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59207158,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29232154,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23648,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6615,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2955344,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166525,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1739,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1029498,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11111,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11111,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116020,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1343,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1530,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1530,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4626044,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156208,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,681800,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171335,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241105,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659065,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60000,,,4
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228518,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120581,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88914,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13257057,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3685195,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1604005,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256784,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33891,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5129,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79183,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857285,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7379545,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27804,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6218,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6218,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24865,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6040998,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3000,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,29803,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3216108,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,850,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,671,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,10510,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15839155,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,91435,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,33,,,0

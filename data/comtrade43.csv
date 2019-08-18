@@ -1,0 +1,561 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227645,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346539,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1804,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516172,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45599,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2135,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1940,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74685,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738529,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71841,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191434,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15336652,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21565835,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81500,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63874,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11010964,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10656498,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64124,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30429,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51218,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151676,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17286,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4478,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302938,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364881,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18367308,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1326388,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1653922,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6720,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38656,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4447,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57925,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226916,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203231,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2116,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8965,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1575909,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9648955,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390820,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1838341,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1590453,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,720535,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8065,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487286,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787677,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2227,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1405,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3554300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1900,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84700,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,55086,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4403216,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577862,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16208,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14570,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,159786,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93219,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23251,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4833,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369504,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28349,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260376,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69115,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60633,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55310,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249932,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441676,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42090231,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3135840,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5552452,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6901858,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526559,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63880532,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35998,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526874,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628007,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978164,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2581,,,0
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3583,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889198,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7259,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113420,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82928,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4190,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1921,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28709,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286984,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515668,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131148,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78888,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5996,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222484,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5344,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509559,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329426,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855926,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401028,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315053,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68258,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5173,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2439225,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47440,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,988771,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45819,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24986,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102990,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204118,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10725,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3148,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92458,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2350,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62881,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84404,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53427,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48691,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60956,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252876,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22952919,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6776568,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111645,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696556,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1141360,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101835642,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3298088,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12330215,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21085317,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054136,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3624320,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17783,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2808247,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2542483,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11600478,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49671703,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304273,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292135,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161535,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628891,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3946409,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2698174,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3580424,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6469386,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626784,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204612,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585560,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028105,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6197,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794422,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10266,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793998,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34819,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664966,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196701,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765174,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182366,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44956,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3322020,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910694,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172653,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159885,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318328,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010901,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993891,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5996221,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46739,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2045,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185965,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79997,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186039,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,725000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15216,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13046728,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8100,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40113330,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341883,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430532,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21425,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148930,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3090440,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4721239,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64120,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1373221,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525935,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13105453,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1763,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1068665,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84133089,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6038,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2082379,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,668551,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169953,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10144,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1056752,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272218,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31770749,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393574,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55726,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9522,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3486604,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173290,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61417,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177349,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11049,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36081,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251646,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37595,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3469,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7413,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7996,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23717,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1419,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257585,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6818,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1417671,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2411,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160886,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72457,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3892816,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56333,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95364,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37383,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,956774,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30445,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824823,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11639,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18845,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167089,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2125879,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12739,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10899,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331793,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3729,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,745516,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38777,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117686,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5350,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75013,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63737,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2238,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2787038,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3909856,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18096021,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1536714,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2401897,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18576,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630752,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558944,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1214,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6720,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7886,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6070,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5220037,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,77823678,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20565505,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2275,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3698,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2847918,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426177,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3403465,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518613,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65563,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,604,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86330,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795340,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57094,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137556,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6372,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136997,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73943,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96898,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1933,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599455,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121745,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3159,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30530,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2414677,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2509127,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7151564,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28513363,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3779779,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144985,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138857,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12730,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71231,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054448,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1157881,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448652,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63621591,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70181,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16180,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13308024,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20832598,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20944,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8990578,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14885,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8495,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5808,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390000,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130946,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189231,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3655,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700656,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628014,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173976,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,960166,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238482,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2078958,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9010,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361360,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11019630,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10433,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37092,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2586,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129542,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10270829,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122083,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12954,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008067,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106935,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7166,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178794,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819752,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421622,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87075,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309861,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439972,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4995799,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18820932,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378209,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1570002,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97078,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18232753,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210475,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2284,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,918469,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105582,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631535,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5746553,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14765,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13713,,,0
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139022,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1612238,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16821795,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1648035,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2256809,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86527,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344267,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16506,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1493,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150872,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83443,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3053717,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1166815,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033170,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3244,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893458,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3425579,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338855,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157771,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010238,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1043586,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2894,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818992,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16034326,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5921554,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7388324,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13600,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3678035,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3982883,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16857469,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2403,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1800,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5265381,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81348762,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4409382,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5076284,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2099523,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136518,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932948,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3140792,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47776,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5461027,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38309271,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1336373,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130833,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18566,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47904,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7332,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450077,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233311,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567016,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1868,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,861403,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166348,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157304,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17325,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6722,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9710,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16579,,,4
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66009,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148544,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11004,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4208,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12713,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14254,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17658,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1826,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423897,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20152,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5654,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2100996,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389564,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5418,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3922,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52492,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,312886,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905376,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1329057,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44338,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10125,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,338424,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,891351,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11556708,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1297,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3633,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6136,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4197,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36869,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1182,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5805,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2545349,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53424,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3838,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49500,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11013,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783582,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,878588,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6319204,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1622225,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32960,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2726981,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7485,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4561090,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2481164,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214530,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9712,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9712,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81675,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3069,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36,,,0
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27430879,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97293,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38271,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246878,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8730,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50596055,,,4
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1717,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,865,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7005,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33119,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6336,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1934,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7681,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26897,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724691,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1948408,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6597,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973664,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125357,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37828,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65454,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2122,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6770330,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400110,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399881,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1067,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7810,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253490,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7147305,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371508,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1650639,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3831140,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384529,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288166,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1613,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4645,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30289,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4263,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7037454,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,12583207,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3157073,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,407,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,317,,,0

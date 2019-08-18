@@ -1,0 +1,1236 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34456,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195623,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11749,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429296509,,,4
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91565999,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111857,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20994,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1439587,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503288,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030979,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3223254958,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14045034,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1998530,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15727101,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7794,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50647565,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1381848,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325535,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3947726,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8481133,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16108,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23077,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10767514569,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531679114,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6237352,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76842485,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79134,,,0
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21320,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9108983,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62344160,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21681,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642818,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60827236438,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47526291476,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4519005,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22142814,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105983,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1101293,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87263528,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144931918,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6851645,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228141,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14401,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164253693,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126903819,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17919908,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124977,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709026,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41421768,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88476231,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2993765,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25254364,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56265054305,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71402594450,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170808340,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391935963,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9941181,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369097816,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3083,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1094,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10469536,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29116,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9571,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18968,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209188265,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69282739,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820126,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,465,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14009,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14009,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234095,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100202,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257812,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11140,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1211357830,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915889631,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3251844,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116514,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5398,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642728,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194129886,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1647,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90635596,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9227153320,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4911018150,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185194697,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212434251,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16179,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326776,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158178,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171796563,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3298965,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3699,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67165,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338701984,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203377870,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17963,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4189908215,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4062247515,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24118783,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11535482,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1842,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75801415,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105821,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97500,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209714933,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360347009,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3808674,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15183,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19718700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65744300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377100,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93500,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1708011800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1102859400,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16155200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4199900,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,30724387,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32369547,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162709,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,450538,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5070215,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178194,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13825567703,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3095656350,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434848491,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,51767502,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188572647,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8489634,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,79527,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57562814,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6773,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351092,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2666858,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14975,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110309,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1755258,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400460159,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547124738,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8383529,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778238,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26155433,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596917,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1332179,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46353421,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274012,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650230376,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1074028104,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147151,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7173320,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84862,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,67590956,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912618656,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99052161,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398652570,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,96940109119,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71134400096,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852939054,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4824797038,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39714,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3969239,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268775,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13296570,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10387,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1873997637,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,473225591,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28941,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2731302,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2897,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38960344,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11311,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32322162,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2618822,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81439788,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234351336,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11757,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327764,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6156,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415365876,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134845917,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7198,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345005,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182764,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6000728,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3871410768,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1939862765,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4940,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1382111,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,104913,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124244587,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23491934,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,679664,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198107,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130663,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,644404166,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137464470,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99154193,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109489,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,953804,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53005,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964521,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13100,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4891,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17614213,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84974891,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46304,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324801,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,42065680401,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59413682174,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5654081,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21460140,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150350,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13260359,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1406527,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11492717,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110087,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3735125,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19596177286,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14449906298,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10923181,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219040447,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435350,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3736576,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542013,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19277,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2754,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321569130,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91900734,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309069,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93684,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15271,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,695007,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20068796,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14962,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530473493,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502227717,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83694,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146971,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37086,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71465,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186079493,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24026196,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9322,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41693,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7372578,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4523581,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6706,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167828,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1790829476,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1055737471,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91109660,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1118078,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34190,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509804,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68697,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8573451,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1754698,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73254,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2591,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1017823,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13027729,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37563,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3171334,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10663850174,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9398923700,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516181,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47660441,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19568444,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40323257,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203725508,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193167,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8500916,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97082207072,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77609886141,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360768096,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256650151,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3398988,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201973204,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84330994,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407829154,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339998,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12506896,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204356397,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302776580,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77023856,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245724255,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4057273,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144384276,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165022,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5646013522,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2278015753,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5911544,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31946813,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594115,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718783447,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16207182,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5672,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280218,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29895,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295909924,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141310979,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109371,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26428464,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3320496,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3775,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67934,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139931965,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393464805,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3458978,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37417975,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120271,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7648987,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6923680524,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9487722138,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7295843,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138382778,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255071,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1527056,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,988573,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53717185,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054899,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27675683525,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31009859837,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48963,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15572875,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6409,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2766683,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156540,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3566461,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6823,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139371,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738235005,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370387054,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449295,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229152,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1101338,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955238,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59043865,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5994,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46875595,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3538361496,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2669462481,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13183548,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108063572,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65680755,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90985306,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42619,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3072069360,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359712986,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52311430,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7217477,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028888,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4739244,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1136,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4040193,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7729684566,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11373569659,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7597163,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62990111,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145539,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1740164,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7168000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30470000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293000,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4721171000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1637954000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1906000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38521000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35880000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60061255,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200900452,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1486071,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13331941,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471815,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4247569,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71109,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74294042705,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63318718759,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1710121877,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302048142,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184037473,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262520768,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781686,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19706476,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1142231986,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136103,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13284893,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190811878,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16602,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4512551,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23421221526,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18945367635,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192163458,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131168290,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26928,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86468063,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25933509,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38403692,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1484116290,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418207129,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21975933,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16356,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15449,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710323,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148807,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130687,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8450,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,197578,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,183098,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900369300,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22209399,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5954556,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1187312,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2378597,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,79791,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36031451,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57924637,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3620824,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2749109,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19748244797,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8483034613,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38346172,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243875902,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2501998,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852498,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2362183,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54150,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10537,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1991921193,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20094378,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471896,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2472663,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4188282,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2153527,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67487371,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4361466,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35285624,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403283,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24578,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2597686,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229203334,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42180012,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32231496,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19677964,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10063,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2304193,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5928075,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46609,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27477,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6665683,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36866842,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300695,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1794982876,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,949702870,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2221718,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2649046,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25886,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32323035,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33703910,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243933,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3743606235,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2124885643,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39288,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4365979,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4021,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1849918,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2578749,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,697041,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288541,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5069572338,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3758799862,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9620290,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6406390,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61004,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5128852,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14449099,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1895,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6665,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48059,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100698670,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203480943,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66619,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57525,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204931,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15904,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15904,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482027,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25268715,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3531,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45145626,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6117914288,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6211486117,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211502669,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257483250,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2234,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262712,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3524,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55908596,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14343685,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23423,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27231,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2516,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5423,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141124233,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41974402,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94907,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873081,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21284781,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11627055,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647348,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458209,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9206259126,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6464435307,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49846344,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25428996,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23449,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207130,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128349174,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11648021,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1784153,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4529,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14418,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239318,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14742,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,222238921,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10554388,,,4
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1275,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14356604,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332544,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51904,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10087609,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2723464768,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,721893981,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5045166,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114200950,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12424590,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25278,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54832,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169825,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19485,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420543,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235198,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379251289,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47180812,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41442386,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295266,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2442395,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14046,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10598649,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4656,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16158,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12438,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2807,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92718058,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49147100,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11290204,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174685,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37676,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286385,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47874,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50885296,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130965578,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2076689,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58748335,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83106360282,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110857088812,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,935332352,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759493248,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39694400,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,929018382,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275791,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3712420,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2463,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122782,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,253203,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,19290,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2142503148,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506560906,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23453821,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6017180,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28695284,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287604,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,822276,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11180,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7354,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135635,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1936,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145152334,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71881862,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,901,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264602,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5521,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25020,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2218934,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11489995,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10604,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,705053,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9486926696,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15822792083,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6163679,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64890472,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36421,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15396989,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94189,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5628830,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119436,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12389595,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111487582,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1286490628,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21552654,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3809909,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2249546,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26031972,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7195,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4494869,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259760273,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184749075,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573400,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2321090,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7144736,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87465,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4985170,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1061757626,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933543702,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22913,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10280105,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22483127,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140522286,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32852,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7678389,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49468647050,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60209648682,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22449005,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50398337,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30691854,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62783330,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590989,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12124345,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691722,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1496871,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10761724526,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7066927627,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8545132,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97364490,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5994092,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204374310,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12724288,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188274080,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27400,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11595,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17127143668,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16217812217,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169178,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7047833,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24697609,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383419136,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,695486231,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48067,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241225,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22740419051,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15490522695,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75709754,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135032414,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22598,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557839324,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62681,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6986503,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2806204600,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2131406576,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9436978,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2003741,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235806,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30878201,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74930207,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57312480,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108057877,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12665121178,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8233600524,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2763199047,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637313955,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5598,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224970442,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3656267,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13088562,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5506,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325317,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13853537770,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17426111172,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4001750,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5650953,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6997,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1076855,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1542767,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25060643,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141891,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5320542680,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6439467149,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542436,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10418955,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234804,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223852,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12691023,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570836,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7181468,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9555381489,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5809863055,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62661894,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352611318,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14788,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17601307,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58376003,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,82737744,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2285924,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31347594,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43895561992,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34899294954,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164518626,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253760714,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18464045,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364798459,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102938,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6250,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421686760,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13494918,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408264,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2130618,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265601,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10062884,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12541,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6483402,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28938338503,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16228383034,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3757686,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92130127,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16878,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168575734,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70151051,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45111969,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64546,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2815298,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55322193201,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,45312226277,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824805194,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34841380,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44240,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7560353,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34781350,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105452791,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98201966,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3683819,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33637952,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15360887,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11882099324,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555964023,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1084571486,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783561638,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409301470,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305453746,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406854,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361327,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,215276241,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1208645416,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2776,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38399080,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21301869301,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15118909842,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128019025,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224551445,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22473,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142988423,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83236,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500212,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910251916,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2662466642,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550333,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48790,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11550517,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126602922,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3732847,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34676932,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89695413385,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46697787865,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238586777,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488967147,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2781600,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491185603,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2061267,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244112,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58423,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180936,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231745378,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48840505,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249904,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3256210,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64732,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136503263,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382865271,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45503109,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008052,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39235769,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,725975,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119962970800,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53561607435,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7618179173,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781156734,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859526478,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26795484,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645379,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139919952,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3035313,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105247,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,884196,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2571187,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205378270,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199938659,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1869985,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382633,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,693,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20090,,,4
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637022,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3035,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70033486,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9524867,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1666235,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784980,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2936,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,73874172,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,487757213,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441747409,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450462027,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29008,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3183,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118676,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4300715,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,661,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4202374,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3229332803,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1164812147,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123910,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44216826,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59358,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3445,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52331445,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3851585,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63282,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17580,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84838,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4319706,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1988586,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129218,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5406,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1400449,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2691,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34543,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1681,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14464424,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8825032,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23510,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40797,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125611,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44928,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149203,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196945703,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37795150,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3914242,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4059953,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98379,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1137013,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6416586,,,4
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,801365,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1929,,,4
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2133881,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10754221,,,4
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2370500,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169876,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40091,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379950,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27885,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1233,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48101,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52702,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27837967,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1453156,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21380788,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2997630,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25170,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433532079,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45386322,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5323011,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1321138,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452273,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6289990,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11516,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10433512,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9563,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377562,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2964,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855591,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30095,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1684380,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341512263,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233065967,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,580146,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136881,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546734,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112069,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5977961,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315203265,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609777474,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70625257,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470856559,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12320,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4021,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20897375,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120814587,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3564554,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2047582,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1511844,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17066369,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13133100,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978130,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,871565,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9238,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9083,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6681,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415831559,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113577926,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3417970,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1955636,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5246588,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910800,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32096,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74698,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208678,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10017,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2501,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53736476,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50221952,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34623,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153195,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93972,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44080,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319784,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57803,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155962222,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2837067,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58465957,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5463336,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7553,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261233,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29965,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73290,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32924382,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98656574,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186023,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3864086,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109916766,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19612282,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3384699,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,557325,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121782,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16420972265,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6949907291,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1336306,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10036907,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11141,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385924,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932216,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18037853,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1864231,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390602157,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166125354,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47543278,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2807,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2128620,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589055,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1034903,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,68029584,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8844645,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255458,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1076554,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326443,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15286,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51885253,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29098208,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666698,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2937,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175889,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429456,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391711,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1256012868,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,671729841,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58583935,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240957138,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236886,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324068606,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19246,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1388,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125229,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1488875,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2525489,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152430,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2098138927,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2675602349,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1792680,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7453953,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736568,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3397410,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1118780,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7965714,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11750208,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123489,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4519411,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612528,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7865854621,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243645987,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173637112,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5744669,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80528135,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3161816,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49557,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2720364,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110521,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3040012,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107266969,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284006597,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5664390,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69496193,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15914091,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161906,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6083412,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12038613,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208220,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2710263,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9490535552,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6195374233,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107958438,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82211714,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72155,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46079263,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2882066,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14532216,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23378005,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4441374,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3203719407,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6353565104,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322841783,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266832461,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11221,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2326,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20617593,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2924142,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93456,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134035,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11564,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9929365,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1971715,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434189,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239700,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2412,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95536,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690191,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32851,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50637751,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917930,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432008,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66757393,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56778469,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2970399,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3738,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1715,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1715,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,640579,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34103,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2167967,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3190886,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1656822499,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1646121213,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15112444,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18468274,,,4
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69056,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36636,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58827,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78967,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109486100,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88085837,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1554722,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441776,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403884,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301380,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80681894,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427866727,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14184127,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5201332763,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1756530936,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132191533,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61437039,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12062,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6120,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4074763,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43700945,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,96576,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3565202,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4514981398,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582019903,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11887803,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109930171,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22192,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25591,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118412,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138757073,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8766209,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177921819,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44274894,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12197,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6463,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1042176,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108985,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3728,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4132016,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195027,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149623,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1740,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15408,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29896616,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42359500,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29914,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24087,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1590,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066601,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46970,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10478,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7571,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3744451,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6571,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6571,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22846,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421571,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605161,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6047,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516621,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16571530,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14324670,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171736,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105272,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226212,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30430,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98548,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572040,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490532,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21663278,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310381,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1714,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4071660,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12013067,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8348566,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8608523,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233685,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,231372,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,9552,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1762,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2296,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,10,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,21710496,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1474881,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,61613,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,263069,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,540,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1666,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2582430,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3299412,,,0

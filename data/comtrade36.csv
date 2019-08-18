@@ -1,0 +1,1093 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162297,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39118,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,693,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19883,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22657,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10006,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17337,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542403256,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25592,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23422,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136915,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330447,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1943813,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325371,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1984,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5236,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36462,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1384,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1390,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6058894879,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6795708460,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17962311,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1753162,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560955,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2831550,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433536294,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166826982,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5505,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114607,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68693197,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161034212,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3488233,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11836186,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159317,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445465,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254415404,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82058219,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19077,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12947759,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3000,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146693,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9868,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699637,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368111640,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278728169,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45605185,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15760435,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149023,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64353606,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186169013,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2823921693,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11476447,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23774,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39016,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8111,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2156141,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4991491,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44679,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600620,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284591,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11380,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3852,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68142,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57049,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13045,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,473860,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73607,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110621,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1784,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403878,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567977,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14981,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59276038,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83522748,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2826087,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113893142,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31900,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790219,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829011203,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737142642,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426355,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5337112,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,890939,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2924,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216731,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4904,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415169,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9453921,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6585150,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3816081,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513360,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,903,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,473926,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160545,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8073462,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33263817,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4532063,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2181384,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11976,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458000,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,802737,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353030,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3550600,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20809100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4867400,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13900,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5021700,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21422100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,545792896,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380323188,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32628612,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,97721005,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31508004,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2835184,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1306132,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4022720,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1078133,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,799459800,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335529676,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14535614,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,42504,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97685,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286753539,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27916129,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32618,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3636342,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2160615,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101266,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350278,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2593956,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4074333,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231988,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,131,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130209628,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67885291,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3326433,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34761557,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11068,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88695,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32838,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35323130,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13152,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9391098199,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5100102859,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28400491,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,624142254,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,99078835,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97876055,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1624049602,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12153161394,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14680385,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14648418,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6248535,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64643067,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7259,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225662,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74362,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4725170,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3316,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4278874,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119166306,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116514190,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9363068,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18689969,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155832546,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572925799,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45042,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251488,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2622982,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1902226,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,37713,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3161,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14034,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111339,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2101651,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12696998,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1526831,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458386,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104063,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2975,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1523,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7693,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120133,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1153847,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3797055,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2636357,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30892481,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88169759,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4765862,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1788573,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1425637,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608659,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10249034,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51003616,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98787,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108682529,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134799631,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1332351,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4349543,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209350,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2899976,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55772324,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83817924,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14988880,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4175928,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18835811,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19427278,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160561025,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115223,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3536703,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36460818,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7006660,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29042246,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4843,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28735268,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050926,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12929583,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1022852,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269335645,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430854710,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14384,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447417,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7095685,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4219813,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81101,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427382,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5350,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34817,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21234184,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14128886,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417249062,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65313450,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32985587,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107577,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1335,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212397,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92455,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30910291,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86223699,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10193237,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979275,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8192,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371474,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500464,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46742742,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416145228,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471140403,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50109785,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11553694,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269452903,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169770220,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2800276778,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209766997,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183281,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2355,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,839330534,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1502820610,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76468431,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68606017,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211313,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14622889,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1781712450,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1064368734,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16125,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3195,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30962732,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17702644,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185426,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340529,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35602,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,752358,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17212340,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38355221,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2253136,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27100182,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13909730,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128179985,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562222394,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2647,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914787,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2663,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2741851,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859806,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60894727,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205303943,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31255,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,604150408,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535059210,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19303831,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50573920,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113585,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4823879,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69583743,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649799796,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4942397,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65650485,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251520,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3004013,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092272,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82424,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33093096,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4464270,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707359,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714179,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593258,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22544,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21163,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51871972,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751182665,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437818690,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296414,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12386802,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734804,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5885690,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1289148664,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343803940,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52566825,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29464734,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3966409,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690396,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2942829,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16965580,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66188653,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95575991,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6438857,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349984,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19729,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11067462,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131939848,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314715973,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13544000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79014000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7144000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3439000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148677000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259794046,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605729885,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12656498,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162159,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40374404,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31844436,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3551,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17999443,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22235,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,882813980,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550275437,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11286382,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10353,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2473851944,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2462532905,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33595831,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84803416,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328367,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5274629,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787582393,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321122129,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54543,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7812098,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2972168,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132209,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18600,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552806,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59161,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74157829,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399301,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112116,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2882014,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12364,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52074,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257817994,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1867680,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69997,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1214178216,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1305768461,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10848250,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106042689,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64482704,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3287548,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500437915,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2121967017,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50821,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6296,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86968769,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326050,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362719,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3745,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2776,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4293770,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1319140,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92139,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4506,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16026,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10799680,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,931903,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461194,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5644,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24448,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1281088,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5532709,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21747175,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14241,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36951,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,896705,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3990,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74411,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2911786,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7085156,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78880,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198911,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169534,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72039,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49632066,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12934980,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13250137,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242756,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,851587,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10987,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16689271,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76185908,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3402737,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3050772,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115486,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565042,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224037,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424728,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69963,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12822147,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1985,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1893869,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300537,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1383,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24548,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11938,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1675413,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565372,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51476,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781969698,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1049840745,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12010246,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5023865,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,824,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6624362,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193909878,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382734745,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12033,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24555694,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,896,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70820937,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2925821,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3197,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21265,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1791967,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313206,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,840555918,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468724902,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124392120,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22359264,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204439,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1860334,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439970630,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98255681,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12691,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7300028,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23803,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1131,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20287,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418057,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3067,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9736,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139222,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70407212,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27468155,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41500,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27240,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30204765,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32132718,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166386646,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11402391,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6694074,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176559,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7784,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50611,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50065,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202260,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4296883,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45240,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2875276,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5362965,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4721093,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,744,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111553,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13999294,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4362975,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2021,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422625522,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531703047,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35857366,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25015950,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357428,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24021248,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2185946401,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2830750449,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137575511,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,554,New Zealand,NZL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137575511,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1614579,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21373188,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17898,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191169,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10814,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1948,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2300059,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172443825,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,943413,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173398,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12630534,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2052275,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6419312,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888549,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292275,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3990,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10769,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4995,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49155476,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29780616,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2511408,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1763599,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56122,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52463459,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247045033,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91471874,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39324458,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20526,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26782,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7509119,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20322,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623958,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70636883,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59243571,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920811,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255636,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247282,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3170045,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,953,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88815958,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23447802,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21479079,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37147339,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25194,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51185310,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4033866,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2093,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59951070,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148418038,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29371238,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1655588,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1726562,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5567365,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28488034,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114838440,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34053,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22958912,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23320640,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2680396,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2857376,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3392630,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79941199,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21740674,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4817857,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18857867,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164972,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152867,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1885,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025361,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1971549,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30947602,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216872989,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82913775,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16149883,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33680180,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,971319,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542043,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44978321,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377423977,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,752,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270424,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588234,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41016,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5107,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1100663,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7247766,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611355520,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328864334,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3780383,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78380738,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19578485,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116514957,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8342970011,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2063578122,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8585142,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26351531,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2418261,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3518688,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169933,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24209,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5081064,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11101764,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1333,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1705402,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11033638,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184448,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312164,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48606,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167625,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82966,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7973764,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9060,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156031814,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95694619,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3419218,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057099,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108859,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3568441,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1714587290,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429576939,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255603,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32752,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178005398,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270010194,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59756932,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58264781,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2708592,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9355821,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4949504525,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316431793,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43636069,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22429,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86751,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2913250,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12995591,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3160615,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,41788,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51064279,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180588901,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9287611,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16953968,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149796,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8796601,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1218654071,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100126367,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97393091,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215263815,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114633443,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6732191,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28597224,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11523417,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534696646,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187929813,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1998,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675410288,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78677778,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24414906,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8760285,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966684,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1575567,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87054091,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66177425,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61940387,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608027498,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612036672,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487032602,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34875676,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104037915,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291967,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10856628,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,868885,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38161513,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156285879,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335424326,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85860,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183373,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161195,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14915,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17241,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145852,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3276135,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2630,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119985967,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1116602971,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73490862,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618921,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106035,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8481908,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1665894669,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1445627917,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13347,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1759189,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2845367,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2975967,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19121,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2201779,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413487,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3712349,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4334671787,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3918979535,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397585859,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3343506736,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1586966925,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145578754,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7337207,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44300779,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1900779,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7318431532,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2173166447,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61924625,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233317,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86722,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12848,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12266661,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287234,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92421,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1795335,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172500,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187076757,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19585171,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2131444,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193329,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24720,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2019,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837633,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1027875,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47910619,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106970,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2771,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4180,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44323,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507915,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17139213,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159441746,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334481,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75386467,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6894,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3106340,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462918133,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86631769,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84636,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684914,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196687,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93563,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42441,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398533,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317398,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71784,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71784,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75282142,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2475433,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6881,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8328,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22620,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1011,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15517474,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707542,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20244,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455818,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1481,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300463,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254582935,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37849546,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18543,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1390710,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33503,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260109,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9471,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124025,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49628,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,842197,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1925383,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28232686,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59990823,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71282021,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1491813,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68612,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92500,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17270,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17059,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5705,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4175,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642477,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7660,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23304980,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6326824,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207247,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6809050,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104315067,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149008992,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63218573,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21554755,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39174,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5642434,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75690179,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886098256,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146246270,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23859752,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3861574,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26586,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106074,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6919,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121117112,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50329,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47756,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10357475,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2420626,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3737,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3914746,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255552,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4115185,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25625787,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526389,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144995,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394873,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24767,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597827,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1478257,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249265,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130569,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6716581,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,760300,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16540,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101458747,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8619550,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097896,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358440,,,4
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106723,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42097,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3732,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15841,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658073,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38582528,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,358269312,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113070828,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359921098,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938428425,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1503216,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15372,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199863997,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29409851,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5759,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,606749,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3644,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5999,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14016,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930078,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10747947,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25383,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12958,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2327664,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683921,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8429616,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646153,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66907,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2064,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3058732,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164668594,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24264,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55057,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13174,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3152649,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86280536,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,999938,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25000,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,353,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507693671,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55681724,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,963775,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10025,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155942,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2551,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005605,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3873046,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26968,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3489518,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28371,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474200691,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106259654,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220485,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368481,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1610321,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1733,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14674,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1438220,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504712,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6821512,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233550690,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8264245,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7324,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6624256,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425017,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13763902,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4152,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144558,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16961507,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532628946,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21519630,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,870357561,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1799461465,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014724,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2007003,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409002,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,977112,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57780736,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225073866,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161959,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445924,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502212372,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457240053,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5156524,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21795350,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371627920,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63771875,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214903,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4000,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534755,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65704,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80048,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122201,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48425,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84194974,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212504,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71793,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95253,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47610994,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1957490,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48484100,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35923409,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1387807,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3879058,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5629077,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72469,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8275523,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1812398,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8530802,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518997,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146391,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68173,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4610,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16219,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836388,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,928743,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791502,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4124,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13117026,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2039876,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550663,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208395,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11368,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646664,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,923011,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94772042,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13244,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199507370,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3004630,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54027,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134087,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48923,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10846827,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387730460,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97023430,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1350415,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3556,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266798,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27375778,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19363698,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10933144,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60761,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94074842,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8735118,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70027,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517640,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29483,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29483,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7229,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56439,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18688201,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1518506,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13831,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8436308,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81763,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158461,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43914,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1739668,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4582,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,994,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3113824,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60189,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4906174,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223665,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3751,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3982,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8662,,,4
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2512,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198403,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10935,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1863,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1863,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5311411,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578028,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474036,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167506,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116089,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7809,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82041,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,20846348,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,867997,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,63,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,823749,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1540193,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,23769,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,27950,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2111,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1633100,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,241423,,,0

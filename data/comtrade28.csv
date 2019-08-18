@@ -1,0 +1,1138 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4932759,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177767,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391658,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22558,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153489,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16947,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84720,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292339,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12343874,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58743,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104936146,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132845583,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615795,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666894,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15304758,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79914018,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6792,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5955,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1979489,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241538,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18336360,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1818693,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8994229,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16238043,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106705229,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30747416,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91212579,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34538698,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427928219,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1059805500,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166314915,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8841532,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56196131,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11173634,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17190646,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1436878,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95275690,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4043204,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4915741,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107781,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161109,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18468,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1679,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202801,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134319,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147139698,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202304843,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65648621,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276937638,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50989704,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151222077,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42631051,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307322418,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48756,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32281,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1484,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23431,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545177,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545177,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581491,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52958,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9627,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37370,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102527,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65286,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4317643,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297599,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1098436,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397965,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,677495,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101256,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292610,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731051,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3944,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67264,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53190258,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4931899,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7519392,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223603360,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349874,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169500498,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135393511,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222542487,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1816,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174529,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36476,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1141,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13351,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3910,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158647,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15817035,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28492185,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29621220,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21536233,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748355,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7440907,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2602402,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8352412,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,450211,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76351,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3360528,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558868,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719901,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415486,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,564875,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7403248,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96999900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587925300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94800,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10240000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33649300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560500,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504900,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3264300,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,189848,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1168997,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13930,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,371266633,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109313447,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19020176,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,78044261,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56735676,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11513354,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26617527,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132420244,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4528674,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7674834,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128251511,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16359654,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104201,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8601294,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4581942,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166572,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941446,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42004269,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1664704,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4895385,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18693362,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213642,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15320042,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33282955,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53181,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108021,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2211647,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4093335,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3797721,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6099096,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4820153,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1446136,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2161,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6664137,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405573,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15398399,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6378690611,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11564442930,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279185370,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2803608942,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166820240,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5034650207,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8934950001,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3112773877,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2541896,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1411981,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2925406,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30366639,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1744764,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440232,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2611773,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13179,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995572,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41601,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2653357,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3436285,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25246,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123447,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9760,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62946,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4007,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393055,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117395,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82697,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16639,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25775,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46488,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163262756,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15878209,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7280275,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13367041,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,134808,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11171435,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5475,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6798873,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2593810,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2465213,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183141,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1299954,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17502099,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2944685,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2877415,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1098365,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368457,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2314131,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9337666,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1862399,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440902307,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217810739,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020881,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58711232,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6037505,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39473062,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,828165,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92304024,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1284530,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3721758,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42340808,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2958318,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42449821,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4947601,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25790284,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373437,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76122373,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003673,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912205,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6391,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64807,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22834867,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1305184,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4335396,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597882,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267454,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7168,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25886683,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195758,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131413,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2415376,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21430,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146080,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10283,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59544689,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53275676,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616270,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7654382,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610839,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2774773,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9822489,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2168862,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23981307,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12583487,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2761,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5681,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2311,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123509,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12780,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22681,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274406,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3371,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82903,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95740544,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103076705,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121899,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38128749,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23492683,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18736127,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27924,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29238406,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4829,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3972,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4086340333,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361746817,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24325297,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291292108,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115073625,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194117057,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377688147,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489040920,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54517,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68455,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3924232175,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1479592458,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32000709,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,853646056,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169941414,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352116269,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56140062,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1502043199,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283390868,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10739245,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11419518,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45107672,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5672203,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10237214,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2458767,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31869665,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16135,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10322330,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458081,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14853020,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8634,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7749490,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9929168,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660276,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446937,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21175,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67873,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696393,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1816826,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145483172,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37296792,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228604918,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54864703,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210181313,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98820158,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156636344,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403605034,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141159023,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1247388,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32126199,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,803950,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8663863,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145448,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30139129,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10763,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1372150,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660089,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873696,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117866,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548024,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2713841,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37620913,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15302579,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188564483,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104617711,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13329928,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290766234,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319991612,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129565991,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66638128,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167985551,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17783941,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52859661,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6408882,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126870944,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27492205,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248081216,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101138,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509600,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38518812,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3724208,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73016965,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26035820,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37141915,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61813,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95749806,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6019000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31221000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282161000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57659000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5870000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72113000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1269,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3980,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1518250570,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711529953,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4207352,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6100,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50789736,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791705259,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1767398,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61119371,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205630782,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5980883,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363211066,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1305918134,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90262063,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9731460,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11895274,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1257947765,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274235591,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47750596,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546555441,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60638052,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,763227013,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5916463438,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1426492865,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562400,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54271606,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16162,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33807,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1414581,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,839315,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483155,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53609,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16501296,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2735314,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139811,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56876207,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341501338,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3818724,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3733375,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11254995,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998314332,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532725515,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71887581,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647896425,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40191652,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204940293,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9593955251,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162575103,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1222,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179242,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9785,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188109016,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80352014,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4348564,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1178638,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520295756,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,266192624,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715328,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2743435,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754152,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22327,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2518729,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175523,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159744613,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89448377,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1095166,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2089414,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336571228,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91818538,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47431,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99276,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32008,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9099,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4649789,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140840,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21766,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8377075,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41681703,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28351,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4430990,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125394,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25635011,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2630811,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2615783,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1009777498,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472678716,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327350,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4153634,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581937,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2180076,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31469,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2180056,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1296,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123432,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6651736,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17879,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3908992,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260862,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3733610,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133653,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12703347,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2320,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1823,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79775,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147448,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3246212,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14560313,,,4
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18305252,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582027,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3505979,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1065456,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9343454,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69226062,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56492800,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95614143,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7538429,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242551648,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261277285,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188453878,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154721,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135090,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3460,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214495,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18374,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42292524,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53570638,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699495,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113705,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16702,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2964582,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101634801,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34586354,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59404674,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370018893,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37392648,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93338247,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3590403848,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138742755,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34152710,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2437066,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126998,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7300,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104535,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107398,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56892,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51142,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3964,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72074,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46653,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8667,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71355868,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541329,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14180767,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31063345,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10202115,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16192527,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12479592,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73057396,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12699,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138886,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137747,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47702349,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27782697,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1783125,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23518996,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72191119,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33917708,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27543232,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323835700,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16638045,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12836,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3637,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3637,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227365,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2220191,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620045,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538500,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49565,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24668,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157536,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171397957,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395727974,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58381600,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533595490,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471823447,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344720807,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1420516480,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,655634899,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9229,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11565269,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2301723,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,916063,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721064,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,156989,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266533,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68039035,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309863,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2963537,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7693038,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,254611,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23867195,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86975069,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,745255,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4926,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57544,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4034747,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30107,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,919,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6606262,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51029586,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5147427,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45655262,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61738461,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84852788,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2564205,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23940959,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17623,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7626797,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70441073,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31752460,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45543365,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15542,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10663,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468257919,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319440560,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1468124908,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88993421,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4647812,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14488,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4383387,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1411637,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377923,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2672,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3357675,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23414378,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38355,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19387,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4151951,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,745856,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230013,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37940,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1130,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1646525,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,921174052,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477930104,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4378219,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76494305,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32709471,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56549815,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2092983,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83468507,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158628,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574800787,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8376414,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10190691,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46001767,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5575490,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20421518,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76781364,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23874332,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1241461539,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31990050,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1567909,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244249688,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2471001,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5001669,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36535,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51297023,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51861,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4599663036,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11924244440,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22983551,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126028791,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140330973,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182907701,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301597,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707630430,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20743,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59968022,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28794144,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21199015,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11623904,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1637329,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7491257,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457304,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6235859,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478215,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1039035928,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118499913,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880109047,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496498889,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72115307,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1817806768,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6118796399,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369923436,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9929832,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29280863,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2125322,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26771767,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462741,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5749204,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339658,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82540964,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185776,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15049554,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85353253,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1094622,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10530684,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2151315,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9814472,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3119962,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20662455,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1742,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275802,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6705997,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13887526,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22787337,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42538640,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17654438,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712840433,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2124704,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91825761,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43203,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1750821109,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184053965,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42053221,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480671369,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37770024,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91250220,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91814647,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459685413,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7296,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,919386,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107612284,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24700261,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69925444,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28534579,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5486661,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5394144,,,0
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95621,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13034513,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103430820,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5459129,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73425791,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31657910,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55674390,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61124432,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81351955,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193272,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487411090,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183989712,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5755228,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512601181,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53938773,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86444314,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74888966,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472710744,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217837,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47605,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31631,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119897663,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273819651,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130230620,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454748855,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1440145512,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,830103724,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300916901,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1833975882,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1396168809,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1773500060,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5113332913,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3380393910,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170772,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1463158342,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746244349,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112643915,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682476619,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17114028,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152255578,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169402842,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439862780,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7693800,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914361,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31270,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308898,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534916,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74977,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5431,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55762,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12427,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206094,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,760760148,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296265779,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35611040,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447602163,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405575424,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443129755,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,969176141,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796919826,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39288,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1370,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60050,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,903795,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215111,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201322358,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291540870,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2174041,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185633,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4241949,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4928546,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100926,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829412549,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552346807,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56648452,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1728198416,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1920639550,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62796766,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587918626,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453959361,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25730213,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3023076888,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5098009805,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239635530,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1564341,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306021,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6137438,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49663,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3696482,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6986725,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7125187,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,972,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6916,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3039304,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35571444,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72527980,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235365,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466700425,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107809737,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34272517,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2498916,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4146871,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821632,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148721,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7029984,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84344,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3099989,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11657071,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2088203,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247322790,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137010,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83793684,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15075233,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43061306,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3378,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,713,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001426,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432113,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284994,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1746,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408847,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27647,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13419,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23008,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4603,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82723,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42996980,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3626296,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146692,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3839,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028255,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326150,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121065,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,798,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827041,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1999478,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13009,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267994,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701238,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7959,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1979,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131491,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1690,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56751,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1071156,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185556,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7751,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29805078,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51775232,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26632106,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2003,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371086,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86828,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810518,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1579920,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29875,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1678216,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25361,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15490,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85885,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9437984,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532129,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4526308,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,807411,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4112236,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33238,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123541,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13857,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1371669,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11495859,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3432423,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6172693,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4659089,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189017,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15012,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47712,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34809,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4170,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33206370,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214898,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30929799,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15417141,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67579,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1398676,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2169653,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17630,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,823257,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8041044,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11182770,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28307809,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17755719,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125098454,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53765,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168130,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141081,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67393,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4636,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558052,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61647,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112602,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31428,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1117,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19242422,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12163209,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9323282,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28164428,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20445675,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12751981,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,132878921,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18333255,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56463797,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1737218,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17041161,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2467760,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1353735,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1994905,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11760,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366837,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60965,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40798,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3719,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3527,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6809,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,215320,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978224,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5928279,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14952796,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1663739,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11106,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12512,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2816792,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5934,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117489,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64296,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440961,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813253,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14229,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47894,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3588891,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184145156,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24537311,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3045474,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,713331,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101349155,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,174986,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14500,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10323371,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1040415,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4547554,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486401,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4849106,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9654696,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4928740,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10174962,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1071662095,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34660643,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1405,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5584,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27672722,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,961331,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318416,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847064709,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1248226985,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93209429,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75843625,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244361980,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7712684,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439567201,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1989963536,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358566172,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3190039,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1647,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917844,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73550,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495873,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136126,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1413356,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,944089,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9892,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2888326,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80225816,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16645500,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16591778,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28239853,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10088421,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51780607,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3228085284,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212139410,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9929139,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6044068,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48867527,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201458806,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11733319,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117123415,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2982187,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33741270,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287976842,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62369205,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,601983,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7318,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12396356,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18225149,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1252590,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9404,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286246,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106462667,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8900,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80059,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27406,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220064,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49533,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1619,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2736470,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18254788,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280891,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21423745,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14595940,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5463169,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447132,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16876740,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5730344,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3034,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9652,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1840757,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2603943,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3154,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,457232688,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,552001020,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19082034,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466007,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171063,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4956,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317993700,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372829328,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9273205,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153943386,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7953730,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79494897,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727964,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20319142,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24458661,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37811284,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103045462,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,506376345,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263412357,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290065230,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1398527950,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343294482,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23429,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3788,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183365,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118939,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130061,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15541,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48206,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11850,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5897,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1028,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1841,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8900,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10031,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24960,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29038,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4254,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5069,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23191,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2417620,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8131,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16961,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245900,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199467,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27943,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120722,,,4
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7500,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11920,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,64093,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4246,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,40922,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1251,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,295,,,0

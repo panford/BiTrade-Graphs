@@ -1,0 +1,903 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29513606,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5071646,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4200,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633999819,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920587020,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163001,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48706,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6422,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1754146,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10525340,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542820,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1570191557,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886194059,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166954,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534442,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1257416,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182330,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26105,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716766,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2222491628,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1951707437,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200193,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1075712,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374435,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3465645,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12823,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13629005,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36695150,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37870733,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9052840,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32753,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19404,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41218,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112074,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676193,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1522229,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2259790,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1662876,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85424662,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838375,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1490,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28078081,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260734396,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7830,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6965,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4957,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2781,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81599989,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31183394,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1691746485,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3174543312,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209930,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1580373,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340968,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6109200,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11941,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130784522,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4197348,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2388810,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722009890,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270076493,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326229,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910745,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109531,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1616872,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25596263,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138667391,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40000,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5131829,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42353,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674105,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,943250,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199311700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158065700,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3300,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23850000,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1271900,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2444724922,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2709035042,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128137094,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1250236,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39567920,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5278226,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1396805,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12108263,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,703279,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,288375,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20055819,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6305205,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77474105,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347478602,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,721625,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,835,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47345,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249854,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231224,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639882,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404702,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385314609,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521999947,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198747,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239869,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28322,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1607341,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553233,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7549894909,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15738121286,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10601,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132024205,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413138,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87246990,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91590374,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1926508591,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239233640,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507133029,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211606,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155729,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1903029,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1088,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773291,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221971134,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15014112,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261878,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566260,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56700948,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,728923066,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6723,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485002,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196742,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9791448,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113103,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525096732,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275366909,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22239,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,81,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1799,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,120203,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230055070,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73863512,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60461374,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1678757,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59311145,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59311145,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11253,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202901,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42477,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2576949277,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4164272229,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21073,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18763,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350315,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1238890,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23136,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2820471,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2885922134,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1573165770,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168742,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3089773,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40596,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3693465,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22145,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1583310,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63541311,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92272820,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5226,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184921,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456344,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1705766,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104192585,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185609735,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20188,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6204,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166465,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,78830,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194730,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27491676,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8099022,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4207,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3923274,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16013379,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3920,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269932933,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232730114,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37191,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29315,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348570,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7776752,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187485,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4773,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40288,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369312762,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2121037739,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57649,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689051,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145437,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,772786,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1415,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1226106,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41279231117,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36488488976,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663486,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9708708,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9362164,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1582098,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3509712,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206643666,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44624549919,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49730528965,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8093075,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21978530,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4861829,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5050922,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,999820,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37911620,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1943023437,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442617320,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9369748,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491025,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9277303,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1473,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365429,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1832386,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220955137,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90305562,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1910,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162029,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9698430,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71823005,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2867,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19847955,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348447464,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21174,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373949,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11462403,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3134743299,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2293891493,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704624,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,999564,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995862,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6456704,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2313499249,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2133455389,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88107,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912759,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221997,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63601,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4288044,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93092531,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91996136,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3366,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236350,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930768,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637561288,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1241869425,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24599,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1483890,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3606053,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675483,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12229873,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201124751,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632640300,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123999057,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612430,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1566533838,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15047544013,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53485,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2183645,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16104840,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267522,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14944,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5277318,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4098719000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2704760000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502000,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1230000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3850000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20047180815,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15239360972,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584620538,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30039770,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104963,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11912747,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8012,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28665747,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10459377,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5965249,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39320760,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,901460,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2751532684,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5894810523,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469082,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10059257,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8142731,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10240882,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545561,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8631867,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128491858,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158108071,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1169,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3057032,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170751876,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15619959,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2302887,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29436,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160222,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1374,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1273458783,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2795323785,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4189,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,851593643,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1228135,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7152288,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27703900,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42074982,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192524215,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32043441,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1320,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2967,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253462,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10328927,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21162698,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364309801,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14982157,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2817,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33949,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70993332,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3497015,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3121430,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16642,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274497390,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193098504,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81399,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42186,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131466,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470225,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1015573915,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450215091,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9992,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75282,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55782,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2749611,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5114323172,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1620116967,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24919153,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11154334,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65287834,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11261,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12950,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447034,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24062,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243388,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42662814,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24685035,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440350,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36810,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8812,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629607227,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1132492398,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1866,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311545,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23566,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2682113,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7977942,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286920088,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8167419,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538382,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4234,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79064427,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24660647,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,924310,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1965,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11032,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,614016871,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1374087962,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63028,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1512631,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1923831,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6172838,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3545112,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3624139,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7625016,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1301119,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4659,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13280781,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,881942,,,4
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4881,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,661,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,604294898,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397147503,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5667,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13796,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602284,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58054345,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201564801,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7961968,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6661128,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6130,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9784984,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19815103,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244710266,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195334704,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50214,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178019,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50960,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1925702,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366823,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48176139425,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51883704699,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036606,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5819379,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6341453,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6094082,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4703028,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87808012,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288655384,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,175748669,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6452761,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95880,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8539196,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,526664,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455255,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,588844,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,882,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,840540,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,85148,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14650864,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53824183,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128827,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378049,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316396455,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4870233331,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27012,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1248872,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373294,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431666,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39626,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2495094,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365797212,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700690563,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34411535,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2390735,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49477243,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80098,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808459,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18434,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105493,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3307401,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48121067,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24542055,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4220815,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6603,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4614801,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158979,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95973,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171512981,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514448151,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50196,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452424,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395960,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5483606652,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4798352299,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7014,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511103,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2254617,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2158260,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82185,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27463533,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2177689408,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434138331,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4460,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1267791,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14516059,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335613,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1299793,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7417103,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1994497394,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412324846,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7183,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4624080,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43866,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2778710,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2167757719,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6799459023,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191594,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4001500,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4480,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003965,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4727586,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9923144,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,421491690,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192769839,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153476,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105119,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80999,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157783,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5954965904,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6219889932,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14767,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3457774,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1329449,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14763745,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209712435,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483565781,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,799017882,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1094865577,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5978,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58389,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2343375,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,515039906,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430638555,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23947,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289864,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103095,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6376,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5646,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126947,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,881846867,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2473771779,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,227261,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2336141,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289704,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3833287,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6010878,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19727265,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8811500071,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9312950362,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86302,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2174819,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19486834,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13590534,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2694869,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50373646,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21216209,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10020503,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,892590,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7590179095,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6529397699,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607273,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727282,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53917,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978832,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4219,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10177607,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5100269163,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6928442168,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67682,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4198472,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1305543,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9203291,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1557131,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5337051,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3799145758,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4031385958,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3844790795,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203280,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1372320,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1346301,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145131,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21877270,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565563,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446271796,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105280873,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81791252,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3728941456,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3151422142,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23613,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849855,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041118,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4666998,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22408667,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92898509,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133448348,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200673308,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8041,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60240,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28614,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32156473699,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17763437063,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2329173,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146644122,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67853940,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20570669,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,842844,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22900750,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64806458,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193526518,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1448282,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13171,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20810,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64440,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15422827331,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29923519085,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5301126312,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34449016,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692439339,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171737613,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280618442,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294765486,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16434521,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18113626,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249814125,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1563629,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107488854,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25909435,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4140,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20210,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24284,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2880531,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58027108,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5098653,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15774,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303555,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4728,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,705083,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9439,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62032314,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13258165,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9883,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19483,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1425360,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361918321,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404957631,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838968,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2283463,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72404470,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1346622619,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19520,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1279662,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,559036,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29988918,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8093129,,,4
+H4,2017,2017,2017,0,0,4,Re-Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3516,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9216,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128004528,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175272972,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133624,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1085464,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515089,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27991842,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34063854,,,4
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2203843,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9435,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19506427,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107114236,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7854141,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27795,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75360709,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18042889,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11564875,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84845,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11538859,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37162,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5091,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4486,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718810376,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155800407,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7203,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1895107,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27231260,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263727483,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598573372,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1625652,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310838,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13174749,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53174214,,,4
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31207597,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1977953,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179045,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978939,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3100106,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45462,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13894456,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5128497,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102063,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148616638,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58288702,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56856,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1326413,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1325016,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157293,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620402,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514920,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13896143,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194116338,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53308648,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3935895,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79821669,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3588092,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229417196,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1211015,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330630,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2366600,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1182722202,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2098488559,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39782,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2432034,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532317,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,140454240,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50185,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784390,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38505383,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12930657,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8234950,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31775249,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89498463,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195301,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5695,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19390636,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2789484,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13779,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1591273,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4022510246,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121547422,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5558,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16926305,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96971845,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154454,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508672806,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357459728,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,949,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5313,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24668,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63300,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357883,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2272356,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53143,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,848,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39640,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375577,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911125,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1502072936,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1695219921,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55137477,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61719,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88048,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15896,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3537869,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2268338,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266595600,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9745975,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579661,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16260583,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1297767905,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4966755821,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45697,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98764359,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1124058,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9075623,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1698214,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11976511,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447439672,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2250572313,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205693383,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19194395,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11344877,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52947984,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5529976,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1685287,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52071580,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6778675,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3357613,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9634320,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107147739,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1797285,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257037526,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247578907,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28548,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515428,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9714277,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54010335,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110902971,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6706477,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2199,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4665,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3422,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517522802,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456285118,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24528,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35771,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,865821,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9622112,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6145333,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,954919252,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301700722,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10223,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1136378,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22774738,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9821069,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71873950,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7146485,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1990074,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1084567,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4190,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1520312,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4841,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4841,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8668606,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8668606,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152987,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242910,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242910,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9546096,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57881609,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89663,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588900,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1468857,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902644,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15099,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322678,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63926,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88880,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432560,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709195,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336464,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782296,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643690,,,4
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1462784,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10983545,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2202022,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1650214,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3794,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5024,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69055276,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5866223,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1681066,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2581,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68940,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54163,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1265450,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,931333,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15377502,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154705340,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52394,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5357876,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,947368,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,291283,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,68575,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2435039,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,168964,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1598785,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1760746,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,66473,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,12080815,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,396500,,,0

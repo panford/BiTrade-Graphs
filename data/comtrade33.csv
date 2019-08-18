@@ -1,0 +1,1044 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6676402,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7154,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2860,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31601760,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42296333,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605565,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600459,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139642124,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11006722,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35812,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261412065,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450367682,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,906947,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5641,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,966,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1697903,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94725,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214463875,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130740314,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418994,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19510128,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446110,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1567288,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,51239,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6691,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48701784,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30551461,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496848499,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113496115,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2464667,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12135145,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2574751,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54079014,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10404,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196746683,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142888570,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9513626,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131059,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71488,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40076,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2291508,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4099532799,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1427280221,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5456887,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10664505,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24922827,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12153104,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460730,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89548,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375381886,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003953048,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7759670,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18214,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33138,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283291431,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24943827,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5457997,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,695,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13175,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305171,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164390,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16462796,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5880842,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2265,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52049624,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202884062,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11029957,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5230717,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4238052128,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4514104147,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84538,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5516094,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207991,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17523750,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2264,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133396,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867652808,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615049530,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5008475,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6949,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23428,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11572,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23660811,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54622342,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3511,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995880,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3743864,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17405057,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126527354,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81885580,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18099594,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9474748,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12408,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54382,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2932,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30500,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5442,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8198128,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782054,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28200200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3895900,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124800,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13517400,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135700,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29556100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57425000,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,27352442487,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6052118736,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279958195,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1917861,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21072633,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1834380,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2480692,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4063116,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102700,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,126612,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402645,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14995,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,325172287,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305100595,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15730539,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21665535,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164538149,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18475,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7330332,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1345909,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11672,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159601,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6607,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6717302,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6711830,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95800,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2133121424,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173427938,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130788,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387369,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16834782,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10921873,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11803239382,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35905386995,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5167313200,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235611572,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66401113,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132455707,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53406,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220992,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650597142,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3176226241,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3436894683,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1536661544,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46315,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275244,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42954141,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30770801,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1903435,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79709,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22773057,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,776915,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1152362474,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292367175,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2949836,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6017598,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1475066,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6957139,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14935613,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228982,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5724179,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188354308,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16442580,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90869532,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6853311,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3945131,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24962,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397998,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1734,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12951,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044236,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319241,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1796647,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1751952,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,934305,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710161083,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829238222,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1475793,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14519880,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2589686,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47492519,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4611,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180989296,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316829851,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135942203,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350478492,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1650658,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4807854,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27256,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2100729,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13976320,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204157925,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899620942,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24477346,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71377,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4895,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,50053,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62237,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7732911,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46498,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741330838,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129265744,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102032,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309957,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5266811,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2118,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4771503,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10954967,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,878063590,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112639712,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1801,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1691444,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125760,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34016253,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108596678,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2638730,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164069,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310351,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8506209,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15187461,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1573025,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17896,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6338,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8893,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43293,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236534373,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345619214,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1431228,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16570321,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471567,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3071737,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27104229,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198369372,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2760994800,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3822457645,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4856023,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24598833,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3752370,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33033643,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889229,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49318,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5624473095,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4751932602,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9055461655,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14566810135,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9293930,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118898064,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18976873,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124582311,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61856,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1177170565,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2381288177,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36900172,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186394989,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18727,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710137,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325039,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138478586,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37594,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116210210,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112573352,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22501,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7857,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1964467126,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510994214,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45104,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259685,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7660280,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639565781,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72092362,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2143149,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1911191,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,841194784,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3716898183,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1673744,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31861611,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1068325,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6589051,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110208018,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166798572,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190873779,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,952732426,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113683,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9260609,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36884193,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45033389,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11126,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7948144,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177683115,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23119368,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3201565,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34058,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11292,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41593,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3258,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4040542,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4433342,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219556476,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,987061455,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9535379,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7843428,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113037,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4126549,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13209,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68847441,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85958429,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1634604,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34554245,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13956707,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827799,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1393037,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17350673,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301819880,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1608347425,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738378,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2084883,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199623,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7334967,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3339,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28132600,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116676662,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194346000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365588000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15508000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21949000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1071211443,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4796156742,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26783087,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49636387,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46218618,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2948197,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21874361,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166042847,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417045,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226122,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,498369,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268760,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1135314851,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2128559551,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2562714,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2068211,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5780097184,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11269197010,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37942826,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357143721,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1500293,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22194249,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622289,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299804974,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244449067,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65918610,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1745452,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2308385,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72493860,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1301114,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8278821,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51350403,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315490480,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5753533,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15312,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123674,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24469658,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8619346,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727635,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4407124935,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10932591461,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14156441,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228352959,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598967,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3049736,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14050,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75891,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186908586,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274933463,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226522443,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5657850,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14740,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1023,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3018,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30940280,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7213969,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4324435,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34388,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272934,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1741459,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460280,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149104,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74460474,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320559,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179997,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89007,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5413,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82965010,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15543784,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314662,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312558,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6779700,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9120486,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283648,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208685,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454011,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3245348,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5373497,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8982184,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20052659,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302567,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13275285,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18488953,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911720,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5598840,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19375561,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25504473,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37232263,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14246,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32899,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60259,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93134,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83764,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403994,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10544290,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15353837,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4641,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3687459,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831545,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85959,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6246351,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13488904,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9849,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326346860,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2238220952,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33771,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17109805,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79340,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1929963,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509454,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26525846,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72849432,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,697813,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31007,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6212691,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2646671,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21087,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6827,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9676255,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67443,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680263515,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2288438620,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40992077,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3850579,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11211,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3453642,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14400,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66705545,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65468091,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14424878,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14305,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2141,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3390,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1267628,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3247515,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84662,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12667,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2372044,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199265995,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127497348,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52589,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41151,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3944,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64205,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21296848,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13159871,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212124,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2324189,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12906383,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4219580,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13270829,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659134,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14089,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61727,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61727,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14718133,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1296,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1703906597,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2533851291,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817959,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21877578,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9527969,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50615317,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399397,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391746480,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092111445,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238382718,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255619541,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1084896,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41292,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6106210,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63016,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33740,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5149,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,144,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19962,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52764336,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56337586,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8830,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849813550,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323753830,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509503,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235173020,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119931879,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784475,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849277,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305592,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374472,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129504346,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123361232,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66332121,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94458797,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4854,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161926,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13465,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256185100,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22811031,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269719,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173360847,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65207968,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3325,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131290,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6098765,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10018030,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1773963751,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417707623,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12945,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168485,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65351,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11101,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33684453,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7171302,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662501229,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675529337,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413359,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48996753,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19894949,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52107323,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12999,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384825557,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255581544,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162549601,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320272837,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284910,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78555,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700198,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171945136,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824515536,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132736755,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189802398,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64311,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541414,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900013,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30375850,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2476,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17992,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182505590,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612552253,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,951664990,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515634857,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41143469,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1326718306,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5752778,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11403498,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6682,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542128889,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859362734,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43051204,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13251248,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2231,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586989,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,58053847,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,817503210,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1705,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19211116,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10900384,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3538028960,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3697378850,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1816829,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13795533,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61695,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44150438,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227777,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773967464,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413681554,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123841076,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161085560,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274036,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1401269,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168023,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17860183,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87160307,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120152280,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75754711,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98729721,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118479,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12806619,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13016615,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107867856,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,34366890,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21825677,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479234746,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116501883,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56417,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714231,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1251168,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790457,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2796,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124389,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56617212,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89557136,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4580723801,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5185718565,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419293,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9057688,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171752,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34944494,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1640,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102755,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7091795912,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9049812050,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1466392,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209083,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25465049,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52243,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74131049,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,717898889,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716162,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20707702,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,685336,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12567210,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123541,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28124,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130234958,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461103669,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1462327185,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388681471,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662436970,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6300579,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4335935,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16760458,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277069753,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340892537,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1062474833,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112882415,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42560474,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384409,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16910897,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16184310,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2345451,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20418744,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14701318,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3720,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236565,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120674,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148216364,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375406553,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135739584,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771853778,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441432663,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1821314,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24425655,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24080953,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60086708,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,924061683,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1657717765,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19069837,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3239286,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39912,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9840,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6272228,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32598018,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23481125,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58900,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2481586928,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1991057493,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7628320,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33998593,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15502691,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17566541,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40005,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2009569,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849800176,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993958001,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6143437,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507055,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13187998,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3662534,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315733533681,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243507465359,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56371868155,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9658029,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82192362,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6081156,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2642348,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9148718,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033943,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026321,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9708109,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300789,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1291499144,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2218490832,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50974981,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219630834,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196257885,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9495081,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5455090,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2418605,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3739,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49443,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108812,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12849776,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554278,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19196895,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131969,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93484,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65150,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117855,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24267,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2395,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3879128,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2750,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2081373895,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645775459,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7461,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1948900,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2397,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1290806,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133767653,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509042371,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2882581,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2211,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3362519,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101900822,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1615547,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940107,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2461,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56723,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55763,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28917,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356179,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322701,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7703908,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39061,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97862,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74256656,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1124250,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7374,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30131,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5992362,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,976076,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254505,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84212,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100975,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,747055,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29374223,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1566476,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2931594,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11727000,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092345,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23103,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10993,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125400,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2285649,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2785309,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8232,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1299796,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9573590,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399924,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1308,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123836642,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3019825,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11887541,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73499020,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13185,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1334247,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1641,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177278268,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15850081,,,4
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211588366,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9899055,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8497830,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384702,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384702,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344194,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53483,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182438,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204484103,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20191661,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370889,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23817,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58097,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13652586,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2365847,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8190285,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656323,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1990799,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4320555,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63440,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79950390,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10379297,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169020,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108016517,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129972,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,59426,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,936529,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307669,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408828,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10223151,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37474,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,306865610,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,46407467,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4694444,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24683,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3088,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1318,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373797,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49456,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310384,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4063817,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866009,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,865223,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2634126,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3698270,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2757,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226466,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217816,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4506811,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194998,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56530,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8113,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27474,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259614,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32448,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5571958,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26188608,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176886220,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,705,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5367,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151157853,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40390278,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24922,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,25320,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139223487,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626535919,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3499,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1975993,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33771,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1712957,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14443602,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8146561,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2453561,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55309,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15701,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,636365400,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18046346,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3240379,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1406917,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541033,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55922,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95045,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196939741,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393864057,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11029459,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2225830,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15236721,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471351,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42392,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103766130,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4421257,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1987828118,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1280826387,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1744355,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79715552,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630990,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3204890,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7877,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16730,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120913846,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125769399,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787519948,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2338388980,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53518841,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14405847,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13120744,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155555966,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32730496,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84160,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8840223,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43590,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,928145,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4626,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358394,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2411553,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10063309,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2171784,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831470,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37361138,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20176980,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1838,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110845,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120232611,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184887912,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3048381,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1301399,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2435884,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22888783,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531217,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127680609,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129266900,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1203618,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22250920,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3594635,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8757293,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1368,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39062776,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221306005,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,108647323,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25327774,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34033,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216231,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533812,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,115357240,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390525086,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8062183,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1763,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106449,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39011171,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,996679,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19968,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4458860,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6097,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6097,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5430275,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591227,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539734,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331764,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20845326,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37135087,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290569,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59485,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1543350,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15399,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203980,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90183,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2514992,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261695,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91654,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1423,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1423,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780619,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233006,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12792,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55673,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58949,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88501,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5641996,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107324,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8443035,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438088,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22248,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,26743732,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,259965,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,109701,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,101,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11707,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,451430,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,62123,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,94293,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,280,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,38802,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2494,,,0

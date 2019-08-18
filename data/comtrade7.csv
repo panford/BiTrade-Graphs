@@ -1,0 +1,614 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44040276,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504718,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8300,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1374143265,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2127962683,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22029,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14418,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594179548,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133087486,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3401,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5231261,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125141,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303027301,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793435975,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131765,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471726,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62559599,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6000,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20550,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3005502363,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3981522999,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11520,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12681,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361621,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701251,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10499,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11042,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40686,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1559955013,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1458374267,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2534620,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4313,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1450,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110407582,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1214868,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55472,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8068,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134010238,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,76,Brazil,BRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134010238,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2853263,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4021047,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656315,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41708,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15787,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22036384,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32313438,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15760,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534935,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238492106,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7856364,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1194025,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154186,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57922400,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439864100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561900,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3347,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3631999948,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1319078475,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129792046,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,107198,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3461,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2210372,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4338345,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1430014,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125200392,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53530267,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187543,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61821,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5704539900,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3419828787,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146107,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136075,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58857155273,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28950538235,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106787,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11844073,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2286012705,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363479556,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2824452,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130320,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26983705,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41853,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,957,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315161030,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44640284,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3287,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701713,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8596,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43536070,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8147338,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1779503,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,45659928,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17513559,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1944127,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79408,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,117422523,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8039308,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8029968,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237377957,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281684332,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6270,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6604,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90632,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2020055,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186029052,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389282633,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33934,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8271993,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664527002,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5163531,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34476601,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3208414,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,876308619,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124226773,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4876,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186014,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1018,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167761310,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4289195,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9279,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36073540,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24126360,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4141,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102121,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5135,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,996856,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59730,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27414,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77814,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590467093,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379599851,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32808,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3294548,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1445550,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1798,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3331207869,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4717214172,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114055,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4770,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21105830,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53049028,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8446805435,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9683113858,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1646095,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97033359,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107225435,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29488822,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8198265,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4456116,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28650223,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1131880,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287562245,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36946231,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17343,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266412,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155496534,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9686455,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11668,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2460634714,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1530155564,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191264276,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235456546,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605108,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236383458,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8627467,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9017,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1958384374,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229640846,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5045,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6050870,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880343,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674789925,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28435704,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2199,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073156,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249803703,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204804240,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64226,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38199,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215182000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905414000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4416000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3745325115,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4287671005,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61997052,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964329,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17798826,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151712839,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6786894,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7179895259,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3393386649,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3227,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8002649,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111510363,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23650115,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166153,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200000,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251654496,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44246669,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43169624,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3702336589,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5505231575,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2353594,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287115384,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78893358,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634048,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67930,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299327723,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17434424,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3027961,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72775,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8899813,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7671078,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59346,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339280,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25301501,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27150004,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1630,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3402,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9243,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34663005,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52317808,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,968,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35832,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60421658,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296933,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2106336314,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,852121179,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179517,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1086519,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107931,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17745074,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68979727,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672306,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28937,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1084,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2601881911,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1266135429,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,756,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33043,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126218,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7729025,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15680,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10728033,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1088,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4705,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715946059,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,756808100,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,928,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735199236,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215961606,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90473149,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5253,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39449149,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1194553,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240951,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,785,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,785,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1393259,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129272,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29505,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4515806253,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2700370145,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113801,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203227,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3533173,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8714100,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124698385,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56483313,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773543,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2472,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86207,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96234,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7103,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150421642,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2939860,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883803,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220418365,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506090339,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4901,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260605,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3517,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,612681684,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46750037,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2280,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41469,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37079,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3466,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2348956,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30581,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2731071337,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2775043394,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137658,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2452728617,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1591479225,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578150,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1086545,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1186524301,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409139950,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2309,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2365821,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5427320,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1377941803,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1065509766,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175597,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328059395,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200605558,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119148,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1425,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3200213239,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2030013513,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78108,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5300,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500983,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18782888,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110236346,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13524987,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147339,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8727,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5104464250,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2867436333,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542708,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628758,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87734,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69985207,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81674943,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6333,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97367,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,235297898,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56923626,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87818,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,341862,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92014,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11254,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1556234035,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404323262,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12518,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3747551,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41196621,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361126,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4587315282,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2829645429,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2325,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1046446,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6417107,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40114881,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193888,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13668,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2461,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534410844,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831966910,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241455,,,0
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1171,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2866995,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1447565,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125305,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1159407768,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266161428,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80283520,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103607569,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2836469993,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133457257,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98979945,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229483,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247311,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247311,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2544927922,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384904079,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3501,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276241,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21712823,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56078671,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44432813,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2956313,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1410,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3038,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49293,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3130606141,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2320275971,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81758,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43676,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6487386,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30129434,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52487493,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9963,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2217668,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30551943376,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37329690239,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5487463823,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8474008,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36334868,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,929525,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6954284,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398708329,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84930131,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1646493007,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1298663362,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359982,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93456,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12323078,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1031146,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50210,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172477625,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112652,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11289,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17870303814,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9307368227,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788210,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6297,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2300158,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6310828,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3198,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3198,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4253290,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3946126,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59049,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1414438,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98331994,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013798,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24186527,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8053170,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59672203,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12980,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3380,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95743220,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1989,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297082,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34515751,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217791044,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193883193,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1308944,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134879,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71516880,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67409578,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1594,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79211056,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845483,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2058,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266768,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1409778,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428824,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269094086,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2662113,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2022123,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36080,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1760658,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866201,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2280,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67909294,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4065,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36197493,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2245,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5440399088,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3681275100,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3647,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,34873,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,21028154,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857513,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5521788,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,828111,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827646,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30381,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33178440,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883681,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1853570,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19330743,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457540,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15176101,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,801011412,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623772390,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2170,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298472,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2436,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44845,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565743170,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127411860,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7592,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18870,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1114750,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966543,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2115277,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1049822,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125331,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2702783529,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342956937,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5024425,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22881,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87249,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135717741,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2811024,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1450390362,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1208520822,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5142558,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22539896,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1249277,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368964,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1837885294,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2039516277,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6876533,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3387,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774971,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1891544,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12647,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24305236,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359693749,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17155983,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34726403,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24092,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210112235,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9490188,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2772,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23943,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902566,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2695492558,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111074472,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183121,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11584,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19661514,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262195,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914094,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8137192,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,954739,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248100,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180358,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25857756,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6349541,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118530,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2565348,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759676,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4571,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2785638,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95931,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402030,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166946,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16098,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2802644,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120719,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082486,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62397,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2028108,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100278,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12115532,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15284711,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42897866,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709894,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26225458,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708515,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70887,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19926,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,21139,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,17065112,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,160711,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,72102,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8221,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,59404,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,23791,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3473383,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,707614,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15164471,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6838,,,0

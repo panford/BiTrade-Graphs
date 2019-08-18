@@ -1,0 +1,1084 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13183610,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383408,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429297005,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17970193,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369871,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1652,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493187,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19206,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329586788,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,753421527,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2007924083,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1837059428,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9092099,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1433719,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33808,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4528939,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1389,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2140,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25586652,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3615537,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630415894,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119381359,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1748307,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843768,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140131,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2773542,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1706979,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11451753,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121024397,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84283650,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1736263770,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1409398032,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1091443,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28920152,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2311,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52851,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2552576,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5982990,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,982704,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5500,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221613892,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,885489,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75030,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10217348,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5611809,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734561,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54220,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272725625,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421494284,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5114289244,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5988944559,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336731,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15267039,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20374,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77689133,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52842332,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98047,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863666,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1671,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,996864,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4636,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4636,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27955660,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69595719,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1170,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1982,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2923465,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62235,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441181325,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237785510,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58514,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205614,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766330,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43085,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50518225,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286617501,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468969401,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1820277137,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5910376,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1782593,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28350,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110658,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5148848,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12586,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2706357,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192752,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9226,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11372099,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165492179,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2159917314,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2808037365,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9883396,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2556851,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2303657,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2837606,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1156265,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11990,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58087611,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6487289,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1977697,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156203,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2470000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2869800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,804985300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133431000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3690400,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58243500,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749100,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,76619054,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43232305,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3825633,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1375921280,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975001222,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29876710,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,155052,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22947384,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2082891,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11668522,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18283891,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3759067,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1654439,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1299087,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85036458,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234955280,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2023162,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237804,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,906686,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8544130,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194227,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605205,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1974119,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323830795,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319899915,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44702,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2406,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2695219,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125219,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48071,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198163138,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1327986910,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3783430252,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18121507516,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6575125628,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368116552,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6591,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18346663,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33412539,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777367201,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4820364,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1639905,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240285828,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1405662510,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4118,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7779,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66871,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672098,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5154996,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061572,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45874153,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829422,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38009,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329844,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013712,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1238091,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70480967,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42199874,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2034,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5742,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45951,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3752232,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34412549,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315225221,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171621574,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1173844,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,21,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15251,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,123547,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14212541,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8395981,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1958771,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105720233,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3234886,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2604514,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2362737,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75595,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376902,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295779,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219382,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181352734,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148175215,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1557869367,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2287336696,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592733,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20054158,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49425,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2337520,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10870338,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11165321,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17931103,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010584656,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710328390,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26882415,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363403,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11687017,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3067903,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500280,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95492212,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1662745,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96861,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1046,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15717,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,52141,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3520391,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5213192,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51973324,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116146508,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13549,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822495,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188492,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41120,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30152937,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576464,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32175,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2052,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2653865,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6114593,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195497476,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196520912,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16803,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12902720,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186646,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490735,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3722,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1533557,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194613,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10575,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18177,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10568887,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4472401,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17368239,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47860158,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581479830,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821420477,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41454,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12601953,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16772,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2736868,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3354608,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4740073875,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3675693855,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8451212703,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7571342146,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5013685,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77403777,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910341,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16548362,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67645018,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995454506,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1812716692,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18353865449,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24372338465,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5448162,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419264111,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84000,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104180648,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120843493,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27912870,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,163038338,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1618328869,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2206671944,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25123994,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2149511,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478683,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5476094,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2002320,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15848,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382861,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39720152,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4813504,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,968,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195183,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507900,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24815655,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608582,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2758,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315131,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8239599,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156298307,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581697564,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,989944013,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94540,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3596647,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153869,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58539401,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53753515,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44655960,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109359271,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926729971,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2113644565,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22010,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17619717,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838616,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5960434,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6035774,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13098,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229221366,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19791824,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19005,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32773530,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55192944,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534121208,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1168987645,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,935886,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4385360,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92427,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23472338,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10889955,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5300084,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12941914,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3182885787,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3990399244,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12772407,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417961456,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464550,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2262358,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22839138,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16346840,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,644193028,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597472635,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1926214,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30007693,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18218,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402433,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28926610,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2895949000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1428102000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63000,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4483000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6478000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7784000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2501743376,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3606907031,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5580680,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72413117,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9377000368,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11424866398,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69815755,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5168515,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140861582,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125980826,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6227273,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2113,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161843,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144790171,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68967437,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214963,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92984757,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84430670,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631492065,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3162446882,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106100,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81884917,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2066559,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17250439,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13739236,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280770466,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3833284,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9978794,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,730082320,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1145852880,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44163706,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55117026,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60084,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16095966,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16306690,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1500446,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,681768234,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101111988,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8410900,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5539,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30811,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2494506,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1701473,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52921512,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134542394,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781798684,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6154872146,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50885,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130922876,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4785309,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8006051,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14973263,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25887809,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4214668,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578352868,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97665957,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141957,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3102,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2471225,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23465,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80219,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224851850,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131204129,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462756,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4891634,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51975959,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9459841,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777430668,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119564551,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3252,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482381,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1712022,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1267047,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5542,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11155,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63345,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318450,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2827911,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106082106,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208175951,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10017125,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598913,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299822,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349077,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2624677,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182750433,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441256839,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395777,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11699351,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510913,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400939,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3553103,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7122845,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1201,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65266111,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126982851,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748812,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1978398,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1572411,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1333713,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2963548,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478145,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197324,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70712170,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6726910,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322128,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96676,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12684,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30687169,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46771674,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361191779,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2431932825,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2845036,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13753002,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288491,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22919447,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19572289,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83188,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48390894,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368297,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3177153,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146765,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55732060,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1894561,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2559547,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1640736,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13595660,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43789654,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267487523,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560796715,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623840,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1071293,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1512,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238938,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696502,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2915215,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782338,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29095731,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2777137,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302430,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,892,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9613,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1157735,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80582523,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25242156,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7228,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1553,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213631723,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91832908,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1983024084,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709086517,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630058,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22272966,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2248412,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1534972,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2404832,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,770033,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82885030,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64277403,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15399691,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727248,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139446,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37474,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1149451,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7699,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7699,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72943233,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436194,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55594,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37768,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25955,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192290941,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312490245,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3073428197,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6568196814,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3592728,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73228458,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18413,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27861,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86334475,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65270577,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4918194,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4098209,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,57230,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147476176,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66402362,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504531,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3676,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189302,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5878,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941371,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746060,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417495,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658962,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,52406,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299452,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12670012,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152246,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2289,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5352,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42718408,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5089686,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,861470052,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,833158592,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134375,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499489,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1832315,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1709748,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5944866,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19799280,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268733369,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327346274,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1716733,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2527183,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16805855,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3229621,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1238,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9809304,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2057239,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32943,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,958325,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67228178,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33815946,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289461438,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56056,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4556420,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180844,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138429571,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49388835,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4976,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11719,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199438664,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138440560,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3494379182,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3271586562,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1801760,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38009992,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44288,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50552,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13556134,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15763746,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21228340,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242201504,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749957421,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435194136,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2964810,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647889,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31198256,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4479501,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114612762,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83792557,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3384837406,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2340924471,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48934815,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5280936,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8316302,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657162,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136550918,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374960464,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3441120204,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12929905760,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84398714,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343177265,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1435,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15233748,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62835209,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21096455,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23251042,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,826992325,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310159190,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147457,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7873279,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494451,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116805972,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266348928,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1116634172,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4921406732,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14934163,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59638048,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51814,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66448,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59693352,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506672836,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94869118,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79437285,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588428851,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829330737,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31493,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857662,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18959,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271764,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932910,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35901175,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25828330,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,718838189,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325139590,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1044,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11855825,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7994,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,604100,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2913337,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25318345,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12767405,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542470324,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455872756,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49289,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69513,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966884,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7984919,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141522701,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488207374,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970524541,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6903076155,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6462481200,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13854787,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8057782,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38588,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3485,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42970470,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17981476,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4688369,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7814816,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378811651,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56610952,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,850,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54424862,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55708,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32735553,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63567860,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1399426678,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576785860,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11486,,,0
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1891221,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11838,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6264490,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13202343,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203944723,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242702837,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603342584,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6077923596,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523416,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18638143,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9198971,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14470784,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94534784,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276168581,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166791922,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7610957212,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5736450349,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229749411,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28967203,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269828155,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235234771,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166145,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424704993,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133211383,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111428972,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206465898,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912702766,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403552772,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037979611,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288765,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8568947,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23696472,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8551814,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33880,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367197474,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88595944,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72372,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351883,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6083,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185988002,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193352925,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9988723809,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9563506519,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25567164,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47667170,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42692,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5194,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18950323,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56830073,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5041808,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273834,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77852054,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3613154,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34146091,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27516021,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476486676,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544451764,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40684210,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9877101059,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9771770526,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508766140,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14683719,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282178944,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5745419,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192323,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796156,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20450,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81604761,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107869624,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6180906,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,924753,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25679233,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58657911,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237211182,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22108,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31460,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10367096,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24580,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3298499,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5118042,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8092,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2485187,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182237314,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1273792554,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1393786072,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110024097,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54111623,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5141,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7930848,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135193463,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211918102,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476621583,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34628,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101815,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2528,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35275376,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135551,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5749788,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2527,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35438,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138055,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148928,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123656,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26638,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12589,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,903651,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7655457,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42419335,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4176194,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89820,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19260318,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727795,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84223914,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45164403,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606229,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90961,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97344,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2717896,,,4
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202433,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630655,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41186,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452431,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1506336,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5005956,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32176,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61090039,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16629182,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1354,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26661,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326084,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2424125,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201650,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1373738838,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,216673602,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9467069,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36909,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119593270,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21575439,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13615091,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9600,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15337,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91311,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288886,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101271,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13278207,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14576734,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12883155,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325148230,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100554754,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2930,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115775,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282981,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48519211,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3671662,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162801365,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187707494,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5111,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5415,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3828428,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10317,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50568960,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77196,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14510,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14893,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14893,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440076,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2609808,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696888,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155473072,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23784038,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4373427,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153469,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406666788,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597969780,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114468002,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3874,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9107609,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2363698,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578725,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605834,,,4
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10068184,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346495,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45452052,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23398622,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222429,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8542309,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1786582,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61452736,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35868124,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22255,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,99384219,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20742122,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,800973409,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223481114,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9188800,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4161876,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111862,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4689173,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5417307,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1970722,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17772,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17636,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304338403,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104063330,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24979912,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111083,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4606,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633233,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248409,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36022,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572553,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,386792,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,21553399,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28860518,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4509,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632852,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1423073,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68275,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32506132,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47532267,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414602,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4307,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11740380,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268331286,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446208071,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3102,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3634809,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23893,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1817972,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4569820,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128045519,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61962093,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31684,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40605,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1172670,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3376414,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43833964,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221920431,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26677276,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3016624570,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1783556665,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52617390,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55938,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436336,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203230,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2554558,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23775508,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272373,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52963706,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650874,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230625850,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852242,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34418,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306684,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35433364,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30238666,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746303405,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517794935,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331014,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13534879,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12315,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20447519,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13489621,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5469653,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10876804,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39691804,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222985195,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1901763843,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2570948,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17517,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67845,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,946962,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12366811,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2452,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2118,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24229200,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2378829,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499359,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201755,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26589524,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3903474,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40202,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641182,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16399,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,936229540,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171068907,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71829,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583336,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20194878,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267825,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158123,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15260066,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28632246,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12086158,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7319638,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,878,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12664056,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289570149,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261186878,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2513563414,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88997813,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62210681,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12037,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4059143,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3675951,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53440866,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432599049,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2087108110,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1866522496,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,312259,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245704,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1287912,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64337640,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14491347,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151823,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60567028,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12104775,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141011,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19482,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1346734,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39195,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751716,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14564,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12339,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15432616,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135600,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4290004,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3187,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211587,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31851,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31851,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2687675,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2003,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684248,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10328646,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,949926,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7280457,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129089,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462395,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68599,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1933202,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77113294,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63304,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63304,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254203,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66274,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5761,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7168530,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129606,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2217,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,39920,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6135842,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1241903,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,444,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,258,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11864,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,37,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,101077,,,0

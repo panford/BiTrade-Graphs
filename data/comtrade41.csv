@@ -1,0 +1,482 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56058,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6310,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1921,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,595,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1114303,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354056,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1193845,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541630,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362174,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515882,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737025,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440051,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6612,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11195,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89946,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24086,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7025879,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60172079,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21238,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45839,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201488,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553026,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9240,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1177,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1492,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517863,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15569,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31552,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46353,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4017,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,770222,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,162,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21843,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698057,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3919571,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71244,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1256925,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145310,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1500,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1992959,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,949,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1900,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5800,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1249594,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3939113,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453864,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1274054,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143276,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56505,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2657967,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7244911,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740256,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4451041,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3333,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26072,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184756,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28879228,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128668606,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702463,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8689273,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13280,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44573,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6210,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4529,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386673,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15062,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,916,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279679,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,126162,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741031,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1017,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1585,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144537,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7062,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64163,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150685,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2324051,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3065367,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1559074,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20846,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237537,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550452,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7785,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1695265,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,841375,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61161,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1459469,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21082,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58824,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26369,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3260,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1426,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,747,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41380,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79610,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3548,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1780221,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248277,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3389,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181992,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3511971,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21879725,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121335,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36424,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380702,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2638276,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15677848,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45301574,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44948,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41308,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5592389,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38230338,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33828,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346976,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3002698,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273335,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,729574,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1974,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10922,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62362,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544947,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41063004,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788612,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5206,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6307,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215422,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3918,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21216,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7381007,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98626,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19408,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1175,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800051,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26470,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10554,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5404801,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1853,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3720,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176539,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8550000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2877547,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12388917,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,958943,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49744,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227843,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5042,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2452211,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5515782,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11684063,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4118379,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66322,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5439,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7743564,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2631360,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329122,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1910643,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71800838,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71009,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5655,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63195,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2713708,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7355,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,580,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1081,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1128,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146151,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38016,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003988,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70933,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598661,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1045,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2030,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2827,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129448,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525887,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5595,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7950,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14539410,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2555588,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23187,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53180,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213842,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329185,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381726,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309026,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260119,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4405,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16937,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154562,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880208,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22266,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2365,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152672,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2300007,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148153,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1074,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51160,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51160,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4902,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297340,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69014,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4400931,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24710643,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176114,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13531,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11166,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1027739,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426505,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226135,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9276,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34576,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,50047,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3900,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14335,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37330,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127245,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117721,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12295157,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34484507,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204555,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175904,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811930,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14354,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3283,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20284,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,850,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10767,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303751,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216322,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365173,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101369,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124701,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46917,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266825,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5728638,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286679,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20183,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222998,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408772,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39977,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2270803,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19120241,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6055,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188844,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51638,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210738,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6712,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3617045,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91357011,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30830,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5781,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2772579,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88985,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210539,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125325,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2879,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8087,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4103033,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130183,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11373,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656954,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080182,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27972963,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139992,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20351873,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9871,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14363,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159304,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2668314,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253911,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18202,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329365,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1768861,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207065,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342300,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224269,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6564668,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10984531,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18046,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6798,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10289751,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87643,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5305112,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32798,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327020,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2413346,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310798083,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58016685,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55639709,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13003,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13003,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70115,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4656,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122736,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42592032,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7137328,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2273134,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642286,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13277089,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11786612,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336513,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20227259,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298234,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9369151,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1298699,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60490266,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44346401,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66148838,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1518218,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13556309,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587754,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198641,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49263947,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243533809,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19730723,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2261,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7800,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17572,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8006,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33668218,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157207,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2475,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7239155,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9814,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64711,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89642,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419105,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112217,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7442708,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2440678,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638383,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3222,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,987,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9803,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680955,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6918,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1690,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1108032,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6104,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3823,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134033,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21954,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21034,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15854,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5952,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2007894,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150506,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16285454,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165652541,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28151114,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158364,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9797237,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20483,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5121,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,333352,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373061,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,117762,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2191373,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1594647,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19114,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,57791,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277260,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35628,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71930,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3875,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4646,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3205,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,135,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87692,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3917,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65771,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765924,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,830124,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716049,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2376948,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36271,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87822,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127658,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4151,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5261,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123701,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316382,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44364,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1775937,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5476083,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3399,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40670,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1373,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2985,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327762,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26846,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9830558,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,181635912,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29760447,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43418,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932670,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365875,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1732634,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125675,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16953042,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1473,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125194,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718470,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2224672,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807209,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156321,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2237083,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366704,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114263,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3274508,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90239,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1892,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14256,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87191,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1246,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7554,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6588,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,250,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,341,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,314916,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8099900,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1374120,,,0

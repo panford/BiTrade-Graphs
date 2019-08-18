@@ -1,0 +1,1202 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61592,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66420,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995069,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160794,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65169908,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15484036,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7610,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66831,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6652,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222685,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42027662,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168709194,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344723317,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82113,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2052,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4719,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58503,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115208,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7184558,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112874,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77990,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320472,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3597975,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663597565,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,36,Australia,AUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663597565,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1257303654,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34829822,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613175,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1567568,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409208832,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64509949,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151136923,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274843653,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4949087,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16938744,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109377,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608797,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2884463,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3940416,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4231491,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112701,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20756308,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1882355,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72968,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2150,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3604529,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49864050,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044679754,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2118595158,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2201404593,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4364453515,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37970644,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69706036,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28634,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2560964,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148284,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4421,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1039240,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57299,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57299,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6106086,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149072519,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12781,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94058515,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3814866,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500601,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7817,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13193,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571972,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1411123,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1914661,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356291109,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516402119,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142268,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,891,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183431,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71094961,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363278298,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464718498,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912490332,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137349207,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141324,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24595621,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49825083,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110231,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43576503,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152305010,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985438,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175266,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171707,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18178489,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12282767,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30956700,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824761940,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556188247,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382307,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32336547,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1958,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932119,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,336,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66526,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158942345,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25878763,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8962601,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1991212,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11750,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,713370,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9761600,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118101000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4665500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15084600,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157824500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17811100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7125500,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34493900,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1017378666,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11089308,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1507618,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1460780178,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1540752543,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218322519,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1461369539,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263301256,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13079276,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20067678,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7194901,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345355,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22547054,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7792692,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1194104,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64922458,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246270565,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189911345,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1437847,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66980080,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28520279,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233205,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761933,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3902,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239145,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345999325,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220072922,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281046168,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72781313,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4789,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552820,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2205,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1981009,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577453747,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386971460,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95009120929,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41438227660,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5865911150,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2527128524,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302677119,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143851698,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7040,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24302076,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204967,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43398091,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57020658,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171529324,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698824,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36975,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194848,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3032904,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250192718,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11232,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92606,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674563,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235747013,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168648,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7024592,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35261451,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24459044,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231578,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190121,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21752033,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,250591118,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787018,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4503153,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21543245,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1849590083,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985035532,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131113,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2655613,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12980296,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652111,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12429,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4510579,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24668702,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3435339,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47852374,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14888280,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2786501,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8601,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053002,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346667,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62898317,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95254,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2851,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1024511164,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86672633,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159341918,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430243581,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5134637982,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8013316336,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3583847,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37226846,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3825,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93448,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1161188,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12874955,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224750134,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1048680245,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,785657701,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,655890710,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834504,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5188581,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10670,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1608915,,,0
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,144,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15226951,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5357284,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19019909,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489987,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20722,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15652,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8078275,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7149491,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8370527,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15779850,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16271640,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52410883,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264709,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77000,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369619,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18594779,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5705489,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14637475,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,839118,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38472,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12245870,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180860,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1358944,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3901345,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8188164,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48284049,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137251932,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50390365,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630229,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4990075,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14593,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401400140,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147016913,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26505048,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2465589,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122444,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4399,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6601,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1654960,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13516856,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74368117,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569571546,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684165863,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394393393,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2148605,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14359885,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8478,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249080,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718911328,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115025347,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1355591416,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2903837411,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7408502148,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4363006587,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9573269,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46930307,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68565,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9420964,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1130998079,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418877748,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3037267335,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10741916192,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45271522698,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69853176898,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127161367,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180406583,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58798,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10842439,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139152096,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9399820,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16233351,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170595062,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512811938,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266431970,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4936816,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13733784,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2032,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89115,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3132,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389405,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739411,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3732774,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11650294,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8503643,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335673,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846135,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2802417,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25675460,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11542760,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169156,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127282,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920778,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1215269,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20433788,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8989653742,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4601565390,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362037175,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645761028,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318402,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18947306,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1488816,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3360321,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1252290,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46457424,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64625732,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411247104,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6438016591,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5488253950,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1817370,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16895279,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512199,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24167,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2039767,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233114392,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22446030,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34621729,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2777379,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31309,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12751,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408383146,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3252568,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6009006949,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2509185231,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342006979,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26266245,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111949,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4178651,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2946,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501997,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26890788,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323772626,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116074035,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39427580,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335929913,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28282333,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25680411,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205895076,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18039,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6212573,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111040464,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001501195,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321760786,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414440766,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18078,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2183247,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1396,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363643,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4382000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199723000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148311000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555637000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532664000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63123000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2079000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4274000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5232883093,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285191557,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3067767,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676502838,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4370925729,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119664821,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17404,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10562395294,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10758403297,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229683502,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69406455,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37510861,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132565781,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1480309,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33061994,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10237,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6129506,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4095222,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81225712,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38968125905,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16010838104,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596935588,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160078530,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10410407,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19380262,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33764826,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105924067,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23168451,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4080439,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153264391,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3490482,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4613764,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4431964,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182805,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2267221,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130045900,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4906771,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373762,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79138244,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2716172,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1469551,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15239,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59381,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5083,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6737235,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,885072,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53309918,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19158973705,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19861457998,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1614380652,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,959360326,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6884310,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7498925,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14874139,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16571408,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105997,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161547,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529296294,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20719459,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196109231,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181817,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251649,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467990,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439966,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121961,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4956405,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404197,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7372781,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1318326,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806175,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145352,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15337704,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2315728,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43134793,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14602904,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73471367,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1771564,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184972,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563487,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81724,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28715,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39156,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683395,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221757,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1339265,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17787922,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1684325,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16519561,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146198150,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57046479,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2189380,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5602495,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1374,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2531247,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37402302,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3148700,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46359911,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341004717,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142518431,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1969396,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39905461,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3132,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17225,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15943615,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15493231,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25320947,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138228465,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255183306,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316351,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222504,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660126,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343327,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90147,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9478161,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9976527,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376735,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2583343,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,648865,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556174,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2042,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739093,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11453171,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4676735802,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7539698996,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543765175,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104044467,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77949,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1881041,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19181,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341991,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40533678,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,661692,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2250459,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109992601,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11639676,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9666774,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1950696,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8998,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709835810,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700295,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8232053885,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3106423249,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522369742,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418165623,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1122083,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1797581,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1305087,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694680,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105421,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36550329,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3458323,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10089500,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276177,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48788,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5722,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519832,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112164,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,48631033,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995725,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15799,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230501,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350659,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45204411,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18933468,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210131235,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188843959,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1485,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164636,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6728,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6598,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227268798,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52123358,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1224572,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13085106,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371341,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264059,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13573,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40875,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17290,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7564,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13556183,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6463725,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124309,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7856347,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324926,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13333,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4710,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45636,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45192,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5214977,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158062655,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1095399150,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2871933234,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2877419572,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6395465507,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7123965,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47426417,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9042328,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128752399,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116641,,,0
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,47226618,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2705,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4910884426,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6252047932,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586262520,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172465823,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20666818,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1183520,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75917,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11888246,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68670,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,822234,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1180,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9766,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8634261,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13355214,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10578131,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538776,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4784812,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19906,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9291049,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119041583,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121854210,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194366522,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633206055,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259682201,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213243,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998673,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249961,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1746531,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12590503,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107977,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633271530,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237309118,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38607,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5318170,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143948367,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13316366,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46461,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20719,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96433,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115791,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226336,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79880,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283308,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2519338,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2145112,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16324350,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5544473,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3009,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259630,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8736647,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9365,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4506,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142511917,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240261156,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93809437,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2680395,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4386,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3151993,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12932904,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72100607,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584038792,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714422579,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3554358600,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4225043116,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12561217,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44009795,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1145503,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778225798,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3205481,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43137721,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152711626,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423050107,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410599798,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1959,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3733517,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1045,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207335,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353257252,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45054008,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37583378,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82413914,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2841670281,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1653382741,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217262,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3010238,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611267717,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1564076547,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509951729,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120704133,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2078207223,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233170955,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427557290,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,868794870,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3535440,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405652,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4578606,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6834428,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11724444,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680093921,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453540243,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86398719,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1012155,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545025987,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41578210,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14352346774,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3875783062,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895148787,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436845516,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453682,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32892929,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397873,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6463992,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844271,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64438836,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6878901,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204531600,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2377815291,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5060313097,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796717,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2769318,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6874,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27637,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4500727,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18930215,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11366471,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111171396,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2479612142,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2409286431,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450498,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11328703,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96047,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19807,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141838,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3842832,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,992418666,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902709089,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504844013,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45361023,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255064,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1879384,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18523,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390490,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416423513,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50540409,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,697969513,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857316425,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2379136168,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2681838158,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126020158,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30129434,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65348,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13572272,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14076690,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119515,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11178687,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280,,,0
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4867795,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51500557,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7650077,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700456,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20531458,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312711587,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1667331317,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1959103651,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1358949413,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370623,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19189943,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360073,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1986609,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151505631,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70095780,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1351513846,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2456523317,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7993708667,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8162300726,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143543581,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92778501,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396996,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12217906,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5416861,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267668685,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207860263,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2431405276,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579830573,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291641007,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1191712543,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100429982,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77975612,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69764849,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179602591,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165793756,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538980,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6816256,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1732104,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,350869670,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1356999400,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2200655136,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538220196,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1472590809,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113743359,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2144919,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12578,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030887,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5867,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589320,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3119700,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6033574,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134092279,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70108785,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362594,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82539717,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287666185,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4892369339,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5764930844,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4348232382,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2415062697,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3944526,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14034173,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74765,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36140123,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65134006,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4643584,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10343185,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727660,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21923,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214776,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216046063,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354544887,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9438874,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10166117144,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24514121822,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2412106383,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11961519903,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4240499247,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290104001,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70903422,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54991338,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9821640,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35963154,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967384024,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88166333,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8471070,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3314686,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18154972,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895146,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4292,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6998,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2778884,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23511,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52452929,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940439,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5616410,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233389,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4961460,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569708,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62342338,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137552913,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18434,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44100,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1741596,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278669194,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623358558,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200594931,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12938614,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85720,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5051892,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4106671,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6273,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4317725,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587305,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5968483,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4639,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2064,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78901,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104627,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10087,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3136824,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1759,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1759,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113907061,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4119616,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47557,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37583,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317669,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100500,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172425,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165373,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171743,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34287,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4113592,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244792,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8492537,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137871,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,706,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31645,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155597,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117526,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164316,,,4
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689315,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2487132,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2282,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4847079,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553685458,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,272149860,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177868349,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191942,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550564,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,936086,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248029,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63289992,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5624991,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9634,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247517,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,281321982,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,210276611,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131783508,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101400,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21766,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270313,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109479074,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56725338,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8008814,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343763,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13464,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13766,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7993,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34571863,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9181117,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15713668,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53615,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3231,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12338163,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025465,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244310,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5780635,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5804,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4443,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104333,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239186,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28894,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1012,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708568,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89458,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47727678,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22102794,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22672489,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920771,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4571,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27322,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9383,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185140,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14461070,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602064,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35570244,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21894,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2764184,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298427,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31559656,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1285458,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1923764,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233879,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7193,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7893455,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1285406,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,47168,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9526869,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344173810,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1189963642,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1546567503,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,237669232,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625347,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1611933,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1496800,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13603302,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216172,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6587429,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145572,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,921449,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375416,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28826,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80297720,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40861227,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3279890,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647738,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1249881,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365704,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14212840,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10009913,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4723952,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31732,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1500,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2323,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1728,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51320346,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6531243,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5755458,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2080360,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5387,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123813,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197204519,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381367376,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49918537,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1843,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222392,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,689,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1889121,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534390,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3594,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19928,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216248,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1885227519,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453188673,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141012412,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56877143,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5135,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110522,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005734,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262390,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020863,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103704,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899641,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42386,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29424,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174912,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442808,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5420187,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226641,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1193035329,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369002144,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14196458,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722150072,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10225264,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1354378,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,986761,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214723,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29107,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1278065,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360789,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65795,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26473,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45177286,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645914,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16014824,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385948,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2738551,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3751,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1275579,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32828910,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4085677632,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10005548579,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694010892,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137819200,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818474,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328001,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43214268,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253127,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250897399,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1318719,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3200104364,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3271003401,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303077895,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3705272826,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2414,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1898205,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41019,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3235502,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69285,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2521,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85319,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,939294,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3168295,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324998,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209944,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,815376,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23662049,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3277069,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325422954,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647961,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9438580,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6057181,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91546101,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73570131,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8989,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,890,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15730141,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1967200,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618937,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5364084,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232026,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15414,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261211,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417055945,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354993222,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134260226,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14973326,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482748241,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535416603,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10852483,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105112842,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257038,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453625,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111417,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397954718,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33933774,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268598425,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11008275,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9048,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1718869,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9359,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50515924,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60522,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4465710,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9148,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37395168,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9516657,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203609,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1247,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,951666,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3757,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134700,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18179,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18179,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4116587,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456853,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29756,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759134,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2635,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204237,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30714,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396255,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3185,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3185,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60878,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33029,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1076353,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1856,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1856,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259152,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33977,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40251,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40251,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4821,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209147,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14558225,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7219569,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110058,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32948,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80771,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2927,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14598,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1689116,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183599,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2088103,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63670,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377647,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211887,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751595,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2606544,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,225416,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2796,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1365722,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,56090,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,29685,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,17860,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,21106,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15719,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1429559,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,601589,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,14901531,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1436925,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,252896,,,0

@@ -1,0 +1,1338 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151916,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12261110,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,685,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2298475,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230707,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2393141,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38016447,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3445473,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561028,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253311342,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301518727,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19605546,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94892,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443886,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983916008,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,871523976,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55581,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2853398,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1810,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4039836,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7751020,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186775212,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3227003141,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4882629587,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35976499,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115183843,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38754,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68066948,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4011893245,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10757137130,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87243575,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38112665,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315780040,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260817473,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127780092,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320776006,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383269680,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94165649,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,923048957,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832800980,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487262,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28200183,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174489214,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83990866,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2240218,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201900,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117232643,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711795,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,45347312,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3297443,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26300,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66675636,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162321122,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1572875027,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,601230983,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149238276,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674313274,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82968059,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203275909,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5454997826,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9012833847,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555843,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1623882,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10885,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4556351,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55484,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37771836,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69244,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12365,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438536,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141303793,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572050905,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106445,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361898,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77633,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26004818,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10865,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6913584,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051995,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7717,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,648352,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71787679,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6525561,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15230420,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234072443,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1351081038,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1771944232,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40856625,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2559657029,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125371946,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810748752,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2945674680,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4657327590,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9234,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6999,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72931657,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36636644,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111744,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4313,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50492231,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544901107,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550493,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394647,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53720944,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31864304,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60880320,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68776931,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28144354,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41139650,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158459811,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122282062,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114551,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109232,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,918500540,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118648262,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49161972,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675525,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4454715,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,975107530,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708115078,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48465600,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5358800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23746100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132306000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7165500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47614200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2611300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138213200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269505000,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,75437856,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60990342,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2593249,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1333460675,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1333135567,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21943651,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,68190269,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101683360,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4614170,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,54678657,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56277494,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5843621,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3204744139,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3296712915,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56554444,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78699,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233831,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371068807,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48240416,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2977040,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10754044,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177892294,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766553,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609612,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146902247,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18305,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4494065655,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789586078,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100055227,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10159462,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3319793,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209315040,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99521392,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,812920,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12723893,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7723,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2515499,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,807113494,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2072817617,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110089708,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111826411,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28574305510,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34757384544,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18553692986,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18584814804,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13814112257,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8330414675,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16345370678,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68042252505,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1411981,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,636264,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186064374,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7774679,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810907,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2160082,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31563,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19413564,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1042051507,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279640031,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38408,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42427143,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541486,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700614,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16523,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3987,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60567747,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39842070,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2670132,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34065115,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13116243,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17658,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,744200,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2026,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10339962,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190564071,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42532927,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1410109,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2487143,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26329124,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16785232,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,62009886,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5935026,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,246006838,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7950660,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140630353,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17001182,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65652,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186455,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77157,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12889664,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8348969,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5277514,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504945,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12960099,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9232247,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3361,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13609880,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824892,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,82821595,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21758200,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11991069,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66250710,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63959903,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398959571,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112626725,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16360208,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76220176,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96966,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61473184,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794709958,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667250746,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150500456,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537373493,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253327908,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191524767,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12373722,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201837772,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78141,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30849794,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784151123,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368983421,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310831,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4989,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,55344268,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10038581,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66757,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3184,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67476,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5420,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208991621,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578299742,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1377529,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173804,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89744081,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93254820,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1078752,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63796144,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56438890,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351773967,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123110410,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23549,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37590441,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33231203,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195855,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108475540,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3059307,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3278449,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35109295,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65133640,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5806070,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1844147,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6017824,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093990,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73864768,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66006512,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12719,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25437991,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385216,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214878,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166107,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4547,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180013,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57062996,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14322988,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13932598,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8862734,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57744751,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170534371,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280581734,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2353740,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129453332,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26751,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10149161,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381391852,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577374774,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361021381,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458935334,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2056719141,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1961503762,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2619789752,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1694417570,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143485201,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375222080,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6051924639,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6037814785,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496585023,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,732627644,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4465374163,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3049455287,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436373826,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3401248381,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1078784747,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759131514,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9674712147,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12113416511,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2430653,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4099060,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187499537,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76602280,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1427775810,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37027717,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3548901565,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68530695,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408110414,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110064787,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4570918,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31197459,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169911,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32287,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,976841,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53524,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117861,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44970778,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35936414,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119813,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37548,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9804428,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288792553,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16229559,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22809,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21688659,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2841362,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20976,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118080286,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12555161,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3543020,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9522209,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2762908289,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3485946886,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178196260,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231220284,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2314024,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60309607,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13782883065,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21070302017,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42805507,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12108509,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142717829,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43177463,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2681287,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51448913,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230207546,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49854058,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437287494,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228954642,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9346913,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726067,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784516,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461765,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22578249,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,856431,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1396678,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,892169,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18140723,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18140723,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360281163,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312199647,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246610,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126055229,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4048553175,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14083572994,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793023,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22060,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193555358,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645332624,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77443069,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6425016196,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2254604803,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2734892726,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12854151,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47412507,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140084685,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72762631,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3953241,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161365566,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28132,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99560126,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,913615892,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398010271,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12937000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3518000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48184000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83533000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1853884000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1934298000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21005621,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136050096,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284715,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6969,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2112948248,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1285081192,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5394993,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897955,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3805015297,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966634183,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23335270,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34688,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3187296206,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643929637,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3412310,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5812974228,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4034496258,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41590816,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2013530,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172903883,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85809633,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19825780659,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13393573959,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3581189515,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,878010804,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1009962295,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285025369,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5356427657,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8850845797,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4376483,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1500000,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43228035,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4277187,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68046933,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484543726,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2867853,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212488380,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,733255493,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25185,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116844575,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142873917,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392501,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101420172,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21714835,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1784835,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1679358,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,541980861,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27363162,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501169410,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519009954,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1976146,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26650156,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45091885,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9570960438,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8403680194,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7989300111,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4021060770,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6371009393,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1461632431,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4947846839,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15055543131,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513673,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5641,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193675254,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33744100,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180271739,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84854120,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76298,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689982278,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1758057287,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761118249,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19316,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1762341,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62005,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9091021,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12668845,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1391107,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28686532,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1347660,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107079,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63273,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106500508,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2456964,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62071719,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15093907,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3572959,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172099823,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307335681,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12287526,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92218,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122506,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52451738,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96596,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5544087,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30239344,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4095244,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6307293,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404415,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3377907,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1164,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2254096,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78288020,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27710829,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6318414,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41004105,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20119114,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7762742,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4545610,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8033606,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1184,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6780139,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50649126,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67063391,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11031779,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2069485,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1526,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127525851,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17374980,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37451,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955924,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6723964,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1375,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4100,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734428,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54633208,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33372575,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47122,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185730,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27724,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64888043,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24344544,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593941,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5013971,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14239,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660246,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273316194,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90006320,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199180,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1693438,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965992,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8819350622,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7831818107,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295011064,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,757860509,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272592723,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128230490,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6252020083,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8041444861,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,83420,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46239893,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58290,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283556684,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2862051,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127918,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193271,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66379958,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2493903,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336422,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,966994,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863362940,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14881029,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19491873,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6485942,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4907738704,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3199904770,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1107425466,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654117918,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1219721254,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45342972,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3068267392,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3306051487,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10966,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7201,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14449430,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3341362,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3072730,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316515,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8266339,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35877989,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1787904,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328230,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10140,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6612801,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156281,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425013,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48388,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12203309,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4241750,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1481993,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133451396,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32428771,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1046604,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2450474,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425740,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11522124,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616782269,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662644367,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163204,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145307503,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161626677,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684652,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501192651,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568585865,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553218134,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260786106,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160653124,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77155745,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364698381,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,935677666,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127647905,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464589,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27788161,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27774336,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2086134,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284475,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8175,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2847,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17743,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146941982,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27347172,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24172535,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58742,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1012691646,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737447010,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3430361314,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947714666,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666651823,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1203229425,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3084841749,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458715855,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3607360063,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2229780729,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1795483,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1944984,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7862,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607527324,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,684053643,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2825778,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4824418,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86091188,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11849,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161,,,0
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5073991,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,215048,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438700051,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482442894,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4008498,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17356,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,621523,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25445149,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191300,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106443,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55972,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21998,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157011752,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2834757,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365850955,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547133178,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196562030,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146270058,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6711390,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18009222,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69187,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26585152,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492881349,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285762431,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1621385,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152965,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2583267022,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165587616,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12410694,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9087111,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327180278,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26534408,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258823,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39357,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70290576,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22114399,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821470,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1696136475,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334751881,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347247,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11579851,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6942,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15708870,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15453706,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33860,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43900231,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12543327,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161014398,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266741291,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683909,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1359757,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351499493,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35072758,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10778431,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2316141,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1915,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440169,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822377314,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1964211561,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209715148,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172605645,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699764120,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115705854,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89736120,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135995000,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402769296,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94206229,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2401143409,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736254446,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13831624,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17100011,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176558469,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16855784,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3918349,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68924435,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329197806,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27988702,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702353480,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133431335,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1713253,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8596049,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147675158,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24219042,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51619169,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491119251,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141321874,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69005778,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335699266,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306158854,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23353387,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14360904,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2485562580,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,770318906,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389420849,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1313581872,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39600,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255565056,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2896070996,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5425832379,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526103,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2082944,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59522662,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5168676,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12805974,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8870824,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483560069,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22164402,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189425454,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10818150,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7308309,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5884823,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16235402963,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3762670451,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11089432705,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2596780520,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15310044476,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1257756271,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4092464,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28737896,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152406368,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10540870,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11652925,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21032780,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34975,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4491028,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330182104,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56504712,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2692225,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3678652,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,100698736,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11975327,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7946213,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60896274,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33386,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7303413,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,264204579,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95899186,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5304894,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5924963,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741755732,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426186059,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20114030,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86793343,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30311,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5979402,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3914812865,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4139065076,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138951054,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59772709,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441259106,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505329911,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1742206917,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496543666,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434061415,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231589413,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4375738652,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1439260365,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3611,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154987729,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22729396,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34150872,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5573297,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16600,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,894251,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704483190,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48361841,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30009680,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375805213,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162804540,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389249072,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13887579,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503669580,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58648923,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148773741,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740062429,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1153488934,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29628394,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37055662,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1484622470,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459120211,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68140844,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544579727,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625016,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323207575,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1635029948,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19899823337,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3109148,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1154892,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1094387,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761343429,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383218499,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133060558,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1855070875,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15270317783,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14386116073,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700538698,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12244678851,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9936669511,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20202013988,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14531070645,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9281089268,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32230366,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199721944,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1506816518,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236666869,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7492104018,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3259270095,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1527572935,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9054612317,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6216638566,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758560340,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243085,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21836,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20442240,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8249245,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4761978,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365218,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238100,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1988681,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41379572,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13262735,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513999520,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511555242,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1775517413,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001845991,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33698865,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291619784,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1770249,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419741425,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9179746153,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5249687032,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6050,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8275,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144010982,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14520241,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18288198,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2320132,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3791566,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167465267,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,982927454,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439458552,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399258756,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13149820,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21148470015,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6863253988,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183867759,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64627819,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136000618,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6352620,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11159118941,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1204776577,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64727540,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50519287590,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25648233729,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5567444141,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1176822,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32376675,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7025927,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6327484,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22266854,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47950429,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189688898,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14429954,,,4
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78464,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10763743,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18112,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458624,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607177,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6117,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,246229043,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175963454,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12143,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3923411,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4551,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49295975,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,465126370,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,239705994,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16794051,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15724690,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97029047,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404067667,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965513,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2048995,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345800207,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073467796,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4534818,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446983316,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3630,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194546648,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,823724165,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2080969501,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186267,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189363,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2252,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2195,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188247070,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1163159079,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555992,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32598,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15493,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12827073,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542121,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383577,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21425777,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381244,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1212,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364767,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18192934,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532779,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244769,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109594332,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292335,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628484,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20243530,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50070391,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4700019,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1753676,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101734,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286963,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187677484,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224702329,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107064,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947048,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1063763,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1299127,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103918,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8452946,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103686,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,671218,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47590205,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7011697,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332207,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9059,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581525067,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75987733,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6124383,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42693,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32109,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11914502,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105193701,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76350738,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26797332,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31085,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129698,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31531386,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2206948,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67534,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47954050,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8961803,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177001,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7273456,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73493,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17393946,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1131033,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1696852,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67372184,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10355714,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2850261,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40129917,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168589,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178577,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633288855,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2689424006,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265305,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28215528,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152729543,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3750708,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6741463,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17179,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453992229,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468453017,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140801,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50797103,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17201309,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49966,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61083345,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5536278,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18390,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405304,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53466,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550026227,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11520766,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59580,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127385249,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14740143,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8081,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13258,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2014873,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607491,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1648381393,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57864947,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325074,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17963,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40697272,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7406898,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150584,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1811,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278071922,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12110570,,,4
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12354310,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8660304,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14939191,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5475934,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107427826,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52159145,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,772568,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35100083,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2115805,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113805,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78526,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23357025,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416527,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18558455,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3061039,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1495542369,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260861709,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,89750980,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,939902,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92578,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27305988,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5020498612,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3338506668,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8557088,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119699,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93465,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5530481,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4937193,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538682,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1737788,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46912,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13176345,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210000,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26852390,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1034225,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3588,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2447,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9170567,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6955360,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18613857,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,383300,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,450860546,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1621695734,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1128,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177236,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121355020,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44120,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44457,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2039,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88199,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6519702259,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420179764,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77579599,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3827522,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401182861,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1480282751,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575131,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1462061,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81431,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194303,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1528779250,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7938340178,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363082,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45815,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410114,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233409,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6753628046,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724199704,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99869467,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102578863,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5770,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28461967,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1755976888,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576562016,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408937,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254948,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26812,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2696111,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2068534,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2108891,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269472,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1672557110,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440368261,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14370364,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194832,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7947221,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507222898,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106774086,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5380181176,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2862417650,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75832437,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,996297,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219016,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23776553,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1452276,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35341376,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880954,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1392,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491066885,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149162257,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2283058,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545247,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15131501827,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27951580983,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,751162400,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184681318,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1646638772,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60201370,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7273056644,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11017885031,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3656304782,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2858867978,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3954591765,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3756251064,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6761,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643731,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4201419,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60940,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105532531,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65182,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23696,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2918013,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1144,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50916,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179819,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36080998,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240268,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70759,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30254253,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9891401,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25223,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477644,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57536659,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45824620,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715239,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687776,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64028920,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16149842,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7897386,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11657541,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5712,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12735249,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297503051,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103357568,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69366,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2721,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241609392,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17747417,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2978,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10840544,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551719,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58077,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1829,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736322723,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44024702,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622261,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72571017,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649687,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260721510,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397672524,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70106738,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552654428,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176894,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479479913,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561086521,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2206232039,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18440330,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1327111,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1077975186,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84317760,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19659594,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13612138,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,677101042,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513665274,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2337029238,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889569098,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10282,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11657,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16792257,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166822,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585314,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3231,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168244972,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276984061,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4114363,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50784,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,961902,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5764,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1511775,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2501130,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276571,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2418064,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82452,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2526441,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262500,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21571963,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1537011,,,4
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421453,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2367208,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54802,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394201,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5899,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2614853,,,4
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650564,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631666,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1015,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198472,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4885438,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600214,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111601,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154678,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45311573,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822185,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12367441,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15927,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,949576,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83908466,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2207288,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3370199,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40297,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6008,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8256803,,,4
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16542985,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,87979,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6151690,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,60,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,18657,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2750,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15111,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,16662455,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,65460,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,,,236,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1988,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,187494893,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6135752,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,559860,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4427042,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,292711,,,0
