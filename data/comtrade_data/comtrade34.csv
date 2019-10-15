@@ -1,0 +1,895 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181501,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7296,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581476,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304033,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298480,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18680,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2506,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30210502,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132685842,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23247514,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429684887,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8169192,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7526249,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6897639,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31388097,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,897,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1667623,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98714884,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16495458,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3437046,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5656530,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2097203,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7015965,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36641,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2429,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229918,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442020,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1330,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1407,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138339468,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44734686,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79824415,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50196176,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555336373,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19176463,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2831,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1861,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14622,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40975,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1106,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203431,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1723733,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9808,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8630,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1749795,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2163896,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600159,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5122,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4026329,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144758633,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139632072,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29954084,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240886,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11107837,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2304,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447626,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54286,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1711,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1850,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591277,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4248389,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6133518,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489255,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38700,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164500256,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316562,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,104,Myanmar,MMR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316562,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12064099,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8644014,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543488,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136945,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761300,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3407100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216800,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86100,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49900,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2000,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,93736018,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31317850,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485213,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1857222,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33657909,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,713183,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,72612125,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1857831,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593083,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,153359,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347636,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79972934,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2685672,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678483,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120341,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796967,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17205,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250569,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56481,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1738,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1738,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40319,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4638373,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51811,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95919,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5938738,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130683,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18276103,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,919923,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4526347998,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8948464266,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528715219,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1306746135,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297541347,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272141118,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275763,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422802,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2958887,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5063982,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3403835,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485632,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2944,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114498,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105225,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413396,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398280114,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269414119,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422872,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867843,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4705,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,841,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12751,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31386,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2144921,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1204262,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3421272,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8291,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,373296,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,19187,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300007,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1277391,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29092,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590012,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2579151,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66215,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3651,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49289043,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6429306,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48804245,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1403457,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4297921,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1991046,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1326557,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5618998,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94515911,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4703256,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2525156,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3513637,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3098484,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8559156,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228246,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297494,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38656,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19653,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10423,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822234,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1732,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25845,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11015,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52934,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272956,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2934027,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2258,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1370,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2666816,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1672,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17239,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166529,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160455,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7179252,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56111,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6605,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29250,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60354,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195417,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6047,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6047,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8565,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4504314,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1649824,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17118263,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1933312,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45663,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5565866,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642272,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1731885,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32675,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96018,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253312850,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145247954,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138260658,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30111741,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118699762,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13363053,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1684224,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40378,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26043,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7896009,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639744438,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135813102,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264528798,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65077823,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163279391,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77570000,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14604,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4225,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663416,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3846229,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980355,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14761452,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477478,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3710319,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4808523,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149303,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1778,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64491,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20413056,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64643,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8868,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168068,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10578,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1958,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89866508,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289817042,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15533205,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39524685,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39148419,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11021016,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82070,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144549,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678297,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47263813,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352269,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1920684,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2979048,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1467388,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226617,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341077,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082005,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2262,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269235,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460904,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145724217,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829501200,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28070058,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54110211,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2006419,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1234278,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93565,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299573,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599298,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525386,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60069418,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34634158,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14763253,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9558879,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1350,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4744477,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1622449,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2355363,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45114,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2366,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1557000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58397000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2313000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4585000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144104886,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100288823,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63092,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454485206,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45010342,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287404,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247537152,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98364323,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17026,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4139,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2159488,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066169973,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880735168,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192547332,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100828858,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8163435,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21746317,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6746799,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318568,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41257,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31680535,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1358194,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471818,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2704,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15722,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607563,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22125,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22125,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259376,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10063368,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569724,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463335791,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573173765,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149628810,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57222158,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25393671,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5495441,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4734135,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144487,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555208,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14523759,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9650227,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632306,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1979874,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5933425,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158170,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25220,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24183,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36820,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229093,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2762417,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181344,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5742849,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1063868,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348160,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10895,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4248,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261700,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122352,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366776,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654633,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159937,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431092,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113031,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4116,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2888258,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674953,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2229550,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11849782,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159479,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490684,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1905408,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1401018,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3312804,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59029,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278711,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51924,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,730,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58462063,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39891,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2362200,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6640969,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53456,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112501,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225176335,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,963562545,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4299690,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193266330,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439289,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4877234,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121995,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299733,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,948662,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206326,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3263,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1087633,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19059,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10456131,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3421082,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1703243,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349611,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24071,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57498724,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238682780,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27638064,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8147135,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50730222,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2655392,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25809,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318661,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161039,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6585792,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,559617,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100000,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65218,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430671,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,815,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29971,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,756227,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14454721,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1311910,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49328697,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87874,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15666259,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1548785,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13370308,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1555,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849175,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71512326,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12848563,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14470,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5199,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9232670,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19953428,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208519,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15492,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126188350,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34478287,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184178182,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51127249,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47958582,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21194731,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1938,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,864,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509318,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3747355,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28968374,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3705,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577818,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5383655,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8724766,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1242805,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1845,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266400,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1893405,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277543,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9325,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3447721,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,102974,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55298,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1705032,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13013,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24696144,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1444707,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2907690,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979886,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25618712,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3798512,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,792,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19471,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6488230,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18401225,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1849421,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66686665,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11154,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2741640,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602383,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11589,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77422,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13945559,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342825,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4493082,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530594,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14384,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82350,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23852,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123133044,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13359,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83149022,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8897997,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110171583,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44085811,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2633009,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3287857,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138390,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2969,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,977,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1487582,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715977,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46779890,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203657009,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29627069,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2483988,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5160,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3020277,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807044,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5834029,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104379,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39463,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43000,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11766,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49497837,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56429371,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21386549,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70925572,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554070,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1445583,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3626908,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16779747,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12260462,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62810,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22371,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1536,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3953,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92139,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738039291,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1063019271,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,982016036,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052669249,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60054002,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67715331,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14525,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3870119,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172169,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39716,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18203460,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1678560,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53114513,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2062657,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1042275,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696375,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105124,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5834157,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,841711,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66609107,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69599,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2881545,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13687,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135968,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8030025,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10237399,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,895379397,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2890791028,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,839361284,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3567809633,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12763,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4061,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92554,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207638168,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28110201,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249467439,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30787147,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241723360,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62225891,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203084,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35578,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1490,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161069,,,0
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6794445,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799055,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32077996,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10648918,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7142170,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12444167,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873812,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4675732,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55792,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20975,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64685,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67621034,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24932509,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40084309,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3862924,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1280777,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2416250,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10990,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4967,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402865,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82028701,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143596858,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87522236,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206541552,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376723052,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328293795,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226835193,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14368722,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7356811,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118006,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117695,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25604899,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31750411,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136779273,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25353014,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765948,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55438379,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34116,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1427,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,644339,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478209,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2075122,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4849,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296749876,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38780942,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103287442,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28574293,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48748424,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55063965,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19726,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36553,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85589,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737195,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25313,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9234128,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12880061,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7442721,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199778,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2741,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379433490,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211280289,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5533736,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148657022,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177236783,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5255224,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120227053,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115048015,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8159635,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1578637,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198927,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75336,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438348,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156050,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3773,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346783,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,180482002,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17669645,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2001075,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,125947675,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25762729,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66366,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61321,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658623,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,984,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5952,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3230,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6305510,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4897871,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2884161,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81695328,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3394019,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,621,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2189,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54820358,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1135250,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354438747,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146729320,,,4
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2009,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467333,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,717,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425817,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6083,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3334197,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57557,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10708,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7958852,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,861,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27726,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6623113,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3277149,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15884,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1486806,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41628,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1417798,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8450,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,977611,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19129,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171464,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,723170,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474956,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3068,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26585546,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34943,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64003,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5525072,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126842,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256754,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18252,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4027,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4027,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420248,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394093,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6422,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30695237,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11761040,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212102,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177189,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203352,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,916,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238526,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39564909,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18655892,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664615,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175789,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036916,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3414,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5464,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566587,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209156,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111753,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,19817698,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10023559,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15872149,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2463784,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90448396,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2361317,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28577,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37373,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162395,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218468,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4567617,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11245,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1893392,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53747568,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23694,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5899,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32550658,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9868,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5416331,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20809,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165987,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23142,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4769,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2918,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549095,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5038869,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22003303,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25342995,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4713,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57964,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2247,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47877,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20004,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22818051,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27303538,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701068,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20226,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1386,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33051,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3302945,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5089,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52363396,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78961322,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188329,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598407,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31115931,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62785,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4174971,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4722362,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93057,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26259,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30816,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13333,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13333,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3248588,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84326,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843706,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59341,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322635,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397164,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104249,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3618,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111095570,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2521229937,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3429773,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24529806,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74547422,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7308875,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1218358,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2581705,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1156888,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20173368,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127543096,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701397284,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107630137,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71943833,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114263050,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364908830,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21601250,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9550855,,,4
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2970510,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59452994,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1132393,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18958597,,,4
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392122,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9585500,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55833,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19833,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39113,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96752,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228859,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1986454,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304237,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454878,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11738,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3888,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9433,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6467,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11429901,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1766703,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18706,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69011,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26064,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7441,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2638055,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44403621,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12910398,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2303086,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89541,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195219,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3480,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6194683,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11820104,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233651,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2403719,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13594528,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7726,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57948,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8205,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2991,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31690,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1844,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1844,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970,,,4
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12127,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4213,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147338,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20059,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1129,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125779,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13333,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32340,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3669,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,22992,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4590,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,516,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,20000,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,28632,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,75,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,9064,,,0
