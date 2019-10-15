@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f719582a-06c7-4ffe-896d-57ee36a8975b" name="kobby" url="http://q.vectorinstitute.ai">
+        <fileTransfer host="q.vectorinstitute.ai" port="22" rootFolder="/h/kobby/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
