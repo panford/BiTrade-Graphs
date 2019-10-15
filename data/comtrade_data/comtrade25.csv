@@ -1,0 +1,637 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269925,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43839773,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25408727,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252064,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115910130,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48232,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36111,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76361,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518276,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9277,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32063383,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364238,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494667393,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21530025,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23028,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395070,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8037290,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6437571,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4466331203,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5305182759,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134667,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12832556,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1579873,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1272544,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1410,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1773,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43246,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171320256,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21759796,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266545809,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2491206441,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204753,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1437505,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36000,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347770,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156876,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20500,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30353266,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7097,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267025,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260246522,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146729186,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6154,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12879533,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116150420,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345088081,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181701805,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10585,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20963,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7381557,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2795,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6855959,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1059917,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1206135972,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,522217468,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3911,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31230019,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1683806,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448100,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114236500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71181500,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,19131,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132332,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,295535364,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33191453,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4272465,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,579922600,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56684303,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6190296,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5772,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1076021,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2558342,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193526,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7208428,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32589455,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67283,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6471217,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38005002,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84214324,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11454120,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83676,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23937992,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844819930,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4077223959,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6049345107,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16927,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25389,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13987138,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110473233,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90636431,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082389,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463410560,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461785818,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1410602,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8969,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103776730,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389995853,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39273806,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135802,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,615304,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852818153,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523931289,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45081,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29726,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2988,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30358422,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2135840,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1611339,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22276,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10527,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5251557,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12831342,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3871605983,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5438716941,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3009,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,877,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4227494,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9003582,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820674554,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545069336,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2552,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82335355,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29573981,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12912934,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60342,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7044281,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21542806,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31190903,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1018095,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584829074,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796858281,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4943487,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44555,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600082,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221408,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136741570,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53504639,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1928,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20059,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60680,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20981885,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2326928,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431866389,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288661367,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220224,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436717,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119506113,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24838848,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4728308470,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3847285798,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,465554,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3322582,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466586689,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138275071,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29718218632,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28100313015,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636821,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,907255,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474911832,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154295110,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3117,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819585,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58766,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383887271,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967261396,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1154865,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24039,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5062144,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224318,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3003,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14131,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10990652,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62057515,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273906709,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1777040934,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184036,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5161219,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407594,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11836,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28153294,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48736182,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013325,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5070,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64319,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2495691,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18538873,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68373367,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64879691,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120750,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38718186,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2829016,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1211,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24397,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7630658,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967694,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184766565,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325507193,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19108000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272132000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129618000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276656,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34866220,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80448270,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58818032,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26157,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5960887000,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5350291784,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52317242,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152073825,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35729854,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87428680,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150065613,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1507870242,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18990,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117264697,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39177680,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99319,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,990542,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36213847,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5483939,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4369713,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41861221,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125870439,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,706019305,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1206082928,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180056,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68086229,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68665,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7486170,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27990,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46586,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358756,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15387,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102667753,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313576,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14494,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3425,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983581,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179199949,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55602658,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6849,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489680,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249295708,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200938450,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58806,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,986449,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87651871,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85741238,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20105,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1380527,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17142,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4203488,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62208,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133232,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2243617,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16856568,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172750561,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442986834,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136322,,,0
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6005,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980631,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19809,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8686229,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005376,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77314589,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72079835,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277208181,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533263001,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5283,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12157095,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129418,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1221,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62390,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23829326,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35897637,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2664221,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133740,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260897981,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45866460,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16990,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10170537,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4062043,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3959232,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57144,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555163,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238973,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95119,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134736,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1227,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1859177,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283109981,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44686224,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2505338487,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3833168427,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3407901,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888353,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60707672,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3267829,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,61566,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1182,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514592701,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173612512,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6457830,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260580,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6281352,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2085453,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342409946,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106962061,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,996,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610158,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2240606,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97905,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70926637,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14708118,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3395853,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2363,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162786,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1077684,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8506641,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6962440,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33648580,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61232533,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1467510,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27802,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83206,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10984570,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5295560,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3747964320,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5800800675,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9070,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12412,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8039395,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5235770,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443721982,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236995339,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1537606,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195140,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6379742872,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3320944494,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20841374,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26613132,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2050800112,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2412455844,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5059,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261894,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163554,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1071147674,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,619979746,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63468,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15462961,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141836990,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258839653,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400144469,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11496,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23270,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2743455,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,752477,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3953483150,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5068945224,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2222,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13229,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1970225,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2173742,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,855406106,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,866815947,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10972,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726638,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5765693,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3950586,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257268137,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109909923,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4782,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97599,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86515062,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113637906,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2772613267,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912457498,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2000,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2223511,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1876808,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202800,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4949895,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5508,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29764,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46907722,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16572419,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1493936250,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696632457,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20996,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16213210,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31410683,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14664445,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121482096,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026436305,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13182476,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2537817,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2024050,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387509930,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41522095,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24442230,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4416577,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13827354,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1513474083,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080256564,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170787,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207498781,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85783607,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1553,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116982,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243327,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1455361,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144914632,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14147807,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3577940739,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1866995340,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210620,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5257243,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105796,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325060,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125829,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1127551,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146853,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38233,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4813710890,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5068705778,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270967021,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5170426867,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1888413422,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371893983,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8091,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1109495,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1476935,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8281141,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3837128,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31058,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11947,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647147,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13690,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24525,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41346436,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1982074,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63312,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2400,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10926573,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69409816,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312419582,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11170401,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082908,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2111,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11584,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21389362,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8159278,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8121102,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3357,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29884,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31189,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279888,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102169,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23973522,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30084,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55784,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409346,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50173969,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1043695,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47477,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7866,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1571706,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1708684,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17420,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11989051,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37665,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10665951,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85247,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18824,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19964100,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100435,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41149,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12115607,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1491878,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738076,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548300,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233667,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13439,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2094295,,,4
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62579,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71206,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,133974,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,406709257,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647317766,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1415558641,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,226948318,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22006,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99638204,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9927996,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389707,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72589,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,548419,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1389073,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4900,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692435,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313669,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74095,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26371,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28950967,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,286,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,225,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2575,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10801,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9436,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933107,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380683,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21872113,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176863556,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2059427,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317164,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1499111,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15137,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5165,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4818329,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2747159,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35728,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292723120,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6290823,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889653,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129128,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14064609,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5123,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2925,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50049,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2405918,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4496443,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301728361,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267167365,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6772550,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20103882,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147901547,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206581791,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346565,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41835,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13258,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14431,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632980,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761106,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110230896,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47000857,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4676857,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11398,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6307793,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11352673,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79339,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133049231,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1328040859,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466536,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107715,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136071881,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137838732,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1925519,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5264691,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6094,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008529,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1851,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1851,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764135,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,20,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707855,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,988415,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111196,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73574,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400242,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263380,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102732,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184507,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,907,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5638,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213462,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1657,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99346,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113088,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115364,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23150,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89826,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2855,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1997240,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4882,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,948,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,823885,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,406,,,0

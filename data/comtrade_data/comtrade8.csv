@@ -1,0 +1,890 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1188,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76262389,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25787407,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2179,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143065815,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718872,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675064,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72749,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335011,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704088,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21582,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5009,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209987778,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31301881,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54093423,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15506321,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205372,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206782,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11165518,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139193,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426701,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589491350,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773190385,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251855,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169241,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107860648,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1432086,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2322829,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39920617,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281709301,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46008,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13293,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3213032,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1306885286,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,851989498,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5384828,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34103356,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144958,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3272816291,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2698720,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117194620,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89907,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2034,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12218,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12218,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1321510,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191830,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4170,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1331,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77984270,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43172713,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4012,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20505,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187261,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,744137,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48335256,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116278249,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100779,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2239924162,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48033,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9895083,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195787,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2896,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68979,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937901,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037846,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182489619,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,976481,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186638,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198865,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4158371,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910192,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,884200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38437300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18976100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3776500,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3525700,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4170434,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2464552,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550435,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,106368687,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280757408,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2633787,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,211802,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220832,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3504,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,541062,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45008358,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15251726,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1848,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134863,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7885222,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2516683,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1497,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154531,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955831,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1055,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900581,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10537559,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408209936,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17340,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,812,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177163,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351809713,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637592774,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,969183021,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1169047355,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6929048,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45252632,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20436214,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183049294,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7705,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23240,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8269421,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6699924,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7686,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67972,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14698,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615658,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18376,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59586,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3132657,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316860,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1314,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306752,,,0
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9902,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152402014,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84624356,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7523765,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268630,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52888,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82589,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3213,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70644982,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15300968,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4359508,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347643,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275539279,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264774057,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6820,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6820,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38560,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316229,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588157319,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817519755,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24422,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355984,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350396,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66137967,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471053,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1579115,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209030,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4959244,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147995196,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96474776,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2349,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1901324,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42521,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5287826,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,62545,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2400,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3648417,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749924,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4852,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7878,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3994407,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12611507,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1227,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1297441,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1130,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12665629,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30013694,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158877430,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14829,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84594,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234864,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192495,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4822,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25674,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59901242,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59901242,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8098,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268003,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68601350,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77461761,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973085,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21708,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295907989,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208526,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10437083,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3066960,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6132879,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1225966156,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933870541,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1927116,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11137618,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25795192,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282847212,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1322684,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58857310,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4385954847,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4214021057,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7098687,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11756573,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3468083342,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60810467,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103438240,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265050,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1788817230,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1521239360,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593439,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270862,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979680,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1914,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7667773,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45047,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6256470,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1129953,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1540,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19120,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1022429,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6064254,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10508,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31380,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6763779,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20380382,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53862632,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101870984,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65262,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20492662,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343998,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43913955,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1711,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4817465,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422507527,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1312466127,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67688,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2833117,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3126,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28241,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8336453,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2065508,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3437,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78874,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42519050,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64556451,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57002108,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58571479,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947977,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16056199,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14114527,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111472,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23718090,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47211703,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167546,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51664,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1894039,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26851646,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94858934,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44306,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250893441,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147039,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12630510,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97667000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51816000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2268000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409397,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18674557,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1439214,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2518475872,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2474748465,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28189707,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375879150,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2169365,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3478095,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,986,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1500777163,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20861144,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31797542,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58001409,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8876441,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1689077617,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84891121,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111683666,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95508976,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,850673,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4935115,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40217769,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17967558,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1652,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10859,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37337036,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203950532,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2726,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,115191,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3994,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23332148,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4446764,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352690,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56561,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8691,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138419,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8538,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795341891,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63808969,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154226046,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137416161,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370844,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3062753,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605684,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29676071,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10813,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33719,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22425122,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596508,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16927,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9558603,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3731930,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26945,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137233,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74975628,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8862617,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3978,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1422114,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145192,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3657980,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4911,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1876,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3677,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,668,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36525288,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32647419,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123744,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55464866,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188561,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8812964,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54849,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75782607,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64666065,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5294,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113565346,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4207,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197286,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7707,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30181,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5882829,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23841610,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4568,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7798,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11365,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186352,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11152,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1735313,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454025,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72420,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362189,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37962,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266257,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44481,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605371991,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537535125,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29326657,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79584909,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1314488,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5114891,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7449587,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240700,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3430,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3703699,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955992,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38292,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1203,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6971,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222627825,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12031850,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29949161,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110372720,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167615,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31737,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699428,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8204822,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2014643,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2064,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1307,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2761,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2212,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14653627,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2624731,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116943464,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141925684,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98202,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283201,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1047924,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48882520,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29732,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343245,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100247,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4505887,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9066,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3994,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10044,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6990,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20085,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19921,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440999639,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33521,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3938,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1168,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,742239,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51947108,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592004292,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030529255,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170508,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13336809,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12950,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4463854339,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13899055,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68450470,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13096,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3844056,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,169384,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22289880,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8572616,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2591,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13171,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199107828,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2554499,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863568,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1344313,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3730682,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2959015,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1892567,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82767169,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30698052,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80598,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86125,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171022,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404546,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535870,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18093943,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18200469,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18633,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58505,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13505683,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274377,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7328718,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191793,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3577649,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379242,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11441,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13518487,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291988223,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618432,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478849,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1783843,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611441043,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1084814774,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1850512,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151201,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74473,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84674332,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479653,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5226775,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1450,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623647,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135113405,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88772786,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1393428,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1029662308,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1585159,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16415985,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4062,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389955,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441920448,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2372988315,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173908,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114116,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1153261,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94861,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550639403,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2296002846,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1365931,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5605576,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,745377,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17484341,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15015,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,472523639,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,662767404,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227644,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14556,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507538,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,595323571,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48027061,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199121363,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152197095,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10958377,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44537493,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647802436,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140705623,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3868,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138264,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184869515,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539775185,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44857,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92903,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209598,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1874160,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44793,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50018,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146341242,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287279194,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311032,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530952,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11638,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4043215,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96645,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199019,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329648,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103549,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92522592,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32984157,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138641,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4140097,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609234490,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709917,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57242309,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94710,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3341623,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,823507262,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1821359582,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113391,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230025,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139449,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6000754173,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56174491,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71399920,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30472866,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54576,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260169,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592152,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3359060,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232492919,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165331513,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5075261,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339011,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6446,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,823656736,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137606,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26012592,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2284427,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3203866,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314375724,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385389585,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,992136,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316058872,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4866927,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475016,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27994678,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25856822,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522782428,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36581133,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20684889,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74565025,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25816124,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24446919,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7263584,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66864552,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30907597,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35767,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1345626,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2773126951,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2803182333,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102302,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1973175,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63613627,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27260786,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332081285,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332914687,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11954350,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82902681,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582431032,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587111320,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759038,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3668079,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548954548,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4011280,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12957250,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9759413,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1087846,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232148,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50786507,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578850,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5179,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23417719,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121119340,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9006302,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,685301568,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381430577,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55997762,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9119187,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8132760,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275232,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5163661,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61046974,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12498437,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122013,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3508567,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6141945,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1443,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146044,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3440787,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132007,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185333,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75743,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24353454,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90044,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37274739,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153309,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7318055,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39654945,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116643625,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4044,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3509909,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3169490,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2291424,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21939,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197438,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1036009,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12237,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1978251,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46025,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150702,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37987,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1916,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5279546,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332132,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446368,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4933941,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21682,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207878,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11923,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34120,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45918,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7905,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388324,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10021015,,,4
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155545575,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186852173,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645829,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197724,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33011,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11307,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5064,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33483,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24261075,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22697877,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14389407,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490656645,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23115,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10239,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2656354,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6842879,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23475,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21854,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11105596,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535176353,,,4
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270877,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3009,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3009,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2486766,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2486766,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8200588,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4284721,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3493637,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575364,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71411123,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24668811,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23645,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359305,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1287461,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79520,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4880,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606790,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18614,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70473,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4892823,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116718319,,,4
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270238,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502919,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18524,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52120,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5404758,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,86885087,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58444756,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122288,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324910,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9589,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197828,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1116,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74125498,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78127730,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30147210,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25981,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38159,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226881,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,335448,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16107733,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3234,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388317,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8061,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10801,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,760162,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23072,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15670,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8451401,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690751,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125485,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5550730,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11517,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44519873,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7582227,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42604910,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44631648,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81401,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3004,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94213,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16745,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160726,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2443248,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1021273,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253655911,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6810412,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196297,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22778,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278318,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171666,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41913,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1068735,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7655771,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859339,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52331,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16720,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151890585,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89780,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57178424,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304949561,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758125938,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146461349,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39141812,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5885,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58563,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15108,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1334467,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51655655,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21525054,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71115625,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38286566,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122195194,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573984,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2935682,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9757,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1132,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5472,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81012,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167132,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2389,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7385588,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134231703,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15007900,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173393685,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7593420,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811830,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368553,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17065219,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533035,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778465,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,703570,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1056974,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42991648,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4358286,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4767,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4808,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4461,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24319,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61443,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189582080,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429671031,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489136,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14346781,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670157,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1487773,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171597130,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73060825,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24242,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8645286,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2542,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319195399,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29260374,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13765719,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236611,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11946,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37265,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20869,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223679,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3140,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10113,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4713,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50888,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555905,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,913,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2451,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32116,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5330,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5330,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56457,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56457,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426397,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5688,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,436,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,107314,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6647,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1000,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,156163,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,73650,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,32297,,,0

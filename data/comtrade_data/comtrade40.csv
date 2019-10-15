@@ -1,0 +1,1098 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25265993,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102278,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481259,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212801,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64037812,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39843605,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99584768,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754299,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1689707794,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,892179503,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171028,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623391029,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18439,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220642767,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6294570,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3294011,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237791,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62085,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1381530,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57914,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61040,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149939,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15899128687,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13145746507,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1649101,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140742,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138027636,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58533352,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324773045,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85285085,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,952435102,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1417195325,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54537739,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86252133,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542604738,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2509594889,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,890748274,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2432363119,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19402706,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807034,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14037,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274660,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634566,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8922995,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3542572,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47708,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1165644746,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540514479,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109922,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43188,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2828909020,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1765991063,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12193541,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43531059,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338793745,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995853249,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10543258066,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4488180998,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6892959,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10040,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134228,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2935,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97714183,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,627851873,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,931069,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4561,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4794981,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71030,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23925556,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5439789,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397804,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34019622,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4220575,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2434684,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2362616,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108298696,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95455932,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493055127,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84474033,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5239963389,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3077014473,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2605524,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5016132,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191089988,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302932858,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2644883398,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2736531853,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83402428,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789360593,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1359,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520835,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28623,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334437,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11920,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128517309,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66750398,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82020795,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80706384,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2414893176,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2465858741,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3510198739,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838294887,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,528261379,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300656872,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,104,Myanmar,MMR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1988201,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13543594,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2882231,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2285355,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31460462,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18626168,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117147200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41919700,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86947400,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129581600,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43716000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97844800,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19362402000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12835764800,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6714460656,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4088835151,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57537554,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10202450,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1314285,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195428,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,426483316,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110952301,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3408632,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,859430378,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517113384,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61044071,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336745449,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66296645,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3631423,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2935,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,839487,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8436905,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10423927,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2641,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174761831,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213094780,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3291317,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1955714839,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4246624437,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1613812,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395684,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50662069,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6646720,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67678617,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701154139,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177553154148,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102703776594,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33963935,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97915867,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824318039,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3777960251,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41390293056,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42830599817,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791518644,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457038757,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1631420,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14516,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153135399,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7903544,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283950783,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81765788,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29137692,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824291,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195282,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,997462,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27982706,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,580953,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238467416,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40202518,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19516,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4497790,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2113497,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40510618,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30638672,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214362857,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64088615,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2443998,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2355739,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200745697,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168939996,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338616079,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200941958,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638851880,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11234262,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6102019,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23488918,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5022318,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37216,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50704955,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28238175,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6492846,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,159900477,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61171842,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54573583,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4241026210,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456179867,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35556949,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66693975,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2195184405,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2530048447,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4953432149,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3539595373,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1232726285,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623071514,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1441517,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12308202,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264001725,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273864455,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660506944,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824820967,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301025642,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37321497,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18831,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2989544,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161046,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61497419,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5501220,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656583635,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114911497,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9012,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1843321,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18216279,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7755901,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170710394,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845311061,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230191317,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13211744,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3882,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1143520,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14494720,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31106668,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391153,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96656738,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72978740,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4201289,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6792577,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68529935,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89431011,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349057300,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1574565498,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96018454,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4123718,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1917649,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17677,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980054,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25465,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19473,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,770242941,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743395311,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2089302,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9823855,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261481726,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200067843,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9206265950,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3795545757,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3881480542,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5674624601,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61275827,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46802107,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4347438177,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4442830768,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8606525189,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6292661255,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12916955763,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19741683802,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233599895,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422781971,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16839158033,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17044165985,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25400744223,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29850722783,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3572464816,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217829855,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52086837,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39712728,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978352068,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955423262,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3886783845,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264806482,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159572,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15317,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51262,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13968,,,0
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3568403,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291167190,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98555346,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1851072,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2794899,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52118578,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16547406,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121477322,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19198939,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3267,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832211,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450340,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71946850,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17543490,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32498529891,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7982170872,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,982475,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21493946,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44852439,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418115422,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010445838,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2806024818,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1281777517,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478982776,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10712107,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103749011,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3032622824,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5863763591,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3574317401,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1919343910,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94324050,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20278535,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279227,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70311,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22987427,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2253395,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16594677,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64392772,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8122353422,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8186977149,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13546927,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462472,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47035068,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125448816,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1302714750,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1225713724,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3681600038,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4380132314,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20000,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739977,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64442197,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59834561,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704430222,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285656263,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1099157239,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715251537,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3033904,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2449065,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115970968,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356999583,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348569592,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,559817823,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1138812000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886164000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2152000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7073000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213923000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128238000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1232168000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777972000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3827394056,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4868112742,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112417563,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312086986,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264086470,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2855,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55134747,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7441904028,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8405943653,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75483940,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1855411767,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13951093206,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8987781081,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222350855,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28126932612,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53307752960,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16662586,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2303904,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572083673,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398020918,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13855767041,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6007426228,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567498549,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1128134069,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14350404,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29039932,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66754127,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,925560209,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11472923621,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4515164526,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557985831,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16895771,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1286762,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3504683,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1188611,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15159,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273803299,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1694334,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284524,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141848753,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5207064,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484000,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8825339,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8589656,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451435904,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432311374,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12039456724,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6906616423,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1554917991,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16272524,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2652872,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111460023,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85562,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145030951,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125465728,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46365779,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462589,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1649928,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457978,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5092638,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374348,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1232494220,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265228092,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230763031,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53751510,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12380002,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642557,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293711005,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2289025,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746521762,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3392535,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,498129,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29116565,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69984097,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7088878,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19596503,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23167517,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24788153,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239196939,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1188343818,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204684204,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93371479,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9474661,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42510727,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78624961,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99792408,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4059444334,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4449006578,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99570935,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53175295,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225928,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1339328,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226379,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032399,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20530084,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58823679,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38886,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425957,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57194518,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156558153,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45609,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102787794,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74519419,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151782,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8984045,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1760017,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2424819,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2334666,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198103,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9101158324,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6657149511,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2853748,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583649,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33148860,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143795075,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827576413,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650629045,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7950271,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185901,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39401,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1021011,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63851532,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4386144,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85736,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3289156,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1435705,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11164704,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2073851,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16913955148,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14762104144,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4947420,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3846863,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106647135,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209864085,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3308554338,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1091639627,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197703548,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11617792,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209999,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156869,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704887,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3266465,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1219188124,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67661068,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6589313,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69206,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11359697,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1835,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618999,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35058692,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819336,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7370541,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2465799,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540578731,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107535860,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736973,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176330,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618842547,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147807879,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,957005858,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197672517,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402290333,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120900277,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6211487,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26829,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13752253,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2698457,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555152,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88505066,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3956137,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1087914,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6616671,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2869107,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31014,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195054,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37150,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9978007,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7651798,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6484848,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3903592711,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5941182902,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33400277,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80314017,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596885499,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2780336317,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15117716606,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6100335409,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421114761,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1059761886,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4145050,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235896,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,90667,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27172158,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3806636,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11543,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220603359,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,154856352,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1046002,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143976751,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10692877,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2191501,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123147,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48515716,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11033179,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5787113898,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1004020358,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4386623,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2586264,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304576233,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114857091,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1581492781,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264320285,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,872549008,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463309099,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109059504,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3380715,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1408277,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164006,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40799259,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23412618,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3392,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18790,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310938248,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130895412,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72800,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4884,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206946000,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99732035,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56900,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1508001,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583674,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73759172,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599982308,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030107380,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2136855759,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106995,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22332292,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1963230,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313109653,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86085619,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3586014788,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544399644,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122966353,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195247470,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1957541950,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4084856580,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14760995485,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6946616544,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452150836,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141593134,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6456225,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4419766,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212201015,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442477278,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1781713858,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203059380,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462108702,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270530680,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678363932,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061700442,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2777103649,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239464746,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6919726098,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12100984508,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347256214,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419506879,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1090441619,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2046479093,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,624599479,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,643,Russian Federation,RUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,624599479,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154701204,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8363784,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12399012,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13364718,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,658931520,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,813680864,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1588747345,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995477684,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16091810261,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4376958130,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9942477,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7173844,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376943541,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344624726,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7980558686,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2138971950,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4755819149,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103620105,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20478520,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32706439,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1055916803,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2055374238,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3786222377,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1693220107,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,488660642,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128663983,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1355131,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20549721,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,431950660,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490542515,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,384076509,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,939919637,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,996986678,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1949850472,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687280,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439586,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320762704,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32597972,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392946458,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354460105,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3860232083,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1963113718,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47294986,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31428419,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1895923223,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2503323584,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3630128847,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2184900816,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315236752,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2828889,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18495,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70157190,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14886,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411934802,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53142,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,959027374,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1395584206,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1981696,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11524395,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414323829,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367348912,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4408049497,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2135233730,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,744708190,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3308543198,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23416306,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21171916,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676792663,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758198386,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1357191251,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2240816814,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7962478084,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1519777771,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270227121,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6556464,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1654919,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1218017,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562856661,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39716101,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24895163,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1725704030,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793615241,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544907724,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6608873746,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584114967,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180558774,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284648734,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2480195988,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3139187673,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19514093954,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2734315893,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26469906,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550035,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2333934,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5108318,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246066603,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175968968,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148494346,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54127075,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5305462097,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7495526034,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66103470,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53692350,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2572845124,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1598775866,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7234313111,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3696443084,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140692979,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23879113,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47599,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15222,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3313257,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4534177,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128368432,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11409186,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73419858192,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48350051984,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3139128590,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42691762,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17614764,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2861547,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2274736354,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,954062092,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71232308,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17777151208,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7002945486,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609240278,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106175673,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16609958,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404058,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280646,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8080856,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3186401,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41788442,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114816640,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39110884,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4014911,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398010,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110325,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32572,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3914645,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123861,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85405237,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208055,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6752311,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241548,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68124426,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267229911,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1552735444,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,587034469,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836327910,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506196934,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59696,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3152639,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77188012,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76267920,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340984469,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510797013,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15220419,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746221,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2314,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4932495,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21157926,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,923180,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8645725,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1839,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4987810,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25248,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2955,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2955,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3122770,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4133986,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2316,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530,,,0
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4707,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4627326,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46660,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29141,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323143,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13281414,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178994,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27021027,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2113098,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106179,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6610687,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883187,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132986421,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2097300,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3751743,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773385,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6418420,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415423,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331961,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50155,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40905,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16623650,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2085034,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2952,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272852,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14137,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11600005,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36738,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81572697,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17450529,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277977,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11159294,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3244670,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1191727,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191032894,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75258990,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48466,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796653945,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,396672035,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38895666,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444939,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709536,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,881130,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6772,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4799377,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307171229,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19210344,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29463,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4637294,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135108244,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4734100,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128629345,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1737186,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557532,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12556573,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12260165,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83037650,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5743453,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33661377,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1893462,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209511,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38911,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171880,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49068453,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170200401,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22757798,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139090,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16086,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5576469,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3305723,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531782,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349959004,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77358615,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107090,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31454978,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6516168,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282698,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43045,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352907,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12737552,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19070982,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32456591,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,936033,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45296,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2200816,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21465,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57822684,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1128063,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,636858965,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17604186,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9175924,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95264688,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95725652,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15756395473,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3428914062,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698052,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599989,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,454833331,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,99767519,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1461514248,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255752010,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26059638,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340214,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36187,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694530119,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600622298,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209852654,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6560,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571709708,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254537745,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87187940,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5681,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,19038764,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6558619,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63366,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9403154,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,38206010,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6180543,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92991789,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550959,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633633,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975172,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124486,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11445394,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1763677,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6746713,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628695514,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227528397,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29114,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41431334,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1738713,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683513303,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15817816,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11542347,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,389,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8819744636,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4333434204,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56724,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56420,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7581650,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29699657,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526930597,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69557292,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789422,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2014158,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5263438960,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761640709,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24480421,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7144408,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128470,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379833635,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14443099,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1783503,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998826162,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26600432,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10492705,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55469070,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40864515,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8539243,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139789340,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5662922,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16180463241,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16743891981,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680024,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2769788,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92892521,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55122296,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4688693983,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660512380,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46943333875,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14807156028,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85373373,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119562997,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1392329626,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2165650057,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8689449,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341336,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13658,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22550476,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216052,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1488726,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22935,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8527,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4669810,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257962,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18421630,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222521,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27933,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576397,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30101964,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883423,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883423,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224981778,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6931806,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143784,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72216,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80367257,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138097073,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479091123,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24733747,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41121129,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3026827,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25638,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569890,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6801389,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69480317,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16324483,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7877456,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315799153,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308578600,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106566138,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711873910,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454286541,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844197821,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7196562095,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3943217843,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1826897566,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50542548,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3067373,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1280146,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496209924,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145435382,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3600756930,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397011354,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54760945,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38374,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2977223,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86240721,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3804,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6755566,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47390,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5328231,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3703,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28086,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1194,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24590181,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1397282,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48400,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35836,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873386,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4047,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2527448,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170319,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220729,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5728,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100294,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25354,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2514,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21041379,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575429,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23123,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262112,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1374102,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549193,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3949981,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2360471,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,753095,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2110742,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380919,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676227,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,904719,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9875,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,13379720,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,820676,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,61862,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,55336,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,33603,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,235686,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,63270,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5968253,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,479089,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,788,,,0

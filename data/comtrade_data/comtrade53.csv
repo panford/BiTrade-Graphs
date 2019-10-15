@@ -1,0 +1,666 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11278,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4797,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690773,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232446,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455658,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430385,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072517,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16665,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209092269,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491713,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14084614,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766037,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3461667,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16863,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311104,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7522684,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253653,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9977197,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11633772,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1289,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270010,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58769532,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26127864,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11744,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2977864,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57509556,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157395604,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48936783,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11000,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269132,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576726,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32882,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436582,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3465735,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2135,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22357,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403724936,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7294532,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9242662,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43447,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,498,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278934,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2485964,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2120036,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9926911,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191491,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304593,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489395,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119508,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73529,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59100,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18967200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68931700,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224500,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13219200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347500,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11572381,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10101344,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449133,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13142,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20096,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,127324,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9976080,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61592,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1924405,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14941099,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1487848,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973555,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109240,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1662,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4144473,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3492650,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178077,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408956,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384531,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8164,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1545022,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,872029644,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443819338,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1785424,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659962041,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643037967,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3122754433,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709467936,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235338,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4025,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932472,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,872592,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14485,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11392,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62707,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1557970,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,105108,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4037,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,316,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41001,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15303,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066980,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1643365,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238334,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189233,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2157099,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902586,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160402,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14627,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025538,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188336,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1788593,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226297,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4200668,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43304609,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808584,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5908389,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28522,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2896,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2393,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9798,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24100,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185112,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555692,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92668,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358582,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93358,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70072,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512119,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4486991,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6249,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2121825,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289631,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29076958,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53929479,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26760714,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17834,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6156,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276617,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89655202,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20091607,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27046702,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61870057,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33806827,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43932,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3875147,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92595038,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59979824,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65785891,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6281434,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,669659,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2620116,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3535729,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8812447,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,823697,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2475,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130480,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,968014,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8206,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37613006,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57978204,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16503159,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1535668,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19125415,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61090576,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3984072,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1399739,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40364455,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21328,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1134470,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51267,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7671,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36238100,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3024624,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1899661,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121158321,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7506588,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2122053,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6085518,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698947,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7949077,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62970665,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228885,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097884,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2704399,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120245,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73812,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11271255,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49666,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19348491,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1823000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4267000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108105042,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21961404,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97755,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10333007,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68491175,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,963609,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73140356,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18335191,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189502,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7774077,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18544676,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7766,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99055,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2917081,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80359701,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178952092,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50912067,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643580,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253281,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2107111,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1618605,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53161533,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1773439,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13211,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15631755,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23243829,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76646286,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43089193,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88698492,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184629434,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19013248,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144744,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9404,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5760323,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5974653,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46156580,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633446,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107781,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406584,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6606357,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113729,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4276705,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9622182,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1122937,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14188777,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378142,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269385,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4308,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104750,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1124,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174568,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12681,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248968,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2366,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617841,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2355033,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335342,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34204,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74034,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376294,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682299,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2333430,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,925862,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3426702,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69991,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54298,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34298,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672675,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5124332,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11753761,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185890087,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9420927,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4679400,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3336580,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4181359,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1475,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5971307,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1691877,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19102820,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2064015,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3545244,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14446829,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88914196,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824253,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6906,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1518,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103543,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8528,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4011,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290283,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1622,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3702467,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14781,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18566,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22387,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22327,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637315716,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485400850,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285005079,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32951,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2191751,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23139706,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5687598,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321461266,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191388511,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117474208,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440697,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67572512,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19666753,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18227,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4785096,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53285068,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16869893,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58958529,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920485,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2166120,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45770,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16326123,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121096,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,815992,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,39412,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2973,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1589778,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369256,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26529,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108187,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781643,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5960923,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026222,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4566363,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22353850,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59015531,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17167666,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838441,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10016,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4093108,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223984,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34950,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2795287,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3195,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16370,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380508,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15477616,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5422192,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2352,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14537,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12572011,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577556,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4429671,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12950235,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229147,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294640,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1635824,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2855909,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2559542,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3042739,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18348941,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383467,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174428,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50588201,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2482227,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11995637,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304068161,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12902947,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334187,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1877673,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88956,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3228,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344162,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47846,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18788,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71331349,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154142729,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13692,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78818432,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512806367,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,951828675,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256910884,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145942,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76420,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1803,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10114,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1665421,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19972,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412822,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2936900,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259246,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59794,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1277983,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3560551,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1312907,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170099065,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2089827178,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1423,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59109393,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222317709,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2246903952,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14116759,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14505247,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32619,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279465,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9758946,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32075945,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24741476,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13360958,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13182714,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177530,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780414,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3374533,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,957668,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1746452,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8197208,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22856,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14452455,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,997939,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,48838031,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3545014,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9270911,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87164,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46817,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22390,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15255948,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8168035,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5553128,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366752686,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59213720,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39298204,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123440,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36167,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402021569,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401821066,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263622828,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463950600,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91757622,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47594438,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10742490,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5354136,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675006,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571232553,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5212580,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16602746,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8896,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29614,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508281,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102869292,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38090304,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27996,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748912,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46789440,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17559586,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77216189,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1124727,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8308227,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,601437,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73768,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53709749,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46014003,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48984863,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39926035,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5081259,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18679,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418356,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10349024,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198955199,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9039925,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68322688,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85137108,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6319819,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161212,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,671251,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221803,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271180,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,74472831,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133989106,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1540249,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1601,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470424,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13930,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18962,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673406,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29937,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18009,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159854947,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71760,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288024,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19642663,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30946893,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20842401,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29048376,,,4
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1397,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119530,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5691,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30138623,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173004,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49640,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4800,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248782,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448503,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25130,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3575,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15210,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373966,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4747510,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13248,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1197,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57492,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14146,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106862,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18287,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129932,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422186,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260755,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92421,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1107762,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56300,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28496893,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14570705,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1953858,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103398,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61789085,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41226,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74863100,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37427201,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4811548,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18541906,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28387817,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113463264,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20725731,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16566,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1397,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1298,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2352009,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2477526,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86371,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65306,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780562,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27429,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1271911,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13525,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174278,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177958,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177958,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11936876,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,56468768,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76626,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1548215,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7837675,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11759702,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2600,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15868,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330976,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5907,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1494078,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44040,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1470,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202486,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134731,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12605,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1613641,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1326813,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6650,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738735,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344750,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143531,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34414,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1558890,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665052,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3920,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2614,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125424812,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555279059,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179409706,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82412593,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2570277,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69625,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24524,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51407,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032166,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20143186,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5471396,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3972181,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12219894,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79569090,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1252204,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15669279,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12561856,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4434819,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24812110,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139471238,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2940926,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11500,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125750699,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58352517,,,4
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373587,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27886988,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3766,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2411456,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9932279,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363356,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64239,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5304551,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48150,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242896,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1638767,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602624,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8916,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8866,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711381,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4803592,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4437881,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1351234,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8798203,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16520,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221965,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31786360,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579408,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1497166,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2060411,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10845399,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26853011,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253622451,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171544131,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13018543,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26869,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7411,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3369,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8933,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33720,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67048,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200385,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200385,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,29156,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,10,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5725,,,0

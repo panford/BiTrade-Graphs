@@ -1,0 +1,1184 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1285762,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46560,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1244410,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2616513,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51449,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113845175,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126341268,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2131636,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,760437,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4064,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43547,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39807972,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456142,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3130601442,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4103370763,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270368,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4093,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1435416,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947534324,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69691137,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,191271258,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213444247,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120538,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1145812,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883822146,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057878389,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1733872087,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440519428,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3314,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193284,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94009996,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46217393,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81290,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883551,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192440540,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469297079,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2561417975,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2595521380,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843636,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727156,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10511899,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6401,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34025098,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700877,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1384285,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360584125,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99682505,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73564,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3036039,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3263838225,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1556850102,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9446212594,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11842355560,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2199530,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272091,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301869,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2356088,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11115,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2233251,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11296784,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672986,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11791,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158143929,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135637896,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1437804,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3676077,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456766,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33636,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9801199,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,619407,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106564113,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76375057,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56657276,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66211590,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69658942,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488627875,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509611624,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2851286713,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3840182988,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24755,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192130,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178022,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15299,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,750,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2496834,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4482670,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85293,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2334932,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5388363,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7911095,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75833,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34164818,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73357527,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1803524595,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,887452892,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4291,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1269918,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52333664,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43512,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10100510,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16753941,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27839996,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147814273,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6424700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17406400,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7489900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9254400,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262448000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27527600,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25700,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41000,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,286046906,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160936617,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6118836,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,239915,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4930959,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57698,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,706219629,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272670436,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31070705,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2161719268,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1275438932,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53879357,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3090,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052727,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11905,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287101,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284300357,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42265740,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121579,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87369184,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77493938,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3354036,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54440077,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7112084,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60923463,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83383363,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1424187474,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1722020436,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310030297,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4087995801,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11803184,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,473500499,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24388596208,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14808766628,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8028042999,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22918279284,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270049729,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51942094,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19607412,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303636,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16962,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35750,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34010275,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21346643,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967439728,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975000429,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56586,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31628278,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622270,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95754133,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008576168,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4447144,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72119,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2823,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6810462,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721063,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289491369,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169107675,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3225,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1640411,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360816,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,553,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,272269,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9027411,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16427806,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513526544,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244029543,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7046,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303353,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2779247,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72459,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1661846,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5142730,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2724902,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152706,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258010104,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28093523,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3419362,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704694,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9005,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55649028,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12763218,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154435,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24503,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326693992,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505241665,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2884791509,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5215928381,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91182,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365550,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35321502,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31364646,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2576,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4870915,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92889120,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312803998,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1479667680,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1877153186,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42452,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3879632,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3663206,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7767254,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17599767,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17396998,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639889357,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86639218,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10297846,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3033732,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7838007,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9734435,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594217752,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600753260,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3820,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3810109,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724444,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1696822,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6150762,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128275402,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48301706,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7111697,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4049568,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27270491,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9083762,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228311630,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133019865,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3835549,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866529,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643600,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2398739,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061405,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378827,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2839635,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36455736,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406685,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25729915,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5628541,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,957624,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131413395,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315528286,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366186121,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148948739,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8043,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363024407,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188523910,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10982732,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43131555,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235007887,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2016900595,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39422561966,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40190990183,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160262,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1539458,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740935879,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647790761,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1347532,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15354809,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7362500475,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10931383265,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35391194874,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48525685379,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96757,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5109176,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4402340,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6357879,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303801,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73531573,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72879481,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1914714936,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782870266,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9116,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36503,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,733548,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1592983,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8983129,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18987195,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303700,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6225906,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24268998,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276115614,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84979350,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941834,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526285,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4968673,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1955206,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124200051,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85146554,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138334280,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521240447,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174300,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1854904,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3224104992,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148749233,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013440071,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1768368489,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76978,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1264578,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29040789,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9675409,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63465,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39865930,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201107384,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1749226872,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3170261932,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3796212,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13954522,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14309378,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111076762,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654554799,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49144904,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292807250,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75526674,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491501937,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704338989,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496084175,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2011925568,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54415,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114523102,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40054293,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21633997,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34103441,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40273318,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442278515,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182782055,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58311881,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7571912,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3394,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3406662,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115186928,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273738836,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1477222918,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2927311246,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40995,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186194,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68886000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61175000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73250000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287095000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1717406000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831005000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449240215,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289352088,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2778473,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2221540,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625761,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37713887,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1527752,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1441813366,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2090584012,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8022018,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189012,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24159568966,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26279762896,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380633226,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139919553,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10071727,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252185124,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,877279552,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11171699,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3754594,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4762757864,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2514268450,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3344772129,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2962276387,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3506771,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5670036,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5117038,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124253,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32652608,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6677342,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254268633,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1444300978,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37666062,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1940825,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1511108,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780584,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2414227,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7988,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43158265,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30418865,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142129,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482140897,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7914296,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1324452,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297731,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337311,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84134658,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286837206,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3085915,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16245261,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2308764176,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,969809831,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1952976030,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2790572241,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5386,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307047,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40469302,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23784987,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370640,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233318,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122521786,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2159099,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466289974,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6878509,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1392838,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28307,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1679820,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283897,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9525969,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136651,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31824100,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694329,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34434,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294507,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17645134,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315198843,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555389067,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46062486,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1461144260,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331175582,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1296678,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6609661,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740276,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299133,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1760377,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33589199,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243019742,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145791657,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6696,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26089,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4910545,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3288407,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3571,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44156343,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56452996,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637013981,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356563899,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7218,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2535592,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938939,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17232663,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51344227,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15624,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39460,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333290686,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333501252,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312254,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838006,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446950,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2575132,,,4
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,614,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60126,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60126,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190441011,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77964570,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139689,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42413827,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64582120,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4912216,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69559764,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578529273,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28715,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90092512,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,688537149,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,776238992,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589338816,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625961845,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154425573,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7517452,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8973031,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40629,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7566150,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4077594,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3375862,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2603647,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526079,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448553838,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187823603,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170091026,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117260741,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57963232,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408627236,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134605,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1099677,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,949354335,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626963792,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699966547,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1047709225,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1389858,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3055788,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15166668,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628560,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441120,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3568,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5317,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2336246,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15420,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54081522,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232684,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10341253,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6274302,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265760,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6051494,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99668311,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40669714,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7600502825,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6066960826,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15331598,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59236343,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3815404,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137933290,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302585824,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146060090,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17048458,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360099465,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273044734,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130884906,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41758336,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7386597,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98622,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3736163563,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139452394,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186849698,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7205367,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45696339,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236967485,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917090,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184847582,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95592238,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11735548,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1416192581,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2104270915,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8897660553,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15220672233,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3159,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11258643,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44652461,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285350682,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394015,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27710,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3245639,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104933282,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,158672107,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4998536,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319734108,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149663357,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941633,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3437,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16265,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3463,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2993527,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3277774,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32528,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2348982,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3312992,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84292855,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54822995,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46854078,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6420865,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9332,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5931467,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291242174,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84146146,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1637058378,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2321067541,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8875,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43313,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103352362,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268918206,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50439,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1616030,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7564698,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42586462,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101637,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1043857774,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171600337,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587896,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2511014,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208918712,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,904571068,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615593,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859337,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378262,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32205,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1166,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10798824,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3012114,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122665562,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211326312,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26727564,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72614,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46483970,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118734776,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053773176,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852095682,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104582135,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47998091,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98334,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3111845,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353592902,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639744778,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4851936851,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6074736876,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41662,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10460267,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7101471,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1114,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567690,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244227872,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203199269,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25424360896,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15641894469,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11692828,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5051710,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4972576,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41393956,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231221085,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2303831729,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2130606137,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313790900,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84077283,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1243,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,939613,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628133190,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203867104,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3082740285,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2209986925,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6646,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434620,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3697261,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185807,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711692,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16560679,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3435484,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324923219,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195853085,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663667039,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4413429124,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3858967,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467561307,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6885726665,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4072392725,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1861481293,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3765785195,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67100418,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5902802,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38319322,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13791997,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68151,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1584732,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34986036,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123623854,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1243836694,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2492203527,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3322,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11473,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11699614,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3433211,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,214330,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637151,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,37306546,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35131842,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666437220,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626124911,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35217714,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210266406,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26649,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12433942,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,331377827,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,710,South Africa,ZAF,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,331377827,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1571007784,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1259741430,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350326,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124050008,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81610413,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128213,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12971770,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315411022,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382244932,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2773434,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250641,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175787,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7326119,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25552053,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410655,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28221858,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13441595,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3498,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1372421,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69047935,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38627495,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14885,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631149,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169453836,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734527439,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2168633767,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2905452989,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14885,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178118,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180857914,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184943911,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34911,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241927,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1215001398,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740638041,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5414225991,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5657774271,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616002,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253243967,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777111502,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290299005,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127108143,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781539564,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505613269,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2284492763,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941224880,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608822041,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2075492634,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359223185,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128792825,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832285,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790442,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113804330,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70920773,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030152,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142945971,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1744438344,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485069919,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6372911280,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6302134822,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154101,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2542068,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2335205,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1771,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250095733,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563222,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83453232,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107377165,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860201383,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240356077,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298787,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15153531,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8384786417,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2735901844,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20198044538,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13477445730,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20842,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3099780,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3420253,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1543134,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1187726,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415152253,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699790512,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34971053,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20202631,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173018,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2978662859,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336249489,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24501939,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008852,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70594918,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1431441,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7886161136,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5050534405,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638520443,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16278102038,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11070680286,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,775212308,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291587,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13574310,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1491894,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2932045,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377563,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27345197,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28702140,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208048106,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,82682418,,,4
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400140,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9158,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2457053811,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453905624,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63189523,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13098882,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215402,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51098578,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7162914,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61005226,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384222050,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12464695,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6629422,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10193,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320220,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194287885,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512574529,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1451878533,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1503590708,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59000,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7045,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3114028,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3397952927,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535127779,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3257622,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3562718,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195652,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1143504,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7607935,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3319934,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180417,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50793,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48846,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343368,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1231054,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8915306,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153957,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87561,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269630,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5138,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227035,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274398,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17221,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68174832,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5885646,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215499149,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295046354,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43919,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548038,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100032346,,,4
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35346833,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314909,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5477395,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10454330,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19070,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39161,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23372732,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4923526,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40551391,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1272857,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160719,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15014779,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103067,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16556,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101464233,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59606664,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412918,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1858,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237774,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2060005,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116257,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28757276,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326932,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4406492,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128167,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6970,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410863909,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910266139,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754551583,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213181192,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2411884,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37623,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3070214,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44773,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108319478,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388293363,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,870359058,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307393282,,,4
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2121308,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179364,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179364,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10830778,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25304,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23695,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46773218,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493235,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82990,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17462843,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2851803,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2106,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910893,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190199146,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22426623,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598562713,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26686046,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3311824,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103466110,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28662858,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55858,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243799,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162054144,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42834485,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,419112,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2211182,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50471,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452155664,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68992914,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7975891,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4952270,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1962418,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153339998,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780215266,,,4
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52160930,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2515333,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145374,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16673686,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3811001,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177761099,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230994985,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203238785,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8512278,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213768,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61646,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,281760464,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,178590519,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5006328370,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4244585804,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897475,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45313,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2576734,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226871,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192139,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60741014,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27989225,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,825494,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507588,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19595,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5146,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3984,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1648123924,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,883869204,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28826987,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81007250,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2052369,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97967,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56615293,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480159,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6320095,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2804230,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2398,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5970064,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2681225,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7907,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385106369,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1982462604,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573461755,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4401172457,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,72,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2439,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7421,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17619067,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23492489,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9016,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102843,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60815948,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119131309,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489205462,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252511974,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56492,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1712481,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6002,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8431832,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127006,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107224798,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72421764,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6420282,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81989149,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55920219,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12400555,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,840500830,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416728895,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27931374,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2522141091,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629855900,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64822822,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126178,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20198,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75995,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7651,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120478768,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4487966,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235493940,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107168156,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128660787,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1831203427,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101620,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,775973,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579429014,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421331251,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899497593,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317214024,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10256,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5152,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91159529,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224826301,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242305836,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,750597503,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501779917,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2515755458,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202259,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13095,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2013762308,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2181039117,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3783020,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489843,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1809,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27089,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,984722,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1248451328,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1249654441,,,4
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995336,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13081333,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3987,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62095,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17191,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91387,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91387,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41798151,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240701,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195436,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28867053,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4570787,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3341331,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2455109,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276170,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,747,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156259,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12901680,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14396888,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932721335,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538486469,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3658687,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307727,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228891,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1484181,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431879,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247855898,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8910611,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3895818,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19755498,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36776498,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1404,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5610310,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299882627,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116032695,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37409721,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65412749,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201523,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28957226,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171091644,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78455577,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575837422,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260105716,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1896666,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1760197,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19399509,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20604201,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915919,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77563594,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156319409,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167950824,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700380934,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,804508382,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682515,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2492,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67546101,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28219951,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78327302,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603019,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24759,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18604,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211651,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72542,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,858804,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3964414,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13894378,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13894378,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293460,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15361,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1012423,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171900,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1880958,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19997016,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11593,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3616,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55926,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37089,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32087,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451232,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24815,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185772,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5434,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2246322,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1756120,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5514420,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3575124,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76884157,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10989117,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7184829,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136304442,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13312979,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290109,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38841885,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1083284,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052122,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13825369,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834556,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103198,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94159,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6215491,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33370,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4065462,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458182,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,410249,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1496348,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,28327,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,492,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,9948256,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,296165,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,14557,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,728,South Sudan,SSD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,58,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,430,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,464661,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,291686,,,0

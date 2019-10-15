@@ -1,0 +1,1205 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94925,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222358,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026056,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5005,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15452171,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2494858,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39968096,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3175947,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24143,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,901066,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73665833,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331869437,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52105734,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60168384,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2432566,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19304,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293777,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18197,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207537,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3689,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228914,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151297,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11938884,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67898930,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13955714,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2668273,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6386107544,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3580947402,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266936716,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1970642,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108217727,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94268161,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62515,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12647227,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860896,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159141434,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432504320,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3402640801,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3285715801,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2180048824,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3194773756,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314601,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54159,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3107740,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1425323,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537669,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9037177,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106537,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8114363,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19252,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26419,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1202010,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131251263,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46598924,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4918844647,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1534319206,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,950644847,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1227406087,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390067374,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718116066,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307618,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3668,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12477,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54351,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2597,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26517958,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1198874,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10500,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3387567,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543129,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263567,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40681,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3529385,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1368705,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83905479,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84409788,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525103113,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560579284,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86082,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31040,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41632762,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645949208,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2734686527,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111740825,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24672945,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66293960,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399871440,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28160,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569216768,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425537509,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63864,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18011,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104412,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39798725,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272833175,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,441158499,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,234272639,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,249892864,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,233747197,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35299,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36806,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21777,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18240,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2931134116,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735224164,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,104,Myanmar,MMR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50643982,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1839869,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,730972,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1504264,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32202523,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1337700,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18208300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19443300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100914700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55659400,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66993200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12670700,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,184568,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482355,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30496,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4410878,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6105159,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295223,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,773162125,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044351808,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263232671,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,465416811,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25063530,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1870024,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,133771353,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58216029,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1898807,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32767,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568955,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32693,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9483,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1927072,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292077155,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233669047,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42089754,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16806419,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32489679,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4228389,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4550048,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5134561,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190516,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143053,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85947264,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63647909,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18792039,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1873060,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17330949,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2463357,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554818854,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92581912,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338017772,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242430892,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34249623689,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45019300478,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2584962634,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2729478548,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495352405,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2886929825,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176212,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15492,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34362,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822185,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111555822,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461921092,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21309544,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4302851,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21572550,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61589731,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21542,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68338,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110365795,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162208187,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899018,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13320,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1333,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11498,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58186721,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7146885,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3119109,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327899,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3182983,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7468098,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4882,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190527,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5439497,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10686406,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451604913,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182531849,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2625720877,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1688932173,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9764,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53409,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3701,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26873765,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117546283,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111125120,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16133613,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41122859,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31983407,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8909028,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1591302,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1038064,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46236,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20494,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2273887,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352357,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424817976,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316475523,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7868064259,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13920840988,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683668397,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,854897456,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11520,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174980,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29811,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2227279,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569571207,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393514220,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418039190,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243092844,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299307088,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89383000,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223367,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92775,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19855445,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15554293,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970503,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16188,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4950798,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560149,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66218,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31796,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67966582,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5129762,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8049350,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2406291,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6975219,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19521075,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12892,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6424334,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634622,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1345843,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207590,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2296712,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10051,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1588465,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251296,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10907480,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60097462,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115543673,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49250979,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32703842,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11453335,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1755052,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13003803,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2655832,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462816634,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7035565,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5361029,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84293,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5491,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7513,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38656,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217436,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127128,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198677534,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203064739,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302418098,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135703319,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116665492,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68230148,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418328,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462255,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22167092,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22415670,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2432080350,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7644188534,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4982309877,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3028961183,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704200488,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1098504176,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7320889,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501985,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21278158,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24968500,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7358166119,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7915560580,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16519106278,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14608418850,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6682927578,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5893687459,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3834,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1129440,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3955418,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40183438,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516909260,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195454343,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102846871,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227729751,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223043022,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22441,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83999,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202618,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52058,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14899,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24320656,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10850832,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340646,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49312,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417956,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500610,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665280,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7307470,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889392,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1387669,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1181465,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1898752,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3280799,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525617,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8028548,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905946,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9333658,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37688513377,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11204180341,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27770958,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255222929,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71130288,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91561663,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18154,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824539,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420459896,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177941589,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5672028579,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5374151991,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1442852610,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1258714543,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23270,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1669,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100005879,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607333,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46243524,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8901109,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7895447,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150110,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555571,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16557259,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113869,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27970567,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16888749518,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12767192917,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26627208,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45672139,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13340342,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107353735,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1017900,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832441488,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42680397,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11039374,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11373571,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34965959,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14584962,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613256,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532811,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347663087,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771779580,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55257847,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65715635,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35029679,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94391281,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1534137000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482041000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245614000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17975000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322957000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374040000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42411220,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188630,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406023,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8907820,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,924010,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377285221,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2391001394,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37582287,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486990,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5101665274,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3257033372,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75734133,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106989202,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3458392800,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4798756060,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37848242,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149543671,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5286952,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15770253,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2001074,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2959052,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8519095006,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22653930177,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217276349,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199256137,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175626428,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126469254,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15347,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37241184,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86515797,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38455573,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14612351,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86216557,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26568840,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2464,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126632,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150336,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39436,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25028912,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21848845,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19189492,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21159235,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660405,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2054,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7643593,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56963,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56963,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9728151,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20934210,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15241721,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6919730,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8904660716,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11651933043,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177075995,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2772780155,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113326408,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912509150,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11715,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186771,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397487,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145837995,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31512885,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78235093,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18155292,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748805,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1444753,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119839,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704807,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83790,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11693582,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78395,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9760,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328516,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10911083,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30794273,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403628,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36839173,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165436,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21969391,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914137,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12894,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2241,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146030,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2949,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1984477,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12181851,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19066135,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157000494,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58127382,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45782649,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13060956,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443602,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2060822,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215996229,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174645953,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99503888,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99668830,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39778431,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5183,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162764,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246942,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337035,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10007862,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22333389,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1598,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54072618,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52868924,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16964,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43437,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24993155,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43105843,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27680,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6277709,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84275679,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493355,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3113932,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100155,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,826117,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84225,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10357547,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55537979,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216004,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16498466,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21587907638,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31195409357,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34312340,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86987963,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33901624,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478441170,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318326765,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107400,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83307,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422188,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643489,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4469361,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69792430,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29477837,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7810470,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195568,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1558850,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85117,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10532954,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9781917,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4478243,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5706113,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8744468808,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17656559044,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61534279,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285242115,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33240255,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156709866,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17491733,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26119535,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4251115,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21707,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214031,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13012914,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,894824,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34346,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8947981,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74233,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,62564292,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22641221,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,891186,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11475679,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96293229,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270181778,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181988650,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49138910,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48156375,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21068146,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403721,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21968,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188453400,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103724770,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47351407,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2645154,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5365,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5365,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9889642,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1673222,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81118,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42531,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35736,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,686702,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616939,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12251653,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17448607,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14646270,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407005,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48574,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254636,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13026,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18617354,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1290404,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74637485,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59290369,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4119074272,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6040242300,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1470407780,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1637749108,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547195965,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893167553,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5886916,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28138651,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2679466,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490070,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3600775,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1371514051,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,810018118,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,44881676,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51354017,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5376744,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31157,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17649939,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2474925,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4276,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24552,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6131,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6852065,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217962,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4444765,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111767,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497563,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15300,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23172,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409635,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383868991,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1177106039,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418584603,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37893508,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143611185,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12755937,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88909,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91784,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80011,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31416770,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,864839345,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68059987,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5470479,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497856,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22411705,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2577501,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47989,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4349427,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63758867,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3868,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40800,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2616373,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38438373,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6938649,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5634170,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112160,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2503245,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1049841,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53550,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1175897,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78764845,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50111671,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17285840,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5011449,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15868255,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,968453,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151068,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1264661,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5337358,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569015771,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241845846,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3835506855,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5471197727,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,797811316,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863517082,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783907,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420590,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404540624,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67874472,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275592330,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304890633,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86148652,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71212135,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57407461,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1306650,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24325274,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40132355,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2021105634,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207578055,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574880399,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482450504,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3997,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295078,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1522894,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1157863844,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3290000814,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1839554066,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2573721533,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,953770007,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241389707,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127908,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222320,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61578,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22311697,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9686888,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260577492,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323269857,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,597754046,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,555992156,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54819091,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1329102,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21137284,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99074620,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7235416296,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11559940668,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80134490,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149636362,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101293111,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263612686,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20272,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5350575,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30507,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45155829,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31487307,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054850827,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054850827,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461370537,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585899947,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302480,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161681,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,19160730,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29922207,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,432466280,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,560992817,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110198744,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110198744,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9621,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79898,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1905694,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48163067,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,509352316,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510272440,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198713357,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,882019,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48497468,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98346275,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1960190,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399202,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4708374,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19087681,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367483114,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660846894,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2370392716,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1128207470,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596501301,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718334795,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494452,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156504,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16970,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6169540,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9832719,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2645517,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2643701,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1800,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647789,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1992,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10031714,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218687153,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731215721,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1048544436,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409931111,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311681531,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195518410,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20238874,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288168,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1381485,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7252678,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2462647398,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7399920939,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,963046089,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554186512,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437685497,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512946144,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144000,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260903,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84926,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12248880,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44109661,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24637296,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997176011,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2403422839,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,907317958,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360794723,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2751462,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2433618,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107834608,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26253071,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20250254,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4438,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33930,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938301,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50580987,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400178046,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678885699,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895136089,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387191374,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381446932,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1158253123,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16887,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5807670,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346559,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,43854562,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30312618,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,157319712,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76053156,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4165799,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573203,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8798755,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40222768,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2503825426,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6208178675,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3226422421,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,776325087,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537251364,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351303436,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74049,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344313,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62395039,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5436203,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1898413,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608717,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80319,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3622920,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9303881,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,785142,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31569629,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79172822,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4957984,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19619466273,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29615550843,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4297204176,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3085364223,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441634993,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27097991,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784235804,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371640837,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19992258,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178202,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18135,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21254503,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10946649,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10291520,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1890859,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550564,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2301103,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7153,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191771,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28571495,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495191446,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126977,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,942981,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25733,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3294012,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2254,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8603,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21840605,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418850,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23028846,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89872,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17587495,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5274362,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152790,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68735,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452828,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116554696,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37936881,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69477955,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29807775,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25462287,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5170112,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1750817,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343724,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18715880,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482843858,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1519060,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19797,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16075,,,4
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1497960,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89821,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,987,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78921649,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2776554,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2937,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2705446,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4555286,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1548128,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185230,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24720693,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2797358,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2829793,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1615728,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041359,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402993,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889338,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358110,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11881,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311037,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39727,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463398,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37794704,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4665180,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552600,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79146,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11520,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13764821,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13754252,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11950459,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185355,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13591254,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3053054,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69118,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25134189,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,959033,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69799,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591960,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24469,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3372323,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19758,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5451,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6899,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21953582,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2859156,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63315779,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27458792,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818146,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2501,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9729914,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237480,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21848187,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7165281,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13085455,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22445244,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8027318,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704247,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10553386,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4013863,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437562,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37494,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436301,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12135,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46631,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55562,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819400,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70413,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56386159,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3631420,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9273,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4498592,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67553,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9360224,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123229,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51553,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105025,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1588061,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4568217,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755910,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194535,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97554,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36384,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2369558,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87227,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323507,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14616,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1624472,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55919925,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7179,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,36206,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28985520,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205719,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1405914470,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905204022,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,266766206,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,46430422,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,140881540,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23893502,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14728,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11729,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23377,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1636263,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305470,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106144,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24265392,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10046051,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4923590,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17370455,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271305,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187769,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14060,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21562,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,99766923,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,136898066,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1248400,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62534,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23781307,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5806,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44774025,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1911363,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275510,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180535,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155051,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257835,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347877,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3612757,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169633340,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295533247,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9984831,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16178,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9498048,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159778,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24094230,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9652,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31824,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30025373,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1114678,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375424,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52150,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5881570885,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3973555967,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1627023,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20606144,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24706045,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7162258,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60494,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530542,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99574,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32504,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62861,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11666,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11666,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142372,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5855030,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216826,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678317160,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3077718708,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144077216,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184298172,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5040085,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1079633,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65031654,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16098825,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398886,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3272494,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13582511,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73875671,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133976,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3485159,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439454,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133589,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1396,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912427,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48649667,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,786224,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2583659,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65164138,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23119549,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60083552,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71314194,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17979369,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16794232,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150963,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18521988,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5318586745,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2979172320,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35614454,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,703322243,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42689538,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286203515,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1104652718,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1755907,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6703,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39785,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20180,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19236657,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47775,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304797,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11640,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821335,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269616,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11105744,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1551631,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209204,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456453,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48460,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37083,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2145369,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26896826,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25828521,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61681833,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40895705,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19470521,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2808393,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15854,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12993,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22828251,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22466265,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482192,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6307,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4850,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1257095,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3892897,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12943,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12468934,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4213229,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28644901,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65105811,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507089176,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,656107714,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173264787,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29194667,,,0
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31647,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562921,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2921838,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326142114,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62830836,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47972203,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52809848,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69713,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18935,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2665364,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260856680,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1451340,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162330,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22222,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8178,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58975099,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386796,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76170,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4872786,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3315,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10430,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6466778,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1921091,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7714,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167348,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51853,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1328,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45332,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15001,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10324,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7030,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2106,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499820,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8101,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18662,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134473,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106305,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39253848,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289900,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113241,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336052,,,4
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373023,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3297247,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27407,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59121,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2063022,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18915578,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37281,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12094,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,549,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2278,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1630,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1630,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1292115,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,19099,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,45696,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,525424,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,97628,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,76998402,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,699330,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,25,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,107883,,,0

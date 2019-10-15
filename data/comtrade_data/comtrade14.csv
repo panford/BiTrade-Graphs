@@ -1,0 +1,897 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23777223,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3382919,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3111,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36872,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136644804,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53167,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1907,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1195589,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1791249,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117876,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295065,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2964299,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052368206,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121200479,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1461645,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3218159,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132296,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3065510,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707137369,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,781271586,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2583332,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678855,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044908,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15150,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5526650,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734513,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538939,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256232519,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449940242,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1680025670,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3215864315,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317311,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51644642,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24456,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149597,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,943,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2402009,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31936,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195328,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1908,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19970515,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2446563,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2190,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811637,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263586,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26532,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3288,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81590114,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10900645,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65080,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9162268,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38517175,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590210906,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317730373,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6916,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62185393,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3831895,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173596,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2359815,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99555,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207014,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3181,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294213,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,156973963,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,182233602,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9467294,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658869,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525838,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32418939,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85069444,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641230,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300976,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7400,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1016200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88791300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11754900,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4696600,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585600,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218300,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,30954828,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10448584,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1149537,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1030014157,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359847413,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19405298,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,521743,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1272718,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522285,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,85216,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184771,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44837599,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36662749,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193039,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550514,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121873,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9668253,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2203862,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38685,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,950,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349716,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170395980,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194319877,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,792,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38813,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3289989305,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,969983161,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4211780853,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6511017642,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15498,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2175409974,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1730986921,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3245097511,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1975487,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107143617,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25507313,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926917,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1106585,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242489,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64053599,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30076908,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8266809,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495983,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15409,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129952,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6874,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35967081,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4235622,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1452628,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98088,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,49478,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282339,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223581853,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51239551,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2406859,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,132,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87453,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663783,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,67066914,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11658612,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2960809,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208663,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48796,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36589,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589532,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487936,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270609,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3349535,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,908260260,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1744929625,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139228,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,473466,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774677,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35662,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43816,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3893293,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10076,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5244915,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32050,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191546,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74885309,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6245467,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32430102,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13178784,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74367,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2478565,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19743328,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181329,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481861,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635606,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283439294,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404519096,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43751,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374909,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24347,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24347,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6455526,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56770,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2408244,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7461,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,907015,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2999594,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1825588886,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1122577799,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228518,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351661,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17249160,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144684214,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3052416898,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3258133684,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3039342,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92192127,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1102206,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123145487,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83717817,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13114469726,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20648480775,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372948,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22034619,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1870282,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4451479,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4251095,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082445,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617138632,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218085876,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2659657,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5284,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44330,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467911177,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476310072,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1558,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8077,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9740506,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14780588,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1731962,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173662,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80837,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131302,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16575051,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3586052,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2274380,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8809841,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932459,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47996538,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625449629,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451605334,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120696,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7945469,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11261,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1409040,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421691,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664658064,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,875055444,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276416,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26954,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428634595,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114991474,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208130141,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8981584,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167521746,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192930198,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188323,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202485548,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997212,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260749,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267791075,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12556567,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17948395,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2041111,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23952337,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484195324,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,732096213,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168987,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,801314,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282425000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102453000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24671000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263891698,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38918196,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376841,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183721,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2829810494,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3325380585,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19099574,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5688944,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1308574,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27832743,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312028,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153876,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265593,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3748646,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36824730,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2042153678,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452677129,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340307,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52120195,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,948987,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92581815,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69983439,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572141,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66228519,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1530951,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214673,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250915,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292028,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22125,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598505205,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19705872,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,720562383,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1496269303,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268538,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83245564,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150056,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142428634,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163444,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4551482,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338176,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250309,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3700752,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10604,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970281,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2613,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115623857,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3186572,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434136,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711928,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188904,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2048162,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10281,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351593836,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554720907,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228860,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2166710,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501747194,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,732676492,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58803,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1227043,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126695,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10396347,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60366334,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107890952,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7635,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48712,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167682,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1952201,,,4
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54361,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3531364,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531263,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117131,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20218,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184784,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127215,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1710017,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43245,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56658093,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17007266,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196142983,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146461484,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151497,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144485096,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780437,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417764,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5406390,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60842069,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9362789,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25578,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23510,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88357166,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5080991,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289085480,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354465201,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35355171,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2686879,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46537,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31332765,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83193,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342000,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1977502,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6905,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7617788,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1018217,,,4
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543718,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28733482,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5377571,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186949069,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38534003,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7586,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30604446,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105309,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1029708,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45267587,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660457,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,651596,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037654,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82555826,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52478960,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2885984,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116313125,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44928722,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477618,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7554440,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1947640,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118668,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2093,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11002566,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174987097,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4118279641,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6512710833,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4754696,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27464975,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23660,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,919734,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253664,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4645271,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168221703,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109234345,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2412446,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1839037,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1399170,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3539,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5000,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7475408,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1201263,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1844022,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3500,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47496,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12424046,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4614295133,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4790914960,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431946,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5433,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50249,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13888130,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105070191,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154132024,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58506,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900068,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205340,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32104876,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29181265,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6432,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62217,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382261,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6670900,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35553985,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2735,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283381,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1212,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24332,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52849071,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84124194,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51965,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294029,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9661254,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7180994,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19470328,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2568786048,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3942271296,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287438,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5925790,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1797908,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245413,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4974697,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4508141,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351730044,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403358952,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22934,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357452,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139759,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590639,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6935815,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380764444,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295365432,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32930256,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39863,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248096,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18043101,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,894974919,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2606502810,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813558,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16979879,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3719047,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74188422,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91805,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210826,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144301206,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62120405,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363249,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216931527,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209081173,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519424632,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,760304016,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4107197,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274356839,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35428837,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59386865,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32920,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2429151,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331686775,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667953111,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343895,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370139,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283482,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690106,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173337,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,101203338,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,344019463,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37665,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557457,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109783,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95267038,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,879513320,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,338280661,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97472818,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748625,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93083209,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253506,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966748,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180246153,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24838710,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997020414,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1836661163,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1182234,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65001933,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1540646,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940005,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13529,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20470663,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5759230,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,245,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13955745,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2550,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31429,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345305,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7860424,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11118778621,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10437807310,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3310289,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4480036,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5977,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73239,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2242447,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5605703,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778092648,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981960757,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2931226,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634878,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14255,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5347490,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156310986,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162326395,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148132984,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505088574,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75194691,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54846727,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3862723,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431862395,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276958147,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125446,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5994,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5994,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9388992,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27069794,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808426120,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1011464165,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405984,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102506384,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1808365,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70920,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18440640,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7021689,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555492,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8011586,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29318144,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6439574963,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3530341706,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5860145,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13586233,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86515,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280226,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965588,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153627461,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42750960,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3825720,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167260,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407942,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641590,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2251202,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86173453,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76260999,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3104073,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7847466288,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2210686217,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281100320,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34672571,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157307702,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10474349,,,0
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2660,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68157350,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8119790,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138267,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1804497891,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,544119187,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108667941,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34765764,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,943074,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,982,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1634776,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,757,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22482069,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006198,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298062,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15601,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1795,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15333605,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187618334,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224858524,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15998,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434098,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4346,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1580724,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1100508,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1967,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6050,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3194334,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4492,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514070,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9640,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102713,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110415,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983726,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26647589,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707065,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12728157,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,601,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8645,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148883,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35461,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17699212,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15684279,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758518,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232461,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821012,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141578,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3300242,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115859,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22740,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34860,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427500,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215874,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6857309,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22179300,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9600,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40251,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72871,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332124,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16555865,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1416196,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,763,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74983,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1380806,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11787,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10728,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169988,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81639295,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11175082,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168028,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97664,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11657943,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275138,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16441022,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14268451,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2504627,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22286,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193379,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122707,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5649010,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154813,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70029,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4881190,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182632785,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19931405,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36405416,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7193632,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27600,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456411,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7542334,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998758,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70823,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48496,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70334,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513108,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24979247,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7998061,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3922,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269457,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58064,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21366,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9362268,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191351,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2402,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9968999,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4267,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1672,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3365960,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7376857,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8441033,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583747,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4248,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64476,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,725631,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,601559386,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180346656,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,722018,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146355,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6102754,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486749,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14573014,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1480118,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7194,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33432,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14478792,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1392029,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,89513,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5898794,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115302,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6138636,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3179760,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51346,,,0
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25533,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581532,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104567314,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50746528,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3485637,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3309729,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4854029,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18559,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160797382,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35979806,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21859,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426486,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216106,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829405,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220029,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529750129,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25389206,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3740026,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749243531,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21539756,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006246,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55540473,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130345167,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61686922,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11125512,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700718,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663456,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1355147,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2045741,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9851012,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1411759,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17738,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14698,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176409,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2482311,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9331332,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8606495,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382569382,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217585346,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2021927,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11728183,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213265,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298798,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24690515,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15438166,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321435455,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341686541,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2012670,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37249130,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453668,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1975,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22473090,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539889,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5620,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2723905,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472029,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6862,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11765,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3658847,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3324981,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7859549,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25500,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17781,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249522,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1757489,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630716,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50116551,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14135335,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6257,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691267,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3088490,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4870290,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,189605747,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102412311,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15785901,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629283,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70488,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3302585,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,688129,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208981,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,902603,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5770281,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192774988,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189579203,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8849143,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663730,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2324732,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2669430,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18215532,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161032539,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15667759,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3996604,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33988749,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1808,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298407,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9891293,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18008690,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7646677,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417507,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,868,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1319449,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607383,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,864,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116202,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1851,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3857272,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22165,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7533,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441342,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712746,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2823,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1546190,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1443840,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2443,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170579,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99089,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5134755,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8940516,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3684,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1568506,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21296,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13470260,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256960,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66344,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2272624,,,4
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2580,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3704350,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393093,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6441019,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,502312,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,13687,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,666470,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,,,221,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,,,221,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1242280,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11250,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3658,,,0

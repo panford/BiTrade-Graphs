@@ -1,0 +1,1455 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21800987,,,4
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322867,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8656989,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1018393,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515528082,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1231155240,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6914,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26654466,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5294925,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246967183,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3329646,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3754996553,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5629479666,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1810,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437834261,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249454629,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514409,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13490,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265636,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383603,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43535535,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2252104,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22585,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60077,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6122238,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75580,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1403606275,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75075571,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633353414,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130699239,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4923100723,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555997444,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1337311,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13605685,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16510874556,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24008420963,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650346205,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311742800,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190723096,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432180437,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10130777878,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9995183534,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537316,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3396394,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2340694787,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1476537245,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9838311,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11874,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5318,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6083516,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1992949,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126190,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124305497,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36058773,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32947029,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49124,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1426,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44642312,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357692,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74424,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16575177299,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2271791468,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1892084026,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2684842830,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14486512836,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21097111070,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2782400,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29505886,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9923355153,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3701380791,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1456649,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289505,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11790012,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293593,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2850629,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11026098,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80067,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3936902,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,533411,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70076,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4763359,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2371364,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26404,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145474727,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40998187,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573486,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,862,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345309938,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591467621,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115636,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28779082,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175531,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4489497,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1427795,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1186525975,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696350716,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59942946,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317618,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501002219,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324040681,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,885291625,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466008970,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3958368447,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3561003430,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631499,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73619134,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3762632611,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5263291829,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3241692,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16712,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2827,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22678470,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1479031,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25830,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120543337,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1630299600,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129381560,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52536158,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57629987,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123199068,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2481645755,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2503408944,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7094,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1068294,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119095639,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47314909,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16035114,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10294984,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4181205,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4836290,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126521071,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96702159,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40097,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8602,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1055099702,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,903025915,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31548000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6036200,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63922500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76073100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692616100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98409000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122096100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16681500,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1814486263,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453235043,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28552682,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,991784393,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346908028,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44639000,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6282232010,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1766435704,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73293602,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,129667525,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94825445,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7793279,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13503062015,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9117774456,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111211426,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18725350,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43491843,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87009,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66500648,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79335152,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362723,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304912306,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531646226,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1750385,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32828,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2238063,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1038078164,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209547637,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2633019,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122325452,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55493403,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122575383,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103672282,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1194419066,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920152589,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735094,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13145974,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2125951610,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6353644093,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8117925371,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2912629195,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4206235859,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8918466720,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20497942487,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,29199961821,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48088933,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516573649,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,165794005814,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,137258933310,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158882328,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105489639,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128569784,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302693555,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754602443,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480644554,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142135,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79352876,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1231263821,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557358655,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11522599,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545069,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265123,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50312632,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147474528,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326667504,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1772295,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25425,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60796225,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82111011,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53201316,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13970218,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212243883,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167430642,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1467065,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90794052,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397506601,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183219993,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68997133,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50258494,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15838949,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57503633,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3165174941,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2140701201,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15043,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30561031,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55280545,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21306381,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4459259,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542558,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374132009,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78470009,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15517766,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,687359062,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56205346,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24048121,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232080,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,78250333,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,982057,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,803692,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1775005820,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658721500,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275987718,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033427763,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6882636402,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7406702153,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216760,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451229,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2878825210,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777530082,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028404482,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687634572,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85281001,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154464729,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3234056142,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2189033125,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296717,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4760872,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424680118,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1468861947,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16208470,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2799527,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28548346,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2811817,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260318946,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63654753,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014160,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61217261,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375825979,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16794624,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25310302,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3811588,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27414290,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13265676,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288836829,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587291472,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271299,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3771686,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523204313,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389043828,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17661516,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102191,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10776743,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60314,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91554375,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32278305,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61235,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17188136,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237266449,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14429997,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58361977,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15800373,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11226525,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19564642,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475524040,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153160658,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1782837,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47721,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260616842,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79671988,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837365,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3561,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2296683,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91056,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47118,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7280110,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52221,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7483,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60621,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92634077,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32583637,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21871775,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566806482,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305484973,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77208456,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194882832,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1868306093,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1559079428,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1461739,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1875215,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799397685,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073719725,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7554839004,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3201689231,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471502605,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1720955721,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47044647683,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39738178890,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30828079,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55329330,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11202311419,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7183783641,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13169019590,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8837566920,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2153511639,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5014170840,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62372465650,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73528552333,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150143533,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77237999,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27054713582,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22099071496,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406485784,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133809179,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605595361,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499998841,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4208386765,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3422001196,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420551,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1888347,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137214104,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,106629844,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,498104,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11904852,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166198,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2560222,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7185,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3033097,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15932316,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337551,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25018193,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7755919,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154835466,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161291874,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4165650,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37551862,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269578950,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153700790,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9396301,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3820269,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36930559,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3461698,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55001246,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85874147,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40871,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8642120,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155256723,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20767247,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680419583,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262199826,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2283745108,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1875641863,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6158184081,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3286144686,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3602479,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9592354,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35714179587,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16513327793,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546585136,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180395021,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192486314,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332025100,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4973520045,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5790364194,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11733238,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421113358,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724878856,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55613713,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10136770,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8637094,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700513,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217003070,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47695873,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56408379,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167805663,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94045401,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124570506,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78803629,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106959580,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126287933,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1570397167,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1937660213,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3051401,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15158834,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15241423780,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17790812134,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115681287,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143463,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1426050801,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422897541,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667475052,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425217441,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55997242,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,372,Ireland,IRL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55997242,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69859092,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305318182,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1799728289,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2950148621,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549748,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23886903,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360417984,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2906060205,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,868524000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68257000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2777895000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,935174000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4835000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2081544000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820689000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4233413798,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650179274,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900881288,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7865122,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,927106045,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2942813832,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34704737,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,856479,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1864830,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53889932,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135504,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4724801559,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7404924077,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226829576,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470270481,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4920803318,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819559971,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1128905570,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1926592777,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10322925481,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4893624822,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15638963,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257183638,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119303784,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359768,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47713878,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130671373,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,945265959,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8669344234,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19839,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1302,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413941084,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886456312,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94641288,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1846589,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46332,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22716878,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105403493,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43362945,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808318076,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25784854,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366103,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32728,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466343,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5507,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570005776,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26218319,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247380,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1148369647,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,693158614,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167005366,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1265691568,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5695560529,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3757902761,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3913963,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26127894,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55124445143,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26814294012,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194735666,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424939,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1517781560,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21117535,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39348,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1720026469,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10711919,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1337557,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1818163,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24570,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27085997,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475901,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1570,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34448501,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285619,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174403340,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133524,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1771013618,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27177292,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16772,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64068,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373626095,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5851521,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690893,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5044,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2363684,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,966572,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7382,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33734150,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381078,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124533414,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42535082,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14664242,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39207661,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509832324,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199878200,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551308,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25232111,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57217881,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151042523,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87430553,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31328475,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56054226,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596313026,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670518125,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738438,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43734862,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133116314,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87044599,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52101646,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2789666,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51396,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11940303,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17728168,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4800,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,580481727,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546630459,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3322663,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213143,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72974,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889071,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,627146369,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80535014,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17308,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539868,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2250791,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2956210,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49956,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051813,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296344,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49901150,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29711242,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364080,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2197,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1484,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59335003,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97819656,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46008,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836438686,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158304793,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1680255912,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1065335312,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743648,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16240875,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14788770471,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17580964542,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8502826,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9089283,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280254,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34804301,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5763527,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16453,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23350351,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3185842,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11964589,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3095362,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8537340,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2202986,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117900502,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144559759,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1711,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2463,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176058727,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25262457,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617741606,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232881765,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005298447,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716686410,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2530791447,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2136632150,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8606887,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11699312,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41999290413,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20817338597,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4938384,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16182,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2172,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1134409,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140933,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45840574,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43299934,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554035,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363149952,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14816466,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3024874,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11617595,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5567,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303328,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3014,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191204270,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14840399,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19703,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41308785,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216548,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155820759,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142515262,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2616087437,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180867971,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57280,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231285,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456850998,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199164872,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27583578,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182200,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143045,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446176794,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36782027,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29803102,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724561,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611698,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340930055,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58115250,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1713666,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19625458,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8912198,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,898775,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4799090,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53859610,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52982520,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1281,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87794246,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203436504,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29490343,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20092,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2426,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37783713,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6327778,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22104,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1717,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6360295077,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4046949997,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2055059898,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2420717331,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11357168085,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19383216942,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21057325,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52998060,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8669666067,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3980027390,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166325464,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,40965349,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981566,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121142210,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19850845,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2479009,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827455719,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,254085079,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9952876,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5285197,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23859289,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,42472,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2960723532,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2275543956,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14257615,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4167849,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2199379,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11457519,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420371,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51597732,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40420859,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4316,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236554,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158108692,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27671058,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,728764264,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185263191,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104672520,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174404559,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2614015419,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369500527,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334803,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19237512,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761443931,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1194957490,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78118019,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61496539,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97621,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228488,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605928323,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,703342985,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3924422,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3764512,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1462117,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1880476,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2293951028,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216559818,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29869991,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13587884,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4199985,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2515895,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9411169,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128099093,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86286682,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242533847,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32062,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310565691,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55748224,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55122410,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16508971,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84415910,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8979251,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,776405076,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563670426,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740911,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10253272,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1029664457,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1880077672,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603898999,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,876226019,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403026076,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607546752,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10934773901,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10856023169,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1469575,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3379150,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3615587710,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558448019,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524739465,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366995894,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103493936,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215778264,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4263699826,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2219054511,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111878,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376470586,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164529570,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414898788,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150915632,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148955977,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416010194,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8568328535,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7940393463,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8853,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387709369,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262689708,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1114050951,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327317229,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800560967,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1668329675,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9841237021,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9805473930,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72441477,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3947278,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7763938243,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10500218126,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110473078,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8602206,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39918326,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27355151,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2225568465,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2236670452,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3801,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22443,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118766912,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49986528,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588538506,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517639057,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1991713868,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3265190682,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4377627636,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5655095069,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4012547,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49916419,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10469211583,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4497961921,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267145817,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163008088,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63713438,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354049691,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2710910743,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5081603019,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16396422,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1778580,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641126121,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133976963,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155245225,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50206685,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86802836,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58469301,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4503749419,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3671648254,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46549,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438016,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277249807,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140388516,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477418176,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119480712,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289260482,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370179340,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2218209354,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051798044,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420099,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5219987,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2827048322,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4162371997,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3160794943,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1747323415,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764824921,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1714757515,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22778011715,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25084154110,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,900014,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54292090,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4433278845,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2758735688,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8148598,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151551264,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19253354,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2613284,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,750,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574061263,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4316642,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1495595029,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603916529,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191219440,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337908121,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5024710520,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4057771496,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5173953,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3643698,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1272373897,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2247372093,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7725238130,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,921920601,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608174949,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103596419,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20134798838,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15800097271,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2343968,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10830669,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5747899557,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7581285625,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,686748126,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72544275,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39974139,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6811104184,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1042993235,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471895150,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26850943,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3313247,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1870297,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13982780175,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1820188424,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044089575,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970306947,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527038895,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1505113435,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3407436059,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11304715132,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8473470854,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149455,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51050296,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4281472227,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411531046,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21836166,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1312344,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22413447,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5571168,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427153576,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185256371,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,772,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104166933,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,639040,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18760826854,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25107563658,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363693390,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1538172588,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24965340211,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13202179045,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54865376,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97501288,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13110141118,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7368419295,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43546312,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598731,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13630012,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14193517,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90018157,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36462871,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22223,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8110,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412381076,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74691171,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49089452160,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10706118144,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026230074,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22368441475,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12547614299,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5559898597,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51322939607,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18389102008,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2080232484,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349970255,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2111162792,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141669462,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139733004183,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67582504041,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6270018182,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13100468,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005184,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14807909,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132156079,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139733129,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85640846,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56483,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469207,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64660250,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9107559,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48285790,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25368,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3779043,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231741,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14501994,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2422383,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112834,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129134882,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33177324,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10843565,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5500,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32673878,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638938398,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317649709,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5352488503,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11792904,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,170773992,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4354886,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226483641,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277179245,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144192788,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201574078,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1674842493,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1039879211,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115119,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5399860,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057274284,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,636689488,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1813633,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253903,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94440299,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451953242,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5942869,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,971264,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11773,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16814,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35456082,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20463690,,,4
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,655362,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12277703,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,582067,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71287,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71287,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1621963,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14172750,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5245,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6173917,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14950626,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4508,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5001065,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1319756,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67794,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3851,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221888,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371075,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38695793,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3706,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23376885,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2166766,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28853,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71952,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46029,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5722523,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258071,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34863,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27708670,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183843,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33857233,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8331875,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3666625,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138228,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135086228,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453181165,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13329152,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122988308,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1035977,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400779,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4652346,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48798833,,,4
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186060,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10397021,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32366,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132993,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163981,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859374,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11563696,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85568,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25408895,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42713,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1578262,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14363,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5876162,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1419938,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22204813,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1218295,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8099761,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16741,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29385347,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542182,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13252346,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7034736,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2084726,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15169,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217992511,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69488900,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866711,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143689,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138818374,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7359364,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3783,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344204,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17160,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44498,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4576690,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284393,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2122568,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60985800,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3426120,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41909714,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4005829,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289756205,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180347023,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380796,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27422,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200585578,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123106682,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42583897,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342456,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11762849,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13172480,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200441790,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220183513,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16702,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208477,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213005633,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2234031,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45299444,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49472,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44912,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5044041,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107487,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4534,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24658342,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2061807,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119607,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365945769,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12311471,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9042,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31493426,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13030339,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20111,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60868142,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7230625,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216559123,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32974371,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2147814,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50474,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14599,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789926980,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43578035,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12934,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9198029,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194690,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451204,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575822,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20386562,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26009955,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17772,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70544607,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,718338,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8771601,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42504,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,706760,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70979156,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5359716,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3017,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86583094,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6487544,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1215275,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1117,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11160,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63331777,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101136173,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1463637,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71674397,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142531467,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1680980667,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,373791780,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,712558105,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230020628,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6161416070,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1324458872,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1945018,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,229044631,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18184834934,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4055834659,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7187178,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616674,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8931486,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3820068,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1838692,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331207808,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236025912,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140936288,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2388,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165981,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37516373,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050678,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283372,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6585639,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1001343,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40469,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,58407783,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270163964,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92158,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23888,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,127205201,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16967244,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3610980,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313771,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9511918,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182613,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14259580,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12057616,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55577747,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9650803,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8370555,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347652403,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42651239,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95788305,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287508,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947886675,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1039323486,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140286,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304883628,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,502937904,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,195,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329572,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3753,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19792161,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1499108,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182586055,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67600565,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149487813,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67441177,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635317202,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317213828,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811550,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415551,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11798458431,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10853157510,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558116,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60469,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9967,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3711,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4954253,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162422,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9557366,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4045664,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14002139,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7342647,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1169917991,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8089286,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1892894,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4527897478,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664462905,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79017516,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124138,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351323,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323127,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5485067017,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998194045,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36467373,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15249270,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1145,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5961516,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2759385,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152072264,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76752684,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3005,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120834190,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5491104,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917577926,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233660163,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618577739,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657018072,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3774514506,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715748744,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,850607,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4659879,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20484620158,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17056689217,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1381463526,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107994900,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344962113,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711419293,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1650004163,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2734907503,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2615748,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11903503,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16916805840,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16792127679,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12049626,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201027,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3697765,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12756,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18876679,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2505959,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7717,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123031768,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75725,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18182479,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5465023,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1105648,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61694,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3764352,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19136935,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19006606,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499465,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11695218,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1715,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1830112,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19827083,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4713412,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28730,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81868947,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385075,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362162,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43530342,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13304444,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3212030104,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2338801807,,,4
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16136,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12399,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214120208,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17384425,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26533321,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392104,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282173,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5412697,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12169046,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,913660,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49274132,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141578879,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521781,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33092,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3570,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370092436,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19612842,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8839439,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113841507,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55303475,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167845215,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605099858,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1617614291,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2474750912,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240667,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,705071876,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218009089,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191491952,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45818258,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60811284,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52560849,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4192112900,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2198979733,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40371,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611994,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1024783013,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63031439,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6747256,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10063555,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2792,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56794813,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1213783,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18519,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117198424,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28363866,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3439,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1204124,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15209974,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1593651,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271166,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15249,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15249,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137184,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5862870,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2190161,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2189018,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6997790,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28266,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28266,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23339128,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1539595,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3680330,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1191175,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1138810,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4304086,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13856821,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39224,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8788259,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87723561,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3450266,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50229116,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5098727,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92499,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251237,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12848,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12848,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32255,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575055,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49023,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49023,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1741698,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131447,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127167,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8209049,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,908633,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190092,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14626812,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2386180,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332572,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8812027,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31839,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373402,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248449,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1731540,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3192959,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67844,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496866,,,4
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29455963,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46637662,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41432,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19203365,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4211747,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808882,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2884,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2884,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73121,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4809947,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7921,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1575,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42945603,,,4
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187797,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9626,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7527,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15755,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9476816,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589099,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9304593,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15385863,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25868896,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3678152,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3574952,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,51247,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3039468,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6071,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,,,3671,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,12862145,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,736651,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,12991,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,13853942,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,28436686,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,10178337,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,45357708,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,59763,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5975,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,76628,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,46426,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,469948,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,73584,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3972,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11072898,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,800716,,,4

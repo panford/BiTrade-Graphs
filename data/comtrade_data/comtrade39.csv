@@ -1,0 +1,1226 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684699,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84794491,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7083049,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13900177,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229795,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2660688,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12769,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19916524,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107179990,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458385594,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21609125,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404789765,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955803705,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51182866,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3313490,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224199,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6637804,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25612,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12924662,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159100,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20308,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5181,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,525025978,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1748298318,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6060,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45581,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831690322,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332895119,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197420977,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41127339,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237328611,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354113473,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157826778,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193889250,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4290580883,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4761821032,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625745885,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411256360,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24840949,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118831721,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1975907,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42758,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49184550,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7937112,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6461570,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413899,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412768,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516074,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338351,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202258632,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492658709,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15111,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4826658785,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9215656068,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369798124,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2358181464,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550824645,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364494298,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169606,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116590,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1322642,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1803,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905368,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4968,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4974421,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5640,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7437590,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560757,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5754737,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1745830,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766224,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16884,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6519,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6519,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2062617,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1646356,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316269544,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76969699,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22095485,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1746733,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2640968,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662813,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247928694,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443475461,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6494,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51833,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560716197,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,595854141,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,826786718,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1432617571,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445863721,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420284697,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8977578,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43249799,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1215201,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22420,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386949,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17327,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44699,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195096,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45162278,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38990727,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236033840,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712523428,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59646613,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133198858,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1922183,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12916566,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28908474,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19223463,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4253,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7870477,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55918181,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061904,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1023038,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34988,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6658628,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13884200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9311100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1334798700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1082241500,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25538800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3771700,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4637400,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1528600,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1073404436,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649250707,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24193482,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15157,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50042,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2792,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1492984818,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535638262,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202200933,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,445105093,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208388865,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7597630,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13155611,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121004896,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16922770,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30055480,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37649953,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442958,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1433,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44686677,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47585519,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36026,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8055665,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10003861,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55083118,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22854062,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52820,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55223900,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218602716,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129526522,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83636438,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142007740,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54103088,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15067634,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7548290,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19239177209,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32065932447,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3353507795,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17873049958,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2139178524,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3445214944,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6400274202,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1682329963,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43248577,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12267727,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8981,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88861480,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87303949,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66820102,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397468398,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5882026,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975713,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5354,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59364,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22669842,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6217458,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55197267,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178636,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7926,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11924873,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5136830,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13692,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16607,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15509643,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8297556,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11285993,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47207559,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13217952,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1620459,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2328020,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9733592,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,857864347,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224104355,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30745931,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64935950,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037830,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62852182,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,65519548,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2336913,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168086,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57969200,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8192087,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1079286,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23859648,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1631577,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240378,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1312040,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8169978,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3093539,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374890040,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111249227,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431218,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12559436221,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10912335248,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470207714,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581730609,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14272031,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114345498,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56365246,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138724537,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3649886037,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2799545440,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375162446,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238530896,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133224880,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90947441,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11478340,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7082810,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,697,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15194428,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13939667,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25111975,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2133834,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,217199,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20369842,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13095853,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10691,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27417536,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44952206,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21220337,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48685837,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1490416,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7575527,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8912445,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50916,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13928447,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488734,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18094805,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1872881,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11179,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37642,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15920682,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041376,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,945132599,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317448813,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22924084,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18475931,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227610,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028263,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2394867,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1564691,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3987,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3992,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138337,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46690,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23284,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36232,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95851,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95851,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818471,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229691,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76847714,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192358583,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1855906794,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761768580,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332327506,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187826276,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45743671,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29421577,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150442041,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832804556,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229408,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10800,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11388002983,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10300174590,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6753047426,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5435119412,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735602324,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2255303317,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4077084817,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2321826728,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8049,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56962247178,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66402711968,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7037680145,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10092176033,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330754745,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2481746069,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7752389,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21061496,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1055039,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,830514914,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510549351,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125174269,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187198878,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46441325,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64056698,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41364,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48199632,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398039,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3728199,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3372,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1710249,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1661922,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8707510,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9411762,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19282851,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2287797,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2033133,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2956223,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8069987,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297082,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11193508,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2897776,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8564309,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8436123,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78725,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10711,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11165292776,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3651320177,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381940194,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1278102204,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154937944,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340664473,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145497243,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182233560,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150583310,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42435611,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5837577712,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4673160689,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225793944,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466939722,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529040,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29206177,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3373123,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910031,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188874948,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51347707,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25660974,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76393384,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2754,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38319,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859302819,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6627221691,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4317,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140677591,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384942647,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46922246,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163391114,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,841674882,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74795722,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259858058,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61251414,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57921835,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31321971,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20051754,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4795090,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23655519,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248534631,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202169170,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195526686,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1170,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,703598523,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1496749649,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282511023,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513043961,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147303287,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79685690,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89430000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143054000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435390000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246843000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211055000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107857000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301041553,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755268197,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16222676,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13584826,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60660,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17745,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11174214213,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14292779514,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177510546,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130439857,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2003314896,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4519381020,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57540086,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28143964,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1371189071,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052589218,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29326708,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9735297477,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11128962447,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5251,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1152322464,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2006751745,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311227100,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427685470,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10996923099,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1190002353,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13928850,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19043269,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326685291,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575085728,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18123323,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596303568,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6509,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134697,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5823182,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5542860,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577856,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97054618,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2785852,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2076038,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52368172,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8036097,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134983,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86050047,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167104098,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5733919,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3702311925,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10593712965,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16418,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628221927,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3116090391,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270366855,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458723310,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11267090119,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435462325,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83504463,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11204626,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189744516,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844730,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59328993,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3004314,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51856168,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358142829,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1211717,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22784219,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1936359,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,763140,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7605,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153989,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11649362,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366992,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137058120,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1884431,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127033440,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7191789,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15282167,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98658194,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53033,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5192,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1685,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1662,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1402530,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3272250,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1441631622,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586221415,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26671491,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24894894,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275157,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2061174,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2508991,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3079935,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3182748109,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2364155492,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54048669,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78692074,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6128014,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3075663,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7797329,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8267108,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331304035,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333999977,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112756,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194450,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86271667,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64181670,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276209,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59192,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40446,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9609964,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,771829,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232789,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7157155,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183880,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7748,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13239893,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5324580,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52471927,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109951,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2089881883,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3847313505,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59311,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153126799,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395723412,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58758440,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91326669,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492568658,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177550606,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1377071,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195615,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5930844,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272732,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344684,,,0
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30057,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3700276,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4319212,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1086293,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17677379,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4821763,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13251706,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30428518,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704205,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197152,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2382067458,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9614740131,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5424,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277764840,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,891340313,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90280447,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443393579,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2645888786,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146324701,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6689124,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3063,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48349980,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212080,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855539,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24374,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272615,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253695,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696452,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45207,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43118945,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17278456,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4245538,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,933,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27056682,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6080741,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391146512,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236548098,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388100985,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362327274,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46539070,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24742016,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16900349,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12936604,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5054597,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106678305,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5858381,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5334771,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4257890,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2154304,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8410,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328497715,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1339492898,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,794244791,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340248,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69896,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26373,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5060618,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3233345,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22259,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24779047,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33785577,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3517,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62321,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109487,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45687,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1613108266,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539217907,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185970,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9270564805,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13178271942,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2290288788,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3147011520,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268306832,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573758983,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,88701249,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,499968311,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3404026,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13362,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1069222,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147596,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118588011,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40153496,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464321,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30325153,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32023117,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,148692,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102122638,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27056844,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306285,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4328930,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521442,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16193448,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15375703,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5941623,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3282732,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123340,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45019664,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55745670,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3648,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2882587714,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2278187740,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308897352,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602481078,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7299139,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43072526,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71295703,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140556452,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204417,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12190,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7954,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154403360,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203028253,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242926,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349805,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28036279,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182305186,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41986,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9930,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1608304627,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67361967,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3568600,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158742,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3869351,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152150,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22276095,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132562912,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24694926,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85142270,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652361,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1266153,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56886373,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348620116,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3715,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80363460,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59067242,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43337487,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27478251,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15708002,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5453247,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398826030,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60514185,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89418,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722468242,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,954513621,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538284766,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78899423,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28042936,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10617818,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,954176113,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,719832061,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175313733,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39453103,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24275679,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7848379,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4659987034,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2216235410,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429495387,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341335267,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3325588,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25425316,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407853668,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196282793,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4676293191,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10570013233,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476846697,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,963230512,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23532725,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49785034,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15223861,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893609,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1686,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,909498325,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422262525,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36083317,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18667987,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418536,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10745858,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711113130,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1584554561,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222439,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,750727986,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1467177993,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182533661,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735967681,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8099718073,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1181665056,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65447679,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7645512,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3906,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4320680030,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6437412580,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282218118,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277451779,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1352408,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23627521,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,17038902,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16150287,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15679,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,876410667,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981265966,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112301456,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120905838,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1712605,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16551709,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173725312,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65160101,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18484,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778440961,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174770256,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238476143,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176851921,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228353602,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117177508,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302802565,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475340782,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5888665805,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6164126372,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12415287040,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22378622433,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,852839377,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464140363,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1040890,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5288099,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9051523,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5918814,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9597653,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6095,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53648912,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29519084,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53318492,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150699767,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1874,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5977451955,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4595473228,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519963579,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,762931626,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170443922,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230349635,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468626909,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327423441,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2291798245,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2240305857,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955801490,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867472002,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135852212,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687873822,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817567662,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281654930,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133897189,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,974534726,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227020936,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128642140,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317242753,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24285949,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10715809,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615742597,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1980448617,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1326661836,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145867586,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132959952,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8499,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3445905872,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3070757801,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684343967,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811176484,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264126483,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,648914967,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2205717,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161149,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222531331,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58774848,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30123398,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10350734,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1537185,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425333,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699471126,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682919443,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37785,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003483,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13617068974,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6426880934,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3905833614,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2028773948,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1563574530,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3119284062,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4686505,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,990659,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50208198,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11046624,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7918801,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19718470,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15233698,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9828449,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11958243517,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8450255967,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633116564,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41007,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1431,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7338271502,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4498672653,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491953851,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3654251187,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1192482052,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111649834,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236799382,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3123831940,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213532077,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15029615,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14051203,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14204211,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26450098,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9145661,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82112812,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2365465,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1817910,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120383,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126932,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15384750,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185564,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2407379,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75526,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1320887,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1990845,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3000,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68988920,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8706539,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10777318,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501617755,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24220,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4702104,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135955017,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254964560,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6165,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261985812,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572623273,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119121231,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96279374,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449205295,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19592888,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275035,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1601799,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2846429,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81702,,,4
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1625374,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576641,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576641,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118716,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6968,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6968,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301142,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93552,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1403581,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17583591,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159562,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80707,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1367077,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741882,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4689712,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198989,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18543,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51611289,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2815272,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58956697,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112790481,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3056219,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216775,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3873,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793440,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340711721,,,4
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12362894,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49746,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17180,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373504,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7257,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9154114,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201350,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21972,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12877189,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19099,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6603201,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2110094,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475064,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276550,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127743420,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18779022,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72783,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12477657,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85543,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83692,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710379,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1281227,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57502,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9415,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2409185,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210377,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78969,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4879,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5204238,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817497,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11838,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31696130,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16843201,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16286186,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58717705,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11791260,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213779,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3764909,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207200,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45726642,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105522449,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93698516,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23307700,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26992222,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478459,,,4
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322378,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15751,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5554,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6198362,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3027,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3027,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3098127,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11102,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11102,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515812,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7457,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7457,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9923344,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5387328,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7686,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61465297,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21416656,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305537,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15911676,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4634223,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1552,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33021286,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35883015,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29085041,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670112,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,881808,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11937270,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16417174,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11650473,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6854422,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7724815,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,891987,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6283343,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164628,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4971687,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2546855,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1095669,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12344810,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2868673,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27122944,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121208,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3843,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2361929947,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163365302,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,221622,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,852945624,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280203630,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,606864077,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166493663,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,30200094,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30249641,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3971252,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59249,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165714386,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102922894,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14200037,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13783852,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5732212,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341773,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71088,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993714,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,240734,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4097024,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26671896,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31443454,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,242321504,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21734937,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1213597,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983540,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5875075,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79101,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4137724,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223642,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,989922,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359506,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5766313,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74016,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2566358,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469308,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90971475,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61380143,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24534807,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496767909,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62318900,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138838,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6358192,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15390,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5221,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64598685,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166212792,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12470219,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503257954,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423686102,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32199811,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60252,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17927,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221802,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314052638,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86318661,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21666998,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1379494254,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306802442,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2630311,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276373041,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61666899,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570955,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180535505,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684853492,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133485913,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983855,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52343924,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4822073,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41835679,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11501385,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3682734,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41393,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5740445510,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7268744295,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472798000,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267503577,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411731985,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467711107,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5165295229,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428659440,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1158332458,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2833417324,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229591613,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774505357,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62027786,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330621499,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138253251,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52839169,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,950265,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3868,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24896783,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33961,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520670,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2403,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52253,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49777,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1024861,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106033,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653124,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9478919,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44795,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242253,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12759151,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2108999,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1716241,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91107,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8179748,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23819490,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126337,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,922060,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146866573,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158514628,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208681244,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77481095,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22408018,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17209126,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1839387,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49590,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21459825,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6805032,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3996919,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20816328,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116361,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11388014,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8636534,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6924695,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43344277,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159814736,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3345238846,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2727594099,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59804442,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264722348,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11199384,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42318239,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16360890,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16475510,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303861739,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93909956,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129029678,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105134179,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1371510767,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294661776,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1708792,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2966,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8327393,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211433,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10150963,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14955,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654668,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8946,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449674,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144139,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6383,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269978,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190679,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22212,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080626,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2258,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4070291,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35365,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528809,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13293969,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1370,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24093,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28159,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2786,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28490,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184168,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28972,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120958,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80088700,,,4
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590046,,,4
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2258804,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359305,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2909914,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1242753,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2344579,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843731,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62717,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1461,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2785226,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662335,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163555,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4466,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1931924,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356259,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1274965,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,672461,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158168,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5093,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,919848,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,19585,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,79,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1869236,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,36678,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1262153,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1250,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,322,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,100,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1278696,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11446,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4735,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8083195,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,974169,,,0

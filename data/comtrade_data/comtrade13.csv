@@ -1,0 +1,1271 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37632408,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7069458,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319347,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1924021,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79424,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46738789,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19638389,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21875712,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3575797,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119181,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353580410,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2844618,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14959889,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222763177,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372400,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141086,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16701,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3493715,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1055,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,805,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2205377,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32637,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2377,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28915724,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2423852,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9707301,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700038,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22383038,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3804865,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573065418,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131849537,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19479288,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1106084,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777596632,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434677064,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3485870,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15600582,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22201686,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75836143,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7152186402,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5798546005,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25185,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1108169,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,840216,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78351,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217641,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1506864,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120992,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119625,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26587846,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2106271,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108245,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364889819,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524611287,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34641321,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93270290,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40745866,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246986535,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4410304993,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3766316253,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27954875,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9694923,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16471,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117715,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1220,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233940,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3248,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11367604,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91941,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169089,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2040467,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2089827,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,979330,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145162,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16060792,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232319,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,874,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053000865,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735983581,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13869792,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63082,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1983076,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590286,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190304369,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92914192,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295602,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16083150,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75716034,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19741401,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346324736,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7073850,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51728431,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472121739,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70697614,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43686187,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52250192,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51101,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37393,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2245434,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2529,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1604729,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,89971315,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129178764,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1637388,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1541758,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,140797127,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,91021064,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,772515906,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,618589707,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21396,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177195,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1462452,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1654539,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95870,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2922875,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155472,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7376523,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11334837,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172903,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10206700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6488000,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38158700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21774800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1091900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,651300,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197311800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91210500,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,39858708,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34557521,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026429,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,406827793,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313097628,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76748959,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2288514,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10566027,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622564,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,482196116,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149311496,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8451576,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,808677,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11206473,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000184,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1288778,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110095,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10292,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39082,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2329739,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3204272,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14084791,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17370121,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,595323,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1137,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13845,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3564,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2886863,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1758857,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3739628,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29002491,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110711,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3083029,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70937958,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14519606,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,146,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3482547,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,183083779,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1159640718,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397989625,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1357042195,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53342420,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524306881,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3695705524,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8792969695,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52137,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74013418,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32255769,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7041561,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8023001,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37796382,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911207,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400974,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59127690,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4875073,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19452949,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21423907,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236035,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11412,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39535,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36694,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4298253,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6315338,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10832,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315311,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938729,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4669777,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33922657,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38454,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94076,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8542562,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140533,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1947413,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3055566,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26499691,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2880551,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6835508,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55426922,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527645035,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278081160,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14264,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,44379825,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5243818,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2390258,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48648231,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7103,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,44329563,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28874057,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13962475,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13277,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719013,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272840,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232891343,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587897194,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7670256,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18516452,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35794836,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93126789,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9446,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,203,Czechia,CZE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9446,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270134,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463760,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47134404,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167242480,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272882,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12271695,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16189782,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50023358,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1552066782,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551852978,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1330276,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9691205,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177566,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165561,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6074105,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47254869,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224799,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210372,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9669394,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2336344,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34748088,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12254852,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631957,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16930270,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4367736,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15157266,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70492,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3054040,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20923165,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10868594,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22060035,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340205,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25590,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416355,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13510866,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10281,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28355307,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1879524,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11871290,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436648,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3156370,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3249044,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329182,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7217139,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5518232,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42963529,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235566845,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86376111,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55344,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100349,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85358,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40259,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70541,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133408,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36921395,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31631054,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20626013,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3027758,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6638723,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399570307,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1011086536,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317695707,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291645,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364555,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295952511,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536069119,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39208713,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196087660,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46295323,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239222241,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7909111718,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5152646112,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458439,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11804923,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1835470640,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3701234460,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92642941,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276808270,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133389643,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676250151,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51497830366,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46635616863,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146436,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31054849,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69057325,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87417215,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11771307,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3889077,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418875195,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1947210838,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338710168,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257408853,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13746,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2533274,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8784,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1683,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340319,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91715,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108136,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7142753,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39801526,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73998,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1497,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2675751,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722684,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4953166,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2131606,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73354,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15826972,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32665591,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392946,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22446,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7361783,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2374240,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1438057,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369653,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54478877,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53536896,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48158924,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5270802,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17804407,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103094341,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199420208,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,936929729,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667332471,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1794262953,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191878,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2576143,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44789649,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54774815,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5140034367,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4879208918,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36867,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121160,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3318383,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2005324,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129420,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51643,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314321,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2022125,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82445218,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10043417,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21109585,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45421109,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60869862,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8462942,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4735441,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10187280,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164625410,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100874707,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500346,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3537841,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3520232,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1250169,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302412,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205648,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43180018,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1451055,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52751008,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5317416,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11428901,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42445441,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788379,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721026,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4005780,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28829477,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,498801322,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466986109,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291573,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26802000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17762000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3413000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9304000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368162000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404453000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,572932000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143742000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1832384398,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3433247092,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56597189,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117773917,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23061082,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329005395,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2678346,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92884143,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766248099,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1354322,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146238,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7354679965,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6732985172,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92886064,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71423216,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5802496,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76148018,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41021336,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13878212,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42084352,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457499,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184056064,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,854966496,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1409009949,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28855001,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32198080,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12872329,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304087294,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23941229,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2095183,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31008163,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190059385,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77266150,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18684948,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348314,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66353,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267022,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20205740,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1428952,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642740,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52590758,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198664,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24794,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15985918,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327604612,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2963847,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70779777,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97463801,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764864063,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715789876,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2211933973,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76358,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16629300,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3639759,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421512,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273264,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5556,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23651060,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,890012,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140812049,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448583,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414004,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28341,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5774,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782993,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11905766,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449792,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49762564,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115591,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47980909,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2653,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76094760,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10649409,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74617626,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454989,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68509,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20179,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26865,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4355,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1542,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73353,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9682353,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7334135,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238552,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10299380,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13749409,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258937133,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203002359,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242422,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15042821,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33297385,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1446,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19396839,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30427116,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9783227,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617587236,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334276922,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25009,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17753537,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8662002,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2494,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67675,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4975329,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93668,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4234223,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6171433,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212886812,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173440867,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49493,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2766870,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,567,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199395,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193112,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14079,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4892,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51377,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80030,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8082691,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536845,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8172686,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17396800,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1134040,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5825522,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9324850,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16684700,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224311190,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333422896,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69585,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696094,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427231,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13541,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692511,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3270917,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35269,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261185,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343631,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167343,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4435795,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51987,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10912947,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7159463,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58466,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1800,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5930392,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43886183,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8116468,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3769772,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4720229,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21220910,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286800041,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453360326,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4442832,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167362,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427467,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69493,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471292,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10723781,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221954,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148613407,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2975399,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216419,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037010,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512516,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,35013150,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4749327,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106460468,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18882611,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10444050,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5167022,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133954,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1860258,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328972428,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97997897,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170462,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7759931,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369854,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68608,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104652,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103165,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7490836,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360884,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10475,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11745195,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2139700,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1918743,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30272,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101095,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4731,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28765,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14435,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28327367,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9358577,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3050445,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5689324,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175732,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3488,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346615020,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714627138,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8195430,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171279945,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69088267,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373187486,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5950931577,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7799011041,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9201856,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272202430,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3329493,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1495710,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11412,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790496,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,36660181,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28307,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1446081,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10897500,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16935,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119354219,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9509719,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,151577,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6485,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532090,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1669,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39958,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,624170,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1533461,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5851,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72535,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7147771,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,997999,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44825013,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424111,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67197279,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33873643,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214248,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542068,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8327049,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83086430,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912686562,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241452594,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348398,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1581571,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2627511,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14895786,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2892,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94414,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1562520,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4307,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2474826,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6495316,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537223,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46538950,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39765602,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7830,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29711,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414717,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52933,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62658,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495972,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649750,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,842434,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41023,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294829,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4716805,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283514,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84370,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3045229,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2945783,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,899611,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28796135,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10047748,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51627,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692176,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50791225,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1311684,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140924,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4339333,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174988961,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,769488500,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2138021,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42517344,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84720411,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154019354,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7660391287,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14051808077,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261791,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1592822,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68711640,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36914689,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21087817,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50252689,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7434483,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49303975,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516892387,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384972170,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1928950,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164110101,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219411144,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25195446,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1669150,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42039740,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67163115,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2460096459,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2037932964,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10922,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1842,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256550038,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737009612,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11924531,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269549547,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7171350,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301779408,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3216554357,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2862459022,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1687721,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59051,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,536594989,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,621591752,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191567,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5264,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6873243,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15531900,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,589488873,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,408770393,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066796,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32157564,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166753433,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2033154,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45695931,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12220586,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96181404,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630258159,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393117840,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8345159,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41018786,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116940130,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495949531,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6706555,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28825885,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32506262,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48513684,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8540332769,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9716281391,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348795,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1384857266,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2546809611,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937065,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657854,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2130446,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,37934672,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,822304607,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,773727961,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3508,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1192670,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16424573,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14109656,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2414152,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5393318,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7959845,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9691608,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656736312,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186475332,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38990,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3091044,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84376408,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492176647,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191317152,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1013548279,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38168583,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294698774,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4712589650,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2680779193,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24906490,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13191330,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86696,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28952,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13428264,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2318403,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94804945,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112077661,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7560146,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12886065,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55962903,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37632257,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2232228199,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261814268,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14065,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2781229,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204498307,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224874478,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38876683,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20875401,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88664863,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58521142,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2501754443,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1685160338,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364681806,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25398167,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40781522,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13866583,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4247759,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2604249,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8828754,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7538857,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33094886,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105455983,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77321205,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,986257126,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96058535,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83366325,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25198454,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3010581,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1536056,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216867180,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313830377,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13535864,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20421649,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66755647,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097256983,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2828106961,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,907616316,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8417078,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352934,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104757381,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86907733,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165200,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1337385,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528467,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117168565,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61068677,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152303515,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245128044,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14869358,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32004630,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192770320,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489602163,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7278244661,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2746455635,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378671,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13516854,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2912111,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119217,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8323,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3595740,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3479446,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9980233,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981282,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248271,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448837658,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446459379,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9431098,,,0
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291276873,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8895634,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49140241,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81349256,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16096583,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4736411072,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2273633335,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512979536,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153570076,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702201475,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49344284,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675588,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179555,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269220,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59253823,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26377,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,801744,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9864841,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3829262,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3811406,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52042,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155746,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1288,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1677589,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46608,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241276,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1434347,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212927462,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223274,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808340,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40486046,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107652138,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556854864,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4526,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3808428,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61954273,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5997544,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195822872,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147388,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23892312,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178647807,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57614711,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1458382,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42501383,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46747,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16136,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48190,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2204903,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286449,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2680347,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9891,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47571,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86572,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86572,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86990,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73909936,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5106,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5106,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89972,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54194,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4215,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,564451,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394882,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97425,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17252,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354604,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337953,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10294553,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91337,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156465,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3628,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96401,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27389,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30896,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111477,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11450,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170500,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69089,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96412,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175309,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213458,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4424129,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32271,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136834,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16438614,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2994978,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114881,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171412,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76948378,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8934491,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1064584,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244393,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228905,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45188,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1831337,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2857707,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611430,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21455,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8912,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1701984,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1622,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4303528,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508776,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73604,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34381,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749219,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859274,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34833,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25501,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201205,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575598539,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16311984,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4958355,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58573,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11434,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3039236,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2535015,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,798604,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112006,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171621,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171621,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633661,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2545583,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2144123,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127629,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8789297,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1039295,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80375,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1264095,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2283535,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42973309,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,801720,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618028,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,518188,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55226,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217546,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282219,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8990992,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9865241,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25026,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26977,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27375,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241071,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2960703,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20878,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1234,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9421020,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376904,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111981,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9112,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,25831402,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18205936,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8700830,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361248386,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3435538,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11153899,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1370430651,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267204253,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11820586,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,36078322,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2039625,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,803934,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117373,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044786,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7802827,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7451,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68218662,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29881357,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4420396,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6560,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,41697,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261643,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63685,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1602279,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2363468,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6915361,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4061615,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1740783,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77715,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113947,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321612,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13281,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11641376,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912111,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13664029,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701438,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1127111,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102376,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8550,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9652664,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47602,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13258101,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,936748,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5004,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5544,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7292077,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2834149,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5986195,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2826415,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036650,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65751515,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110138786,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191989681,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1385860,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22406538,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3018,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151434,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61092,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84671,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8933,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23196,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86254051,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1930575,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12470,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2157159,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1001653,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61718,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26277059,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9312944,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2468672,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,693781876,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13501818,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2447268,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156309,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1130120,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51715,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162855,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104941,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1007631,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5579690,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2049,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35678254,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22877414,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57882132,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1909962,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31062064,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380757456,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352673461,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478477943,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307517280,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15420370,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29067462,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60586625,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44556580,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39320335,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112921776,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150838050,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22521,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6561366,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155162,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4248,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106472,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14784,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1193,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377218,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1990997,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13205,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204277,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1754,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41799,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60050,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418355,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50914,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50415,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16503987,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1856980,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165537,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964231,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1489870,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8513384,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93155690,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138115712,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910728,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3272322,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66768,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227983,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964909,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774607,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18498,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9866049,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310677,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58800,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31148140,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24212869,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1026363,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10710688,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20516101,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80865499,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836722131,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715356512,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83910197,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10419690,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113004,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404286,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120467271,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200665193,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387706564,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86885206,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,56206,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,768947,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30548,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6639,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8361072,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23404,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8782,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21577,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4074,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4074,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543040,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52791,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2400942,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203988,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203988,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186496,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3506637,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8925571,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32922,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774180,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557528,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38337,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15300,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981253,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980607,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3147,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151694,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57620,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17505,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889885,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22967,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4875,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1142,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64101,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1610,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1610,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125752,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165277,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303040,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362322,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35723,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24539,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21928,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7745,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1758,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19821,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139965,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,942985,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418235,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2116580,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1572104,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1296,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71685,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,643593,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1538,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33330,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,744450,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,547666,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17631,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44770,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3068366,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613214,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1097,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3810,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,268485,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,273346,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,459622,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,17,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,534093,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,315205,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2376753,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3346115,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,768000,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,31500,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,62107,,,4

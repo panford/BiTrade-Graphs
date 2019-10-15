@@ -1,0 +1,780 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20850,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8975,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26811,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1317,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80511,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14197662,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19111891,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6002,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2010545,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22053692,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30214078,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3954820,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1790063,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11346310,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6915552,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18808016,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,890127,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269352,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1697561,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5043,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26158,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400650,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6958545,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653837,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070012,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555373,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16152200,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1210505415,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120435,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4965,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112460,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45008,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173120459,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38419328,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2590028,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47265,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40057,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51098,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50698,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4824,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9803,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31519,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62299,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4165,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3812,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10690736,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39639,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96860648,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,536485,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2933,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1183707,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198349106,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205204788,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16352,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,854,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507539,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1673,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337759,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48555,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180500,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2750500,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99894,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3546722,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5501000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4300,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118100,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42200,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3529185,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243040,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21347,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11088515,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10982629,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1184310,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,32266,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520125,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2524,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,135840739,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235049277,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9775211,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154556,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810524,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95523,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2512,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5626,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,642,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2279477,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153047,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377270,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,805567704,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19214053,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1573168,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132596622,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73186663,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1886345956,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584041,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27942465,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,182331804,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429891127,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618728,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92816,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79607,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75206513,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255574354,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30393614,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7415187,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239873,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14608,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13020,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10064233,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64234745,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,461,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,83461,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,338,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,721255,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46705,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238920,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60985,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361148,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314750,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18051,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633911,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3849602,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150496,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2399,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132531,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1642968,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30375,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359253,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91371,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3911994,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101142,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165887,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192995,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602350,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8219686,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23742800,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4082,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455013860,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28166627,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32810,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7696,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4043649,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4523657,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4293,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382077,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3520361,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65813936,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13284,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154207,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43346,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11669,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437388,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272743,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5506,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5506,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4098,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2800,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7761,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1591127,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13458,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303504,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1398110,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182994,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,825951,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17750339,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344248304,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4958197,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25582,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86445,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2468368,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296723868,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36434061,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2667723,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2236799,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2775164,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47952057,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182766,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4743635,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28185,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128665,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122809378,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96388665,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63687,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23840765,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4453509,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10792447,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12907516,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6342940,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22070470,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2040,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5497,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5887,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5075826,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6110792,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7613618,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244130503,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11745,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2416,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38841,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424930,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,874412,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41726975,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147620,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10649,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1654419,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1400,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14818439,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4836,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8043,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1847453,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228149679,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10048402,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132694449,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53952052,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60814,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1760,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3307679,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11259,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19905383,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62162808,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21010,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128540,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8064,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18946,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16485922,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1980379,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2951667,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26860,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9326829,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17909286,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22977000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2139000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85884,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577173,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13369676,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52919609,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2516085,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4785,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79448,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200198,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39774,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106400564,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66616457,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605044,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150142,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6120372,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2978517,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29537550,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3504,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322446,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2467464,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6311511,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104771069,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202876463,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17284,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3003,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191707,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7858,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85238,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1390,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1030558,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5550855,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29912060,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044258289,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146128,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8777,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3540043,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327100,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199389595,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119164904,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15024,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1437170,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5358,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103396,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26723,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175302498,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3618563,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9654,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100597,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20646,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18043,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,868391,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59844,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2509,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5120104,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15552328,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657764,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33746,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109477,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20588,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41259,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21517,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4524058,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32692,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8586,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38557,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3681101,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584757,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17484712,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2351274,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158002177,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218482,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602040,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2005469,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398314,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29715378,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10990,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3365,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8998,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307700,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16266,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13488,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418019,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1280994,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1642948,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8634650,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15025,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,756,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4556311,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126852073,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31307971,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1720,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5199,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2550,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84996,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1504,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4602044,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47762751,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15593,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133446539,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3312629,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566200,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468707,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7273481,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22269,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22269,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8901,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6303661,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21099653,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755398002,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27140,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208362,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44190,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104151,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47312765,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54823241,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266150,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4099177,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2926530,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278478,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,695329,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196162,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414185,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151982,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3026376,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49316117,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10723044,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1088676,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46240829,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,127421,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156001,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7999,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1936928,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180932,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806458,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7889,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115240154,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10213,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2798,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689816,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5318696,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,972305,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21162948,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18133097,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,485,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847439,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4667099,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111395,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1601,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678336,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608259,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42506,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314536041,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17788926,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295258,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46212,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127878,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19583678,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103283,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15923,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174968,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5039587,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558327,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6667300,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3516678,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3334786,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33896319,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1756124,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664087,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18609,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,779316,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193110,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4853,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56573934,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1785,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847037,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,729250237,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302782,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1649,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14360,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35175,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218018,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3533716,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144634282,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400235704,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54304,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1357549,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103486687,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92124836,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1605081,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5124,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305756,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88175,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119049,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9448,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32561,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4808,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40023,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2853310,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39992,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60935,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97511821,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82997258,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631094,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,760635,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,974,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83437,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17790086,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7458626,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99145,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17344997,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146393110,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379901,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4488,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69652,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230914498,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27841308,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396460,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481970,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34665,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192766,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60012,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7563364,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74429,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75583,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7499,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2477032,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34147811,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383406,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054231,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16916045,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13459,,,0
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1819901,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9048353,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1663398,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15031,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565945443,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79509753,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69004223,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97642,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398275,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87880,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541836,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30716553,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3872313,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74061,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12055061,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58935144,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4470,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222777,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25035010,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50690593,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8528,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35345,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283187,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291852,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700214,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48209163,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55721,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216069,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156014995,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139087034,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141638,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247698,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33231,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23133,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5223,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5610249,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2565401,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653772,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15327427,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456329318,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442508,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2135122,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1913610,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301003,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4665596,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16719457,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523212,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3530561052,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1817045528,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247376980,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245821,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86987,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13226081,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8452,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51983,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834856,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1622,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48334,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59419,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318031,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,164724539,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11143236,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,971,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2981,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2218,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9682,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2208,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11089975,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7535143,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17322,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11885,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21912,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301864,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16338,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264689552,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31300268,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16108,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12279,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5093258,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13294,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413367,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62760,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215055157,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13198060,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2688,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67807,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18791,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5135,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38078,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87368621,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194451377,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18322,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38728,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80965,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205708509,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110508878,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21838,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1901,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476437,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34945739,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298942058,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17031339,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1831796,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102591,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453330,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8392,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1553,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16349868,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2450828,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195050,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3646564,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2317298,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13896,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2857,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,12162,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30577,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10682573,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,34727,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7551,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60588,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,263834534,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79948006,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21896,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40396,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60113,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,219,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24251,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7764,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539250,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1653795,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6772,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127378,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1687701,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14133819,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041741984,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81014,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36543347,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31564556,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6609,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,534105,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11266,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100669,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19973,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665934,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406744,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99663102,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11260016,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304213,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165852,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3990495,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44351664,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290312,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22966,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84892,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272905,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483511,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406369,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14070,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14248425,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24835088,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6879385,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67296,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73193845,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50946132,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,776538,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100960148,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2784003,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1925,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7747,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2769428,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16119049,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14023915,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202294,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23968463,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57697286,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92835071,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12836394,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7985486,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24182,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23543,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319692,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6649235,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2943,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25763,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270188,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36229,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,493,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3966,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21608265,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,473,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,242065,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505762,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262447,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62079149,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56423262,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,900210,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2067,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122468025,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32522979,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136178,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1504,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481000,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26128,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3624132,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73816,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29550,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5395,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19215083,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328678,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291175,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484273291,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204274057,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121653920,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13615726,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2170258,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1386749,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51907959,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4865854,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788910,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20545,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382997,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153615,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15676,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652134,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53402,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9727,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47820653,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795194,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,110270,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,528,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,268336201,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,36518833,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2982639,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,81,,,0

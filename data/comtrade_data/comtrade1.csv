@@ -1,0 +1,1024 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23355,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19118396,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35659,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11461,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463440,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22031007,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1208,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43142,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450004,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2780,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,20,Andorra,AND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450004,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294940,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8067279,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1863183,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3130705,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363170488,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24733780,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10888890,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7547332,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260202,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9649309,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24338809,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65350938,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175930363,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286156817,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1390649,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6980959,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1904,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60000,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60000,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369008,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29789,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1320,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3951,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,772,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1472,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214328,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64656169,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2368503,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37227338,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229212605,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209569901,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45857,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3175,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234409,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16991376,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14526,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12022,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154587,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319805,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46797,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3512,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14800,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14800,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11970,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3052,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893123,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13158913,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23504350,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1438093,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4799939,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5334,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218996,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9276428,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1168108,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44788847,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2313329780,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1186019580,,,4
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165034,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33498,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100953,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3939,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1711,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4169,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17875,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87292,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1069310,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20528156,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90068072,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,912017,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132452182,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1540,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18568,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87910,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665999,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17137975,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108902,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2191,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274725,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,64230,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12742229,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,851200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18774200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1442900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1090100,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4700,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2841996,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17536966,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3670126,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9747083,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18675914,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2487830,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,639346077,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,542926828,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18389886,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,560065,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1426892,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78658,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,610059,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145550,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6014,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113818,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709147,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123424,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9404082,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911287,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787665,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194872,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21071,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16270275,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261159,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578436,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29160,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5090,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2574164,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569933,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153444,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3427619,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541205985,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196222142,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454033529,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448323792,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6784746250,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103064,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1270964,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,997507,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247773,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1845421,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23633,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,857932,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,997590,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754887,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308237,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4973,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302367,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126315,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5259,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12295,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89952,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46510,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650797,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26479,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116380,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7834,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,280142,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6946231,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61724878,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4359590,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32554359,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15990,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3533,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174747,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39580,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8834799,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4768576,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6836560,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11206102,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8111991,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10650,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6248,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3803,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139748,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3476698,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28389438,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,52542204,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32983450,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132800599,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16020,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217476,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9774040,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199636,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12412743,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1991033,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22675077,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17996530,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56959494,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102999,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1545453,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19324,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1313075,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89467,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2271,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678252,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12150,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12317,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1548,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7565,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4068,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49157,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967946,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14030211,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8188329,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153154,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1064,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12643,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574021,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81465,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2955,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210135,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6485387,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454219,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94886,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23232390,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3291,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18969,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11744,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48103,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47510,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10779440,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2273311,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3690295,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615457,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1177507,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3968146,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46615,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130201520,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2585,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1688430,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399269,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8335749,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23939639,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114391829,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50335170,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3830531881,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5632720379,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83889,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602681,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16193085,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,261718182,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10035444,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94312443,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112756716,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310000967,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316719557,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3545889434,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7133,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71887,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2237699,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44945296,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,532552,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100818716,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521124568,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417184590,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156867476,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708970,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322380,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6578,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1951,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123078,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49122,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741803,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1192526,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72605,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521755,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469457,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4485,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23980,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26371,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52531,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212850,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99229,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35767,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2743835,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,953243,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7235204,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2689136,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176664559,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93775,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226231,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197840,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712335,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29292,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5122165,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24601917,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104027980,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34602,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55862321,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35053,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29140,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1985,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66961,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142880,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142956,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37009,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3949,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28992,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11369,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28703,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20189120,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146521,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10330710,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312834280,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206996185,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6438333,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1161052,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32739,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20398266,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2791259110,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386374,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5327837,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7108381,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247764,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9081069,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4037364,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8832963,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73491091,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112225991,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2859,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86262,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352366,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,987000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6197000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1670569,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18783399,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1152062952,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1535054349,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2178957,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288566884,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5601144016,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3585183905,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9692389,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461707,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7193,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488980,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173974,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600932,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29187431,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2598,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236605,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69418348,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11460815,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3846998,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301923866,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145269858,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704869,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2051837,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20392,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412898,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2010350,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,562759621,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538402,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2140160,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68817,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82066940,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1291,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3438273,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1583214,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49961,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61581,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437777,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24225,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188488255,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93732266,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1748625,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294794,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74646756,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4662085,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11773216,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712837722,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1238249617,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790413,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13710857,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135277,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210453,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192245,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15400,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2523859,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93622,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2302413,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8701350,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3162130,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1920440,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7879,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239242,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2547376,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10228,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186015,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,623314,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503745,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1752032,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148497,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31707397,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25376446,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302471,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45821,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2063506,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607009,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1753285,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1798,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30511732,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1132,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257026,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85665,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9914124,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1350651,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3385023,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29346,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144367634,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29723,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456802,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21159,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6938550,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2284759,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914871,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20963,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21565614,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48907,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78400,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1844095,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343380,,,4
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28428,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2056,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14030,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602602,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385166,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120562752,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294982,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4251547,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2150259,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118537636,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13887,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4286248,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322591,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313099,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40122,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3998,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399118,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145286,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75977,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12434,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,712,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20187,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1675300,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260534,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9625662,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215176065,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81540894,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691438,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15861321,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124708,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78144,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247464,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2913,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1241942,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,39684027,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,12399859,,,4
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265383,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147022,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8742,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200784,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721738,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2416275,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543583948,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198728033,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186989,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36688,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617454,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5258,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32572,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3178,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131198,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172793,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172793,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,326644,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4450376,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70710,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174969,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,983,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83129,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18551,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18402,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2987513,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36959750,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6187747,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57663378,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905774452,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837964272,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261678,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113008,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3439388,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16758197,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72734,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269832,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5113,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336143,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,150185,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23843,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55557,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379946245,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,909432,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15469434,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2786489,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5198,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8767,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237721,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14681,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21241,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238760,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2260749,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1981616,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1793066,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22962528,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55542880,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3688,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3300762,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46978,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414872247,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1390081390,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229082,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123115,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3750837,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320431,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17155255,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15180,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75302,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86358,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1278,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734918,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774698,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,681570,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43198187,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2540,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24416,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1123118,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,745792,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413273,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3898848,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2719,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2107,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523456,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7884566,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15581759,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58014954,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27887127,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360410526,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15494,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34826,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1589750,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3183066,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466130,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1288580,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345887,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9605439,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354173603,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333610554,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2321021,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9674,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188858,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3704578,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105528,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9193477,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41050810,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99574716,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9790887,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386366770,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80490,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57679,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232614,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2015235,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204634469,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15685749,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72615216,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8999351,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1890509229,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6505,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500373,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8166,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6256119,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11304,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41650300,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,42052236,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,133759935,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104938,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35817902,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1300,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43599,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21075,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413367828,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637905919,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36458413,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24008099,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033465012,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784572202,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345362,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314641,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299882,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14927,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,661684,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6217658,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38288200,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2630176,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28710796,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146949,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149138,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82033,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,28604,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492954,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8125293,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53324523,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481807,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55772764,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10502,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49539,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123872,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207050,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2292638,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716077,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1393407,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5787086,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46128559,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68892,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11289,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113929,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45423,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1942416,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9241749,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136016087,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113347624,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5168712083,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3013972707,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25112,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1501863,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31361858,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,999259893,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5328,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32000,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6455,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60068,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3454,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1792104,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36342,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2215855,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27010,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306156,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13953254,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18748695,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6094939,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22168226,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238954290,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35740,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136082,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1271087,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2303603,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2976761,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14623811,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41551097,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7156237,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361437281,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33029,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372573,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9516519,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103760195,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2593054113,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2284312044,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6943382,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12056388,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5957182,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26262711,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569470792,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407713527,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115739,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7054,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7044,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2691765,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98172,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98172,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8830720,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172300022,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24166017,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387115810,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766803400,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1712901470,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8611,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181042,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81646,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268903,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2356,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6821,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69211364,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74377630,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363411,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144490,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44019,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6095,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2440546,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27077852,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4546901,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24195465,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1741371194,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429925000,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93652,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,614973,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315114,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10060470,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76962,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1436,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6181397,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,601583,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17892,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65383,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296983,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14693748,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,942037823,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47209523,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43364778,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62086958,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3045933,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3991779864,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061823305,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55549852,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13761814,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3285167,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628306,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80407,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142365,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234503,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1567223,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5097004,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125690441,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3537,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48003,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25657,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100727,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52239560,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432720,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72246,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,987426,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16709,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1159,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46295,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1742559,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268824,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4663169,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17060304,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471422798,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32668,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15632,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3628,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4054,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68375,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1397,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23778,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9111,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32045,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72498,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4202829,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7916814,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123448,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47206,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1611,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126496,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629507,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107055,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37620,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2017720,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32569,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14229,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1167,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139174,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104332,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222171,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50646,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50646,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7552,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324573,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20400,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34726,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,966544,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4124,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19617,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10170,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30889,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8274373,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3539724,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3607293,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36062,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599254,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251714,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14272688,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53260517,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523636,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123254,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4703,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30441313,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85652,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23861,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64691,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83950,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292111,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84544,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62332,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9850438,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9845222,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2185,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18897,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18044,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137916,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2615263,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2280,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58359,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10511,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21648335,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64156,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18471,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6810221,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3067250,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204324,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4727237,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3127728,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18660111,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97516113,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807961,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,339882,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54896,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1251160,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540247,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244888,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186331,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12000,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51331,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147048,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62484,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18023,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5828,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75509,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404196,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16560,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7451,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,990,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10268,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61355,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3676186,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591053,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,624237,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16418102,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462161,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90507,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4347,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3600406,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754446,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22694,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35774340,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2896235,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217822,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5074471,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1507132,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340778,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,271,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8580948,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4516626,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,426507,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1846334,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1657636,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188175,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4765421,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,521887791,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31776012,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9404,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208162,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7355,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5858668,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98702,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8177922,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516013,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740069,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19512126,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735888,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787285,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187693242,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51671272,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210970,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21745507,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376635,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117933,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4931698,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280663914,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22074283,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1722,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38278,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,789,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43977,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63451,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156482,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13358,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7764,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9037,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86881,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144170,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1762,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100192,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189038,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625455,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10948437,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,748257561,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466527116,,,4
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2548,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23348,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52969,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634272,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22812474,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2622054,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77216,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5992967,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5721670,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19502496,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5572728,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535885942,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13606,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3719,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31454,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424586,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7146617,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7237987,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7777686,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364160675,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386239425,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4673,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40293,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277886,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232030,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,803570,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11821433,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2304,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159248,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2347,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1864,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22937,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16361,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2364,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22514,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684367,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17899,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35429,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133131,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438925,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189929,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,16571,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,17671,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,20210,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1954,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,30511,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,210,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2110,,,0

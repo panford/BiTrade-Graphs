@@ -1,0 +1,1232 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19640712,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132458,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75873402,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29037471,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656992,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2541697,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457328750,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2415397,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1841536597,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3467906168,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191147,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31932,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24313027,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7854020,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2299,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27361,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27325,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1574853,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56429262,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3943505871,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3502814609,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23613219136,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8425486041,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183971,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230072,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1003250,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041092,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136754,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,961231350,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274768027,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6486764181,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10560650914,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2666056,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44696779,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2013875,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10460149,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34726158,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157447,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,113669706,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59207088,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2188603,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39916,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1399872,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2283783,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424784,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2386613610,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613354784,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29208303054,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20987205738,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7052071,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71176663,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115834049,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62620579,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592427,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716714439,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9532280,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8484,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30981533,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2047762,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,744080834,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646593117,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35209106,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3380,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6138609,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19867130,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18999815,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59563028,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917424,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336576973,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27093918,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134529,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184421,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176192,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2186065285,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1732642449,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25112260131,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27147727187,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724848,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5291883,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391694961,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469654975,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3224,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15176915,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44205710,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292167974,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28690024,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13024,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10641,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49367170,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34670745,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262817078,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461528482,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4479767,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15292976,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12064,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348287,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571956218,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129985470,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,104,Myanmar,MMR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,842523,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,694752575,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278012392,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,104,Myanmar,MMR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,682341,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754066,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,989712,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2254440,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59009200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75298100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375477900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224850700,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34073700,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71118100,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224400,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10036500,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,276039,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338456,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28160,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3918015701,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811590034,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27682418,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,221967496750,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319066985678,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29093207851,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,328702,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5675875,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463253,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13807599,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152089763,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9695121,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1552053,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1528812,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280799015,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102353440,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2514370,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813615509,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2920209809,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7955322,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3434167,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6061426,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11955,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236052,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292365,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888452453,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279448937,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11751898133,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10052545977,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159932,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134982,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62736613,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67843700,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14239002,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65585242,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,50374616976,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71617248156,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154441855874,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,430328146524,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471448860,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2749423215,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7219922110,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1746405111,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65560,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556991061,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27871819,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12096145418,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11012215220,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721015,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36060,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219813794,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319383378,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1161703,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22761464,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123181258,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274291434,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5038,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5729,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2185,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87272276,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21738173,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6273654592,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4616173282,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26865101,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12769890,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,90,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,367483,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34515398,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27457787,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158900222,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,606108121,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,161711,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4862603,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1428064,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51841,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46799337,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23698362,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233070,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,92289813,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50825722,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37390016,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146663,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145927,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2379591,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86698,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1214,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1478,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,903910782,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106108803,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3964310213,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3763336760,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7021660,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70522603,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4778323,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3022702,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11622,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424053332,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402744701,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2357586131,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4455722389,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689889,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9615219,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8590717,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8723582,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5899,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71972212,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31114608,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8675109355,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4715909981,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289931,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36236750,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36384971,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101009,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162455149,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1457712287,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3960165713,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6056905271,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,816923,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2838293,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17628081,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49701335,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72917927,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33555915,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3371162728,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2588431126,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37627219,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17776723,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65655056,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5839684,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281151171,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512908837,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2209682,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31664782,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711335,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255014,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7715816,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31828964,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4724192,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20911395,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4927349,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2654589,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69138507,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185310597,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22640427,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6338,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106804,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272056326,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141081444,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2153913726,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4363855564,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355213,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27832028,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86181,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6544453,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76085,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7672085,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5827116888,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1812438770,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39676920877,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38414056721,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51971452,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90977770,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82695404,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64304003,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057089,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10947626741,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3939088547,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71755577410,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126366893483,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27287380,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666041174,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288651925,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198484732,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18805,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,796193,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219480332,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45431128,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846469733,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268915509,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1877059,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2782190,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5114958,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2689514,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396999,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11881381,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48167,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2469,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78714655,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8345838,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7337752714,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3797850941,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185784,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18614611,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14103956,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56845398,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3596556,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2987170479,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1999950168,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985207,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398209,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410392,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6108412,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7910077586,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10245801358,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30816433442,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42421549551,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1449519,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9013599,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28653406,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23494993,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36122,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102504,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277719141,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79653309,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2219097214,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3188604891,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83156,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57757079,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167999,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2825565,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23179625,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14818898,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444960805,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340753140,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56403,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20726,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60473,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8044,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4673932,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3228784832,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3587475436,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8150221365,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17810479989,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28726576,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3627832,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2488171,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8127690,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79546396,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364133410,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169289374,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132632404,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61135771,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98337819,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363034,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121124,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178361316,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110894403,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18286956694,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37428625753,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223577,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17401035,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167492,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740842,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598801000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104743000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8087035000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17051770000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2370000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17108000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8381000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3385000,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1813685,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2866793298,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1323735778,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16950381,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4773910,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16952614423,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45684759305,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3689898376,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82534602,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31870840,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191056825,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947099,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189225413,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167314940,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8587451,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69035151,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31882142,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18531436229,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15053934935,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73833310708,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135059633504,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4496831,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120675519,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153750149,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72982168,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268490351,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274246485,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1253451121,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392296345,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735159882,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1250331528,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11477,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505421,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151419978,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3379645,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1085504,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2000350719,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1603241543,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36298414,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2611387,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367280,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243838,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70922,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48801,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8746652,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7086964,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16176991730,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47753837501,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50908004200,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68852265159,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18116879,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1180445089,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16945943,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51117738,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,463843884,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47435561,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3441629738,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136993303,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46785,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72433,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138214,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3021490,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630793,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155220185,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,952737,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163614069,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,146285445,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89286,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127601734,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638587,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1442839829,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65637094,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,697254,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385064,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,976036,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10667446,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126821,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8025518,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306000665,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5154,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133756495,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8426181,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195539136,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353854798,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9141397,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92821975,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268392,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60895,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28079257,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16831205,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416835020,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1550585367,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7537100,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148558272,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2579,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24867,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128575462,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32571167,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1623220,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18283,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1090407792,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411988097,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261859,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3727837,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,619,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819870,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,757170,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315138,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19648804,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57265748,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102424081,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531304221,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,898955,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4496,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7217128,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23186374,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5267866122,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6426670687,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15209250216,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20706831375,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2282257,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78242026,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358828404,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7534168,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11547591,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1522330,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43014865,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13898121,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6857,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42376821,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57410993,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125463242,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235424263,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19250,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1713341,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880898,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3124112675,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10512081592,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30542183118,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37044776917,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1847158,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10233188,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14516077,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10987496,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39798749,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1651442,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413490,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208563327,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8299114,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930112,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83116,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,821799,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30984,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2492,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16325914,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30034,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20299747,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2027719,,,4
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37181,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31764,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215787275,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7438152,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3088076609,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008682073,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3301562,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28439,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32342562,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12703921,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73629559,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70984547,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222798,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834462967,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340232614,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75784180,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4920,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1344,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21796702,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62670,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54749,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210964,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1981,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1351458,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2032003,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1993153,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132715926,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136138176,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88908702,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,434,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5987,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,767,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4258,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369507,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474055,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5991500335,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940229820,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34435666646,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22037306921,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4328748,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105662521,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30162567,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73654663,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508768,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32978740,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6365094,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589906292,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513469661,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10894519,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4286936568,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3781111955,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,116608882,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58390,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3161679,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5142,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205206,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,329048,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39044006,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7892660,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1808020623,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2888145029,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36019098,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116819506,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3739,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546138992,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366705845,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5816348466,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4730892069,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145546,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1201746,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7838136,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1116188,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78085,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41329,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435797028,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281202209,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1402103,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964171,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2842546760,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3560300692,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13751291,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80055132,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2938688,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3933768,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6677,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224971,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2088931,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61347415,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86496805,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985993999,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118512954,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4546931,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2609083,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402059347,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153230084,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8070122710,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6940066695,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3617242,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22878548,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48587350,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4412,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176722,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912850665,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276642604,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6458293254,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6140474511,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50500219,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78518963,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26809275,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23695989,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12569,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319395816,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35810258,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1124774273,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3211978138,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6194657,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1089617,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28596371,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10036538,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266557,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168357985,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58654047,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1225571780,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1244169064,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532453,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10451636,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45110,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634092,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9502,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3328998350,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239883865,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12589834013,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9884699880,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1021516973,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2618172286,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731622,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67589617,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179352910,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18345875,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305961342,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258252702,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439352,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,916188,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37722,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1954,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2179112,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4141951313,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8114676738,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24086156632,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46018076640,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104431502,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130707387,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5898112208,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81655929,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4391135674,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44668749,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,948902536,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2370452764,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566151,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7192248,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,905420,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1288212,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,141714609,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35718528,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,793267958,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626499811,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1290442,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28932728,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,81921,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676431,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120205,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020580917,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242042321,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5486495291,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6619571626,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19885,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1945424,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16452031,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4498460,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460138,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832026,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2956731523,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476082764,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15600511514,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14053998556,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8049097,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76523582,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430340371,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125160718,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22035656,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3423327,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80383911,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24081707,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31031,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12158,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14476,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77692,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1141092473,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242536585,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3663949364,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10075400839,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95410,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21097454,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379279091,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40764920,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78906,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1444018851,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626677776,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21409396380,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36674928300,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3675887704,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113392940,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3852438,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77431511,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168678,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122782,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9754620496,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,604603875,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,281219584,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23307785824,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7471589032,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5317018570,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16546768,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370415941,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343276998,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032046373,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49628256,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46521381,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5437298,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1457282,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3048049712,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237274889,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11952320497,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8654623120,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,823274751,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680104359,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116537536,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37483498,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57098004,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1048094,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176565360,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55547647,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,564134,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1023,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349016,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,929383,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5412571358,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,745904942,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58829029183,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59188512789,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2540651,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37997257,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121917069,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86071618,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29062025,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314808485,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202892780,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62138682,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980531,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4016,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5779990,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7762425,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1061792,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48421110342,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8133980176,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162264771,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14853030,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136094699,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441532,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12750539107,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4127237111,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194183711,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199501,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62628563,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34750902,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,922867482,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458076611,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113127,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11106729,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20053834,,,4
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26869649,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420253,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108470636,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4006595,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97857,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7493,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8347,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1661,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46036757,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55140082,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,721123197,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61191586,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26041304,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3959344,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1039847,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107664,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,621809609,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2271612133,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7634942040,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4517083170,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183225,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215799,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15612667,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245200442,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89755,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32581062,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79543944,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128709277,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3197151,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066636,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3288,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325475941,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73006597,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24053852,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814118,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814118,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1927056,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1876602,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114109,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33538878,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4920341,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8564590,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3556718,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2068304,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54484,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19505067,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2137466,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58163,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347116,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22788288,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99994421,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180611231,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72789576,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1558853,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182330,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10129195,,,4
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1165863,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4585800,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3959868,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14178965,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1694,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2220030,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101035715,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88538214,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22047991,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519030,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318582,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7455341,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2711891,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1521422,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268235837,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121794210,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1103525,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2416,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6985506,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64154518,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41950412,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218173,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7821800,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11018919,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347468,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291961587,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223705821,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200057698,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,407970072,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,818988,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5173,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11630,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4364,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151742,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137231795,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777526695,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386303773,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185930425,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153000,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22220,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11395666,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1172295,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18232,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2467557799,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537739887,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25217972,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38776296,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9733992,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39212580,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14394903,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173259,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556715003,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457276291,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3160949,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3031526,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7774,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5949981,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1632834,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58026077,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32669901,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18077,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3667956,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7631850,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144582885,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9881149,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70200876,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237806,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28273461,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150967160,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1242584,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23972,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11833,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4615833343,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,292195080,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,194992230974,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,327357936007,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89355,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3230562,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,117964247,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1079640608,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4100,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38383978,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2981821,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49308,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70223413,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18829091,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394041,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11102,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5775316,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5563010,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1458124,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44703,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1994,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,81202711,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15934307,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,111747737,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53396636,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22693,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91007158,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5197246,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81895318,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82604834,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80923,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,283173,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,597653867,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10673820,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21247436,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10557891,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25586294,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102873000,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2494134436,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5672187398,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6647,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7705257,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262740,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56562845,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540147,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20081258,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522770,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2802589162,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,907213057,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8309884174,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9666678917,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609896,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609454,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100764,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,807833,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461076,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161866,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290867895,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45678789,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85510,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20795,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2600,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2600,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1789427534,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782838627,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4448328,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18197818768,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1532049357,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,631113628,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10632223,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1262231,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1466,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565025,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119684,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70178,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8542870,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5922553,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142876482,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90438973,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4753022,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129852,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1593500,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28849259,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3358127808,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12294273584,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34619093583,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24183047152,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1217599,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3282202,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1360936718,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4442760,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4648347,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12458286,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9342939333,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41549714669,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35866908,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8354710,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223285,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19987632,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008951,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11904,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39715685,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1685789,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262730,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,747430,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28685702,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14983074,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7444198,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3945618,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188820,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32466892,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6241445,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133447,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81134264,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4882682,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,693355856,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314663665,,,4
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381476,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20201,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58362,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10362,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21022152,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7646840,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115185,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83010725,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75055370,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33728869,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189735,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5589,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3940194,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22134,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393332525,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96787271,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2475227559,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,833983685,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122705416,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167679649,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,146847,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21978212,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27629,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369990229,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20904523,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3896808468,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1328117924,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051144,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683658,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38784129,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173112,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4332998,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32332274,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259178295,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3295009,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1758323,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12376,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4702017,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39693663,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2513397,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,724108,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272241310,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8446529,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8146598,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228632,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4025,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4025,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1016970,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3234257,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466170246,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285446430,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14331117,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17019,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8685963,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16660993,,,4
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65668,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207145403,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22832974,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4506851,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372946,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610034,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124954310,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2112417,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1335488,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2771820,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80109,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2683789,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103772,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1595443,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1546498,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19642171,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4049541,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,354540,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11038870,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162454,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31872,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51828106,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1206898,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,698019,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38910,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622410,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3467059,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251534742,,,4
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10629750,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17743,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4398195,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,745296,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48919,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,31703,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4545871,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,143853,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,32820,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,632555056,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,125437077,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,76719881,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,60,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,27642,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,203469,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,336,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,38895026,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,437419,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7481344,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5390335,,,0

@@ -1,0 +1,939 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171388,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290208,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516044,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360929,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230413,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95996,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12947985,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57779258,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13172385,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112781,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1908,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3554,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99388,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2111,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6027220,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89130581,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2579008973,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315023355,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3521666,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2332955,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282995034,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50082217,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10037462,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30189540,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3506620,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1015929,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5731560,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11954305,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93785818,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64720480,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17922,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54901,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158386,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662606,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41600,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7888868,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134367704,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56804274,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12312258,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5868926,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36340573,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670069864,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234711448,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6852490,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75429,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3885541,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7287817,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34895,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52141439,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57948465,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303375,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609721559,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303911775,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14731421,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11386,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30689,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46407,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070636,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10002624,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632979140,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6379,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3067663,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1133253422,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2646222649,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1617826917,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2245333952,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2306580,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54600,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51136,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119085,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7216076,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97880,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727050,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,910047,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27641896,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17636917,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1678039,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35401,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,717540,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16868113,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215597,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145939,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2418091,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4036900,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2226600,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2500,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,655800,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358900,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5626900,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5123700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8740100,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8128205,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116223065,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20282816,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2946959,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8306986,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2375697,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9069923,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20019513,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932962,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1385958677,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548108413,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19498187,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158291,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10080327,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9000,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1573825,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1513740,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204626,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38965,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226641,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417585,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25469030,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5194,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68198772,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247521649,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188183,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8295092,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657360028,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,627045788,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,939294463,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1747966351,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62027186,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6626968671,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2070332428,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774994301,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33021012,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1560563591,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13367374443,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6958865007,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51397111,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2584233356,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58392,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11448193,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19922064,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662591045,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113929635,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9764,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1718610,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164551,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275899659,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611417919,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6544919,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1439441,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66088595,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23012845,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,49709,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,67170,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,243144,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16606,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,239,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427962,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247872,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1036660,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,39066926,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6334064,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6246708,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290962,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,591935,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,962,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813310,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23586,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10526,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15879933,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11007042,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222926,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6364641,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1188741,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6150446,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16518772,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37723533,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12227816,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53568520,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967175,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8180970,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16655331,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4431758,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78510792,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39737236,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56129125,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51624227,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1140,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2862330,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852562,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86470828,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10443110,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,892255086,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,935806100,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3514331,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405029,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80272796,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6515373,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759209671,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1282526990,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76397756,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121764374,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2504249,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197358,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39909565,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9323085,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1192599,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303209,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75172,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6301,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1278220,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7475819,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1882864,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726255,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46445,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5031223,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9159048,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036165,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1927,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1927,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323936,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18738235,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1431254,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2890249,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259407,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12114916,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77946940,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94824437,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14521650,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,375020849,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27054797,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51639547,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18799015,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63806120,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517864897,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271848475,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48421381,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455843498,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207051631,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28703705,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111788895,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195836064,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1348256771,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995157721,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11487371,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120190369,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376320,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17314,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63775088,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6028285,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6641194,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14000981,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31048,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556638792,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288754525,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3351933,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,939108,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70582248,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87039767,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41195512,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33577492,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163242,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6557819,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107946,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51988063,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17692340,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26334118,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197665218,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19356985,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29401662,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12700220,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115010651,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140700801,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432655515,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67200,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18271116,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41841,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7333591,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051675,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31481769,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108351,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487887,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48415,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85226,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4752,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13127110,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246049,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26769904,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103226962,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27081178,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174852800,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36649370,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21969471,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63200498,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166789242,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,743487,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35359726,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256111,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2863299,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524878,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1469276,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13808602,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302273,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121805,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10724552,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683582,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26073326,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29512274,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23035000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11487000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4696000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79378000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7774000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6718000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75392000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18964824,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268495225,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135461,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85809994,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24045496,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1060756,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309538150,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101530979,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53336,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589468140,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736682939,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44231070,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,825000246,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5479703250,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2421596393,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172618013,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58581970,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85777150,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997034524,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,757894354,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43600,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116122,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,985,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1658342,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6480868,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16312,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226519,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2720940,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4122826,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,790273,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,535164,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183098,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1798200,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482594,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141295068,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1642049613,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195472551,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41586865,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98703953,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145790288,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2132879302,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,913659444,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75196,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18116,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26305243,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4617233,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3656,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37720,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93247,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40602,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589774,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122587,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34253488,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223158,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6156756,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280902,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29794,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5572,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1240553,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72372,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16061,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1802,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27913613,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418980,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6018087,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2368,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12029252,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28390,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315379,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3542582,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2447337,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1657746,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1895020,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235971,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251247,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166169,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343497,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2611886,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3610923,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,368952,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119023,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11036,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,987,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167439,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4676,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121293,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,830231,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2453625,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118672691,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220068044,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336545082,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6928222,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7484820,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137445764,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117655190,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105619,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1921213,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1606,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3979179,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41385,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305138,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6314,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33545248,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127596499,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832852255,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135175951,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39626296,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35832847,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333852025,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233424130,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75955,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47895,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7456,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445627,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325020,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3295,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1616678,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382327,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20543,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15026113,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1089865,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23768977,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50722803,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6803,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,857908,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235139,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571984,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306083,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1169534,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396501,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1387060,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1230808,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7689900,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2140301,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126268,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117623809,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3070,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318476517,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165319668,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345303266,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10605337,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25564162,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71151756,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,687905683,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393643206,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1350509,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32475816,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,469725,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6690380,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,133276347,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15487538,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310286,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765585,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,165445,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31549629,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83683993,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279472,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61650747,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40397981,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11370700,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276358,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30399606,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19902729,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61652301,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67376748,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28391,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275160,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444484,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2259989,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191005898,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13216575,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1037285,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11297427,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2941,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189990,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19497636,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22829034,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10313851,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3107117,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30358156,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117213,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89066584,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1810039,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11433740,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119942540,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44062105,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930897325,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2342,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142828120,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12525781,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12396163,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,604,Peru,PER,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12396163,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2169545,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45773364,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1981474,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755640,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152116842,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13482978,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100026012,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64619833,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12449830,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25094822,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1592864,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196211,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95965676,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10256947,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28345145,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40535687,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92145,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13285731,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63499,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280204,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634375,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2416121,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7071183,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388929,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18245467,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5118852,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,947952,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625369623,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20125822,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111388352,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260992038,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231879,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749177,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3943,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4994,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169653,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1909314,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3355513,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135885540,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233530957,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158738087,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36561814,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154629873,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149910882,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2063244091,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,728120922,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3046580,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3729329,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166427,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203608,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5299132,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15975463,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11773262,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214805,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14381819,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143923,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27598,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,117249,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1512426,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3995387,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7503315,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3930260,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90952406,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63277,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18146203,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3572200,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9791148,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75605426,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35786899,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74636595,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425057590,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133410467,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3009189,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229599995,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137400305,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2483416040,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006287414,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6940,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3642752,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145761,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165110,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151211,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323269,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33986332,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166206,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1087109,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13909029,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9960349,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67539773,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195785471,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142677693,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231050419,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4963759,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303302,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22982873,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19157772,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2476735069,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157120575,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570640,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20537294,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9903982,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124740,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7198141,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3559046,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23124693,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19398955,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15656880,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649858039,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30922342,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5566188,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28811973,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197812895,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68129,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5699132,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300542581,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29572526,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75644731,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108523973,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5143,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30373,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40533,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,415163,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32415882,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175307512,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134418899,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29248218,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89531246,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42845085,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457539618,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230175042,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4541180,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76120,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21782,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457852076,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6287832298,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,784814102,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126172956,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105851898,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4005948,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133836478,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2712674971,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490895000,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7626656967,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8667864344,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1021248102,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2609957,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9104762,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109009620,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121055282,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36982175,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139374519,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31718206,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226429,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184410,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1158024,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93721,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11893,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,657236,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545814,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189309,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120974811,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90423,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418631,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1087752904,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1139245135,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158947267,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072660656,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15186,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1081,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2821,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29887042,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3789225,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3733574,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189741,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,552297,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11866944,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2049267,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7108,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3439929,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1835,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22391,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86681,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3539874,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431923,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128023,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208473,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359749,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3701,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14073,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259687,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110497,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30918,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64838,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94447,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1979832,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1979832,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45220,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3982394,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2903345,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115788,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6022971,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113682259,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291743,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719449,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6767,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25468,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292717,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223695,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3370157,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1583738,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91964898,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1583102,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633336,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4763,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4763,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10042987,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1286241,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1367,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1456659,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3393,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370061,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104044,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37665,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21978,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1453,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19310,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11051,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24243,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43069,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22122920,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76093,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2794,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76746,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20441,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,110262930,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915426634,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9575681,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1457734,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81240882,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,120087766,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,513579359,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1510903973,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19383,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1887899,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1887899,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55589,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583808,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1840,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,50695991,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148286,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254863,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,278246,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45831,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21093060,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1986,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363338,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12602,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26703796,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43123,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1517,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9393956,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130449584,,,4
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,470,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10650,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3466657,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6984071,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380918253,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28643183,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196533,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1752453,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155657074,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35146777,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7195510,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880998,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2638625,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24308079,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174738,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36026,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10524,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43084552,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7198317,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7603,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13649490,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79450391,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488808,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1510736,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,319298,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22483,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3770,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9745826,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347839,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67623738,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5354423343,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233698685,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460897397,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2087678,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3414031,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43529075,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80501730,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30010939,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325012084,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36974191,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255508607,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20257869,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38739221,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117133427,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330439013,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,721961,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,874254,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25768,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19288,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4431,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12344,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193639,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190748,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84797,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290755,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16224,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472667,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77098157,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26989,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2328368,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,584890,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11040,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17234,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1279931,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28335656,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143161,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17312,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147517,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5924259,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21840540,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2248164,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5537497,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57447,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38441663,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696866,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7258484,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5419562,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8828,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8426,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6798067,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262566,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,551,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3425698,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846095,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22910977,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157576725,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45500,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2815218,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252121,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99660,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1440529,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1726665,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1152870,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1344400,,,4
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4629,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1638042,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1904,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59167,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133712,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126652,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13734,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9022490,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96695,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4010,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50051,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7950,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3204758,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19395,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,5467176,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7791337,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7105520,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,315100,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1407860,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,40,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2362,,,0

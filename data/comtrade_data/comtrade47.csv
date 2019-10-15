@@ -1,0 +1,1109 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84223,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8138,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24809,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14045,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31644,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14387644,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21235903,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1906655,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9142423,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18069966,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251528,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,314213085,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6347314,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1366,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1233175,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36188,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96233,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8465286,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,491646,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2907101,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4151938,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64509,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1788652237,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227528332,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169670,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4092190,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264897,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17113857,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5671318,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1289696,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78833,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293958,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1595843060,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1779204833,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213672,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39159,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53020,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1335,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27835098,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795329,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15593,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2276125,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4787907,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12613319,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103578890,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194286763,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26404051,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1526043,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2720784,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8196939984,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7489345600,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15751,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1494,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28142,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,904405,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,740,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22059,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19895,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105724,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142757901,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044613,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42974,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19420,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153309,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4074198,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11249,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232305,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77022,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55908025,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55620579,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280862,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27360420,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,580340,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42084695,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5358764,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34766489,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136232,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795697,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1089613738,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,466252542,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,668,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9353,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2238469,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56304,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1875,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863658,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,747364,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34770931,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15096,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3029421,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17173,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4213,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219045910,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246938273,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21018362,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24500,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31939,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305992,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6120280,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420412,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33312490,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27576297,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6540400,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12070300,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5408600,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1449800,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102300,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104550200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29770400,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,215810,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19602320,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202473,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9269144,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22750519,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5613038,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1219829,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3223070,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187704,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1696135461,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587761443,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47037116,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140692,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4748444,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2929220,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58240,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316320,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4865604,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2101048,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1316,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65423880,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78829935,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459173,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11375,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385348,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3072774,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,984,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57195,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376849436,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68059122,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117608,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69058497,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590797659,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2221759883,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26237561,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177548596,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4337359,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34227955,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7883817323,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7025726412,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7242,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193816,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302526,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75733,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42089,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8190906,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82344,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151736278,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46927394,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31131,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,599,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3769305,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30251,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15079,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37034,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7979807,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26160,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47801642,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25250839,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,589338,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073971,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142427688,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125326721,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6620,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3450,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3450,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1891,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13119521,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673406,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12354,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10592,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,37747526,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38267243,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2194097,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17723,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12947802,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439278,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10133923,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810190,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,974920,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238184,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194159,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1328691607,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2860121809,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195253,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3839881,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28237,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9989947,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134508,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626158,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334366,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367478,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10920458469,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10798535812,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13288,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53594,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69626,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237167,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6931905,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2674018,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8655,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57994010,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34330643,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42447,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5000,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50795,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296865,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2247317,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,42017963,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44305025,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30229,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4891,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394184,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1122839,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19135151,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382539,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2840,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829921,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46209,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754522,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51684,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45308,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,944045781,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956194251,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22765,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26960,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26960,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8219704,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674928,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53926,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8117,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13768,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,981212,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21843,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7611738,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15593,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6219951,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95851,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221386,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7669034771,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6855168318,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3219943,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14871014,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62089196,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94037745,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13582683,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13304995,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9217492,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2583339,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6647822895,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5631811623,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1079538,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101389102,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22752448,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263464080,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1689783,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22788260,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4777053,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10590828,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17492804883,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30062323515,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44253,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000007,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16083908,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6507291,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151600,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73186,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,464010541,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217327696,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116377932,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343863,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2166839,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293408,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5507025,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71588,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26104024,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4191468,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20473,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232488,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21025,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3986,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307473,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76312,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21535882,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37791825,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162246,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4738942,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334536830,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5300503,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1101094,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6693909,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329019629,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,865748782,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1482234,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3431,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1959612,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,944737,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24424,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855656127,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569957185,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143341,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282728101,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27592327,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341030,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2053030,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48432885,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61118134,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25082,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5212961,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2645177,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2243506,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594681520,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149663123,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8319201,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82561297,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20925053,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704090677,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18748259,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8556045,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9691,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15888137,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,285580,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1551337,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6054591,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16246344,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573938131,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846254331,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1492000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,806479000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160086000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,918117,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25845688,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144495,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26774919,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156071975,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8529800,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,865279,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15250675,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420645,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22740627,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10241757,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4261184858,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5167279201,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94029912,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4687531,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492105,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214131,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7049816,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55361016,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5827832,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42113689,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,815015,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11277987,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2471283614,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1374530398,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80287,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,943352,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4099,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123413007,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190803929,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51616415,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,199410319,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59967957,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33505818,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99542771,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5327222,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85797501,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3750166,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592567,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1807395,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102167253,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21628605,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164173658,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2782633,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7161589,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7557743,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5901755,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761643118,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895553007,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5399289,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292368,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8534885,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5427461,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20710,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341996,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155136931,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1101138,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5164179,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22945,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157158,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24841641,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14675652,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60290,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91811,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39513,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103059699,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16318968,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810929,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11417695,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2768,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92737,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12665704,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45960,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517161252,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,798943454,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,934577,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49256,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9659300,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77335,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14183,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1203644727,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1405747271,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3445,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3380,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2118941,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1134,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596502,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,516356,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121410628,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198579955,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84456,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1179878,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54142,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67848,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17397,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11255969,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057006,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5264286,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29358631,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9484,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652981,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1725196,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6698668,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86326725,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371569,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8264429,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149149,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2206618,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632020226,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361548663,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3811829,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162086,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2987,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4350,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10915514,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7643390,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7166703,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7868589,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3320,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370560,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,648170,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18775057,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2806985,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7498133,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178103,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7443174,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598695995,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615401015,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5377,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14592,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32747630,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628239,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330387,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18076,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8987,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21535234,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3703737,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175337,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4106747,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71196,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21010575,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2519137,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417369,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,578888,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174584,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468293021,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66453393,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149300,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4713749,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19141,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1062980,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10067752,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554512,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10351,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12221,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75830,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2026,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2026,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18066443,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832036,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,728213,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,862,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2382,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187333,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83585,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20154931,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,881544,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20340,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7154847,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,676096,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186374,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1016220,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24751759,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5905520,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88836190,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38859282,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199758013,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6313581,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2993405,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7494630471,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10752542206,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11853,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2350,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43489636,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,812672,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134450,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116589,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,678668,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16415,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2596,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265045240,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,50790132,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1211832,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7769,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6019,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117000,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33950,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12120928,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11308418,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220228,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124401,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2479238,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115034,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150283,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3917243,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16615,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9819378205,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6738530139,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119290,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2022824,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18701643,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35110014,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5495,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377749,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5495,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9939510,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1794850,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162731,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270013,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228512747,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140543788,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82955,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1319375,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350363,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258496,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8480,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51179,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34455115,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9038333,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59887,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103986,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363099,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3466517,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111210,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,240748261,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60660440,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2020180,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12389581,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2698689,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23793418,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243386,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6201787,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,616773,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,709,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3919744905,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6038312120,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191722,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1563691,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10239347,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2877311,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607444,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9767364,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2428110,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741857792,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557998246,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12581,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2612544,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17854234,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77956372,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24585,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1342,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480113860,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,617761126,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373872,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2668123,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2833055,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345631870,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102610,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2286246,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553718,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2083022156,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1831519765,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2026084,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34629,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216449,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117418,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86044,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10814,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72512,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161098397,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165006920,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476919420,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846069915,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83781471,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15276345,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25721817,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33134732,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1395273565,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,753626269,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51928,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18578263,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2774197,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5527639,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558464,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40854,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5418378,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214189,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445696573,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1205370248,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,856,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568851,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1722,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10980571,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112472,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066642,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102549,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256026569,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373959675,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40522,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515295,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34724724,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54526,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13493862,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1222673303,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1284846011,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,906704147,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181013730,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309741,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25583758,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13488732,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35857439,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3509621,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8435797,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25736622,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1155456,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2745656587,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2523378352,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455054,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22098819,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,677522,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60125646,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33333,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327840,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20682742,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379413,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52841366,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4454,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,849813,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2562010,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378385,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352034,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29226696,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3960322,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85584981,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1069748362,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2666281,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1567314,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3677575,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1611633330,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1509318835,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22272108,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6319222,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2339615,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2490836635,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1239198325,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539110617,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108393912,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5935293,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3466510,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9810577,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27805957,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27381911,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995758533,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56982823,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32806484,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4974689,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87459779,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86166589,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395156473,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254932,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12404214,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312412,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1185327,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1776954679,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1414291545,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352936,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141902,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2181505,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8309,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40343,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29859782,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16483735,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4460240,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7260368,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13455912,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101372288,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,600433,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14271814,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10918828,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3671687,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9021934758,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6817098316,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21495,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257433,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,834,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37220944,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556044,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35473895,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5753759,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6813219,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2747461,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148074,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13934741,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69403032,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,844351,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72502455,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359563254,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37135401,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20813967,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24073435,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2413093,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11127382730,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3734291950,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374502563,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1586700,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27255719,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5633589,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3079,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,626312,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19567,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17083892,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4113896,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53632562,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556178,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305446,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260151,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58101,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91990,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1790,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7630,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28508867,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436961,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71292,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1884973,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422757,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23151616,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1286,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4736443,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7215,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70496,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451789413,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49192389,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4978,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6551629,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376062,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6652569,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708456,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436141,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456489,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5907,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29727,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394974,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11775,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3396991,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184914,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,858297,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30718,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3064532,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1240805,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2094,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156229,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17973286,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322572,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5165,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1081483,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115050,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4148,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44643,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,835576,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51157,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5897,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9296,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449324,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5342663,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76600,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12740,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1803533,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727280,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12007814,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247393,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6982,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190041,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1547172,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,563087,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3773,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78981,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3165543,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35753,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65500777,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2158965,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5089,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3233681,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29467,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47714,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278759,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1233270,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46420713,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123372,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40612510,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5800597,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79356,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11742472,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3597297,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3149757,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21147129,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66811412,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7656489,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86209,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108633578,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545914,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184069,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60509698,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27695963,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22188,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280395,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9423534,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149271,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2127634,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4285848,,,4
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2631,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102291,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45806,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1390635,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15362751,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1903865,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63498,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3716,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11442243,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7359454,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,838,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35838008,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4143,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,807,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2086349,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1497639,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,222650,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7979237,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14332375,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214021,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1038985645,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86012333,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1251568,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33293,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38849,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482159,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19716212,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014423,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7554,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47856,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44701742,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1661804,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8900458,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3560438,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252147,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14741,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117912,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5872402,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1234785,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160965,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1596,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10203,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10972111,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,461257,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18422,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95022610,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113167188,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,956370522,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364186,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1625240,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,768353,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355998,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189843,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108774,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146838985,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36327520,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1624834,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1206507,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65304,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25673,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557711,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,980205,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9899986,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14515806,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588950,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635466813,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637171254,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309024034,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127319,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3698889,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85038,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1072354462,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73684992,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6304504,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218129,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,892946,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253129,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2372,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2786458,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23927836,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2878884,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,742940,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3816756,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115495,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3073088,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2115648,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1867301,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1127345683,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197232528,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3551558,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37379644,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12991065,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1744463,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340941983,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970572120,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292777,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365070,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21179732,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359591,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15678988,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2360,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2506,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1982108,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,748,Eswatini,SWZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1982108,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250398,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11429,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40910,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2561,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56895,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2557653,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14108,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14108,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385410,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12411229,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2687261,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13943,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144102,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57632,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107658903,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33380499,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278466,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78376878,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1576362,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30845,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26191263,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,318057,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241726,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19463371,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7687854,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10813,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56619,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21884215,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189673,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72077105,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5454,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1935504,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83203,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425334137,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77453886,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152129,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145483186,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103921094,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446789093,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,231767,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149503,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119226,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4032115,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,762248772,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27650031,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18871,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,570,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509264,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33886213,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181089,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4872,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7545,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998516,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433940,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231462,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588124,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107394528,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12861746,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1237421,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2527168,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5000006,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3330870,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22780,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286895,,,0
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3599,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3599,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1447,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423750,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284687,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67519,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34712,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208074,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3590,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12619,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701288,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3450010,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1077598,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674443,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6027428,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19955,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,501066,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140760,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8170,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,6049483,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4284085,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,18287,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,24281,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2000,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,16597037,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1374316,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1006181,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,668,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,77957,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,247888,,,0

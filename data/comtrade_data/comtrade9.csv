@@ -1,0 +1,993 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1628144,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478908,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19895,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29340726,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1345556,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5576686,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44004,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18394236,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299661,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603423448,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,668028060,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2810906,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787768,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2055140,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9762,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566190,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52389,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137054828,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30269622,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,713839,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3393789,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1719510912,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1090208236,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240011,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1955,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252629432,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2406722,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3855501,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3769056,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373239075,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260344388,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12383,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373407,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2578309,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71741,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63279328,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7146542,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3123172,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6063,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507589566,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64306531,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270901231,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306017174,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2998916517,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2971007423,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13875,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16204550,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170488,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102218357,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571702,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2077544,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21510,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19794,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19794,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57900332,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173683713,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2579447,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1615,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6460425,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118029,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239085,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11755583,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6077563,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31209993,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6221807,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160735,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93465655,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1760982167,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2719391044,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93003,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22749046,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7319516,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350924,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1135,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5203592,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,873969,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4249303,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1347467,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2372600,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2711512,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74241378,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59050271,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84625,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1545591,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592484,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389680,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11783520,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57542179,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60572388,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8919,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10800,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2618800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441700,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8321000,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46737500,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12914200,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3900,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,996898615,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39677003,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2323035,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6981855,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33339264,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2175332,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3083716349,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3083716349,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,108056,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1818668,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367556,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897574,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4925023,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118360,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235546,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235777,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226497132,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209293199,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306490,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37047,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47554065,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292064,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76283,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,778053,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,767870264,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412628025,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168110,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1007581678,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4783198403,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,508503058,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388611486,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20423006604,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31375454689,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8010,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69239870,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23380850,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338268,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58626,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1597557,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,791065424,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526329759,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9516,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569766,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239908,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80148832,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,433333166,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4820638,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3022657,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86980,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4565812,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8018,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265403,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161071359,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82212303,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20304067,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7017,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,449662,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,44614,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18166650,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56373760,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,233,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,851017,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1728501,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647873,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633348,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305844,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102643,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9416611,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2683949,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245271,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41893,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221227789,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2558818,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15121351,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10250556,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263552377,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306378999,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380070,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168430,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154715257,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199898157,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020855,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4009987,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274353279,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,560595298,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20316,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2082209,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1847233,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,994722,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4752546,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215312544,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787909449,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46126,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6690791,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44057,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10560,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118340,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261768013,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86372087,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164569,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3354488,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167633,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49805,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1350,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81137937,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42291429,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7924153,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527302,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774381,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568211,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45921024,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113841015,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33436,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212339,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19174,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16068748,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9597265,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5063954,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50444558,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47952698,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569962,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14064586,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554227869,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635119980,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453580,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1040123599,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115078328,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540694996,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607255014,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3517121418,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3564890179,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411333,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29531461,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1778284049,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286375500,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82851284,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136978333,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4593835320,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10975798589,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79467,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13065013,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18697365,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1993389,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3722703,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4412527,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96026228,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171967371,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264740,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11248423,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,203959,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10758353,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99862,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,474453,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598489,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86528316,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222168739,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2449453,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,836,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48519388,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39547535,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2078,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258109319,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915104740,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3081645,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74354201,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1650507407,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2280504007,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278662,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5927158,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1528365,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126452,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167868,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8085241,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89644301,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289443908,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104839,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3908488,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47876,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61249,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79892319,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55683317,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28336865,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513858202,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83115730,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20249689,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1553628575,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822062571,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55541,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1022323,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24959,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17169,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4984089,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93822577,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67355066,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82854815,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569268,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15404723,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32890973,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,679871505,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1229446616,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31468,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,727173,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2940000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,814000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5772000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,299331000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,663410000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1000,,,0
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7910000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367151717,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80541490,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273881,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364377306,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140486465,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1210114,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1751185994,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4439216853,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217695547,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5553237,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7335309,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50528212,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334267,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261165144,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358166943,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4084540,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23322447,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10936752648,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9591502303,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127107,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5392321,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4830673,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39037,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96707,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152529195,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220251548,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1870834,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49429,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49429,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499024,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759469,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60232597,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62600203,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1527627,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261326378,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603846420,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58329466,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27251614,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5041757216,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4717660619,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13058,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1523674,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24180344,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152083,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309138,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487428,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239636677,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5607694,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331128,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6164647,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700563,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14035344,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4278,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3070360,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6624866,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145096311,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22183007,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13063,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405640,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201022,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10150,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,322815,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5407064,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1710494,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235895,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1457,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,483061,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377503160,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27419289,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,946089,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,798063,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3190,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3699531,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20381465,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48164293,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62595,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6520030,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,955506,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16695820,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1736636,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107464232,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100702250,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540516,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159787,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72184,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279635,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63007,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5790,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12226355,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59500152,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2308126,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165023325,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290320969,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80619988,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59658084,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707376468,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820727148,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1950954,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22287,,,0
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16616,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27309572,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84227,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,754923,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10286,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824946,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3255726,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15693515,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8571377,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77797833,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650801769,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2978941,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6176754,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1637210043,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2207176420,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26500,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64462,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1134329,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1005069,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,871200,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4386,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29870267,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2358777,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1694970,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1728555,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270381,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6235447,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235715,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2471046,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63386433,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423987897,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168827223,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1159271,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886225,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1579781,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6434,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198514,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2345469,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23625,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60756002,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1947958,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576553,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113095,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134552,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1483719,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4639,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112695,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5416207,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47673150,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83596,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346957363,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33430218,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,362401487,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133494029,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660155541,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3792782530,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6079533,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35137797,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20492398,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6124093,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,615541,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637822,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11944133,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,18847,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455847515,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,480588641,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15583822,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3339,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72856,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2194783,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1187291,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48963848,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51780185,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15362,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68689760,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315026,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410778,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6509539,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1667658262,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1222649231,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9813,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48139,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,860162,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28376784,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727990,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17134240,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638932961,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244887892,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1706038,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11518003,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34075,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168873,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,758489,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2343,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6885,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39526913,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2968233,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19777276,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128597,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126823,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2393989,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646967298,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1202168325,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,811985,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316896144,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29341425,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10695259,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14930934,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665459343,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295242792,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24648,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1627691,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14437595,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4111453,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126409032,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33529306,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231393744,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333921685,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16844106,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301176515,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4531522,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1237227,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378717,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4159499,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128259078,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,213506548,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184575,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774280,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162436554,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4844799,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4160180,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62494329,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978904106,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618379425,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3591504,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12306134,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64602,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515357,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3584071,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30451197,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35897672,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47882377,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120309416,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212250434,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191845328,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4844236758,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2316419822,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2730612,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1383362,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,78629484,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223710,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16911061,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2488285,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,96830860,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,338172924,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108932,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16006,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25659317,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1432407,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4889794,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673520,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,126612524,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90150595,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3334,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,178691,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20080194,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5749272,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58184102,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38486700,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329932273,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359427765,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65430,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8097012,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,817900324,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22993140,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366609819,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124996964,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1910422361,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1854865442,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51047650,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101674940,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1827,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39508,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3087787,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44829340,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1488,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62692957,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5914946,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431573,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13661233,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455619930,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1173053395,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1090888,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2246521,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158714284,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11393832,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6515939,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16655200,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1985381515,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3635803026,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2742,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1651283,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216489500,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86958888,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71396154,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389837578,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89577273,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61544113,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1921754181,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298569542,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202976228,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219341,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,447330,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277379,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77175002,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17471591,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53863956,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97964816,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2166996335,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1045596640,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1052874,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4237049,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3251757,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80788,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16983,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91066,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7086140,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5354396,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1301956501,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48563115,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61165468,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55733103,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14871202249,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6230768775,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275829,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2673596,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97081,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404082,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38266,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243938,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39681369,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3664624,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3173230138,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400111989,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36490883,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125879187,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158874780,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5849302,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305647659426,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282450323999,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48533023228,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3632339,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9146393,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1822309,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3932820,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46829,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3970477,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53588084,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44758163,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184763,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26842,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37685,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337864,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20207745,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1261642,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1197550,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2618349,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402479,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34365,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6070,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15640829,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,593761298,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16302672,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14824076,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180061,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40367090,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660191806,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1331957504,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5074961,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294091,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65551,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,467353897,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32074248,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1041,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10130263,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555851,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193898,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143876,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289252,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125833,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15692,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65220,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2879707,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,327470,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239124,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4318,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45729693,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2119755,,,4
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121557,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197436,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292784,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27507,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,972521,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6536,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50864987,,,4
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338051,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329835,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58478,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051678,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1861502,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4879226,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35060,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315782,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8852,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30394721,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2368041,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495174,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8116,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2415659,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2028,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235055,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1348070,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4125921,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,363511976,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287370539,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19174,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,942215,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1870019,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2758025,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24313392,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20845589,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200956184,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72132,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2531347,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41650,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17591778,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97978121,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125610001,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,924510,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418157,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,374870,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,831559,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587474,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95782500,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35153240,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22615770,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1396,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50787,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342886,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,638,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70564,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15104254,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1856983,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,879,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43932,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13914,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168757,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23044,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30100566,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264001,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79867,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3877392,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10371570,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119343,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,129913711,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3135705,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2956174,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6215219,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9787759520,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11376493835,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2435322,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172597,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,706112,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2550,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32504,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27835,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6387702,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4837685,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454272,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85356,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165055,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10561,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38513,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,24613643,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1209124,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4850,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207521,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2147,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32195,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7797,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86548473,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8256697,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59977,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9748687,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378347364,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321605665,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1538857871,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,804911,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4726,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74583,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61815325,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32767318,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173071,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3448865,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,720584813,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538611465,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9564745,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1105664,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15522,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69397437,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10234483,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158353,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4389981,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13987269,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4346714,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1136251946,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91265975,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31708909,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2407,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90411,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692394,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1818,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29835018,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19960298,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25191805,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1687752,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8424,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4094561,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,256049248,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2981748390,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22342329,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17781493,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1345327498,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,731769619,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1121902,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592576,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1032587520,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2762308779,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205911526,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21651122,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799306195,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2709237805,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78861,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60953,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14873727,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47708,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,450809,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,633,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82365,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1258055,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270143,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106452,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2659,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101635,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2018238,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120809,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9333053,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10093645,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399863,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710234,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,957508,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19248092,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53174136,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32358746,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57103,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103019,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64439,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13448,,,4
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19938234,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5929306,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107598,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312003,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16507356,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,361495,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394236,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29492763,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294327071,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50522757,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1475,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146963,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4050945,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494458,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4754225,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29507976,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227793355,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98756031,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1296962,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,291334,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565673,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337845,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27994214,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,861587,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100195,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141836,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9077,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1945,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8082561,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221699,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65351,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26765753,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409562329,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359165,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10809,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8282119,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70444,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9432,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2634,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44031,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,350,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5061963,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43927,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21370,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22437,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26934,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6480,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6367,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29154,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2892086,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5010479,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4807,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25272,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34502,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605419,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6004553,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4047,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4047,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17852810,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9806366,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,103515,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,10015,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,53104,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,37927396,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,8652775,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,119912,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,58186,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,227,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4495,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,542978,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,19494,,,0

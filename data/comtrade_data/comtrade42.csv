@@ -1,0 +1,307 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,62077,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1284971,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1160,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59317,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,878111,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1118,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207261,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66080981,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2441859,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2419194,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080788,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28337,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,438,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066984,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109506,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446890981,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7548,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11014,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1447315,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609458,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,36682,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4547025,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832040,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,360758,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6808234,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409776,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1797660,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20175124,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1120445,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104932,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,772737,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55122,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15917229,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32279,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40309,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594714493,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141141,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47299,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2652549,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,188815,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4244,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23531,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7865,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86392,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56137,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29603,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287899,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229598,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48223,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12444,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4313,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5725,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1412355,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10672,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,644827,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6394,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185230,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5330106,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5227986,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208651,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,0,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24096,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25281,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10580,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227097,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3484,,,0
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171801,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2289637,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32387387,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993345,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9660275,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,904073,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33393280,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103121,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5642553,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61869,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5759437,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264567,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25130,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279490,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,585,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67113,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17473,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2061443,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1891697,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79326,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586509,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,959745,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16232,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,730051,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3780,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505425,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43528,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95320,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245658,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26000,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10873576,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611492,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4477424,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123557,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66697,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13002375,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506437,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3183442,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1723,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1580,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2812,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184256,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,235104,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40256,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53816,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107224,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,427,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21053,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37647,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500984,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153148,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800847,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1912,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,370376,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58871384,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2682379,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10501496,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45892,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2206929,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800077,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7108,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7449,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3277135,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2957,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28616,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32085,,,0
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148987,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7680,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2446337,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70203,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,887407,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86912,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238183,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11051,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4459,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454800,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61762,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,671244,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22935,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,775,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2175,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1033,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97609,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6956,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21396,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31048331,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58864,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9503,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330564,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4271221,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10319,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80065,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60436,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106401,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342771,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15584,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96865,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10987,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3495,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42666,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6661,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146578,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,17,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100532,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538254,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3595325,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166721,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3744787,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12295,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159343,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1024469,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20863,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330925,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1405015,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,453030,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484506,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11758563,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81756,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2373137,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115951,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60508,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80460,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18449,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185097,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1948150,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,829,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97377,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8028337,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8081054,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25470633,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4896,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71413129,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,548660040,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138597743,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39437153,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540558600,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18626901,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290495,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390569,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2595,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24144,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7392,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,224,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8546842,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1267088,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280317,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175642,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4797,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111492,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4833046,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3294245,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3494117,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9165810,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1802110,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,27764,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4365811,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34814,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,826,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,44,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3036,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16872,,,0
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2647,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8264,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57829,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91914,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36377,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269546,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25739,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6687,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49188,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90,,,0
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12793,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2218,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2755807,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497897,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397367,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1801668,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,972169,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,929343,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5918710,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7365185,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17340,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,756896,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62943,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18639,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1040013,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2266280,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1536226,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44879,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28611,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1577647,,,0
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6867761,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,628355,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1998,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54743,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51881,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10932,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78717,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,38614,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,464303,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,534,Saint Maarten,SXM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,78932,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,7134442,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,18206029,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3678500,,,0

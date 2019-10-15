@@ -1,0 +1,1188 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13121812,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3461083,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4444217,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1089899,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1380260,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941169,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31398,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4186,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231689,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287062,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18939685,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,397795082,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24123811,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15616,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,613815,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2655,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506227,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31144,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1825511,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19847,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42364,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,428153,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967460,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105563276,,,0
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,742056,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55151567,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4867515,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24878813,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2315239,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15006593,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14676157,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5953,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2413291,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418843018,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26187397,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150029777,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241847639,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353125291,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185043092,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13344859,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1969641,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,917201,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5355201,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1929067,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309844,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,715164,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1267620,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4150,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146243,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14847382,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27156478,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27561536,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123694100,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594549018,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,995059305,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2813947802,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6582281453,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61951677,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124553438,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11268,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10541,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38948,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666777,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,920886,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,417550,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30196,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10409,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41106,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68495,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308649,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1396818,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5221450,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9342814,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4186644,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42096555,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119270,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2645,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2440858,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25854204,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39972759,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160898034,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28871323,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43043389,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40888766,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31114740,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852603,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63053194,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414,,,0
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4124,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263870,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49857,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22119,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3006,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855993,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7495946,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67107862,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51712285,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80750500,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,104444582,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10558636,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161221,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391747,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3086,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5440,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421181,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2255050,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,545419,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57733,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42589,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28531505,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1280400,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618500,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316317900,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,846585500,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8000400,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2776600,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22897200,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324300,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,27626738,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3298880,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101107,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6608334,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15430598,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3621311,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,172433646,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58557962,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7290556,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,118846267,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87237304,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4327650,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,76601994,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12405208,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3085788,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33095,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741079,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4774,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22471,,,0
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52507845,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1816763,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4195769,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158011,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1506003,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131037,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2683905,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391744,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1034,,,0
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,664705,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84689,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1700754,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8107565,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17575293,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10828293,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,302729,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297859,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28857194,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2103670654,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1362657776,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1027969894,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255151046,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1600274355,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308035753,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700940270,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227093068,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1007487260,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37580,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,729665,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,603,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2049726,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3626001,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1639721,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9746573,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837538,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,736095,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106475,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91568,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8039,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3036,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561398,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320525,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105925,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25691,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51127,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1525,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1356948,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7031421,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6018143,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26661336,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114634,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31108,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,860180,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,131615906,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3346541,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29123023,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30218216,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14899674,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37837662,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,42905,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1761,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,17060585,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33289852,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33162326,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5898526,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301851967,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2606615,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9526964,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6662018,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113760,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7292686,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,449295,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,378416,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109862,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151200,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50088,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15575325,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,566669,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14722298,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5454918,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313068880,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680501936,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201039072,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,232498143,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7927168,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1967502,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181865,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7447112,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47165764,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24980627,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602949574,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459148123,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173511001,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54692719,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1894140,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5349347,,,0
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3899,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50706,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1204,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7723100,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66269,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3799978,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,334,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157146,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14117,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,514,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025131,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4026243,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16633568,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5852447,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53705,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,286872,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538326,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2892,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188347,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11647,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684849,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3116,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21960,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143769,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31977,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057140832,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855085200,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10028376,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,701333,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2059285,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23647,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2143,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63846,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16713,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145407,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3132882,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,886,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5035381,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445722476,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561020976,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86072903,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25481784,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5705213,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044787,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18789018,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9769886,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1564607106,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182428759,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,755056119,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,685354573,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1806342997,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2454396787,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,700715655,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399109750,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,468571738,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169302058,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2801482160,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,337025336,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2058395576,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3673334072,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3597431230,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6516533457,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260615949,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47847757,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10654470,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132543898,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,575105748,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301507107,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31167366,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57257330,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79060253,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13103928,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1335360,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1612230,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586868,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12273,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2928,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37325381,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9256318,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,637428,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4872500,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1225,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2250,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197340,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92821,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3849,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1044824,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55755,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1022563,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2725343,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125285,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7772405,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35492005,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146026285,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34876543,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49187180,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4684797,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39776421,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6249,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1395464,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29483011,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11051404,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167760902,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277323378,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89541136,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86537770,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71585,,,0
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1753059,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90943,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63407928,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38522751,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4266318,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,999616,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126865,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62614387,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28900747,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103981676,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14496641,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34429135,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30703473,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17725036,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13997280,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105232085,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72036243,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1318472,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11075094,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5046999,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8405145,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48112938,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81375,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425246,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11699,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4083968,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60135,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14733063,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84476761,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25949555,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34585596,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136289774,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,696492,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,950750,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2571000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44647000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39404000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178743000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17336000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2177578,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38790134,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3147269022,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1230626308,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76776830,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,618095192,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,973800701,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2758885,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1151943,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719596183,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607514153,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16741575,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6301227,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30443785,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34104118,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308613,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,761961,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,810787826,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11507182,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14307080,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,559741920,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55747030,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73268574,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,586139998,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161532395,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14436979,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2695,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167926871,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554362357,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3787829,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135576,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435046,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512924,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4184,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,708643,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25173334,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1536059,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4136110,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233288,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121814,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4252527,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46467,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78200,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61912,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9047552,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1305069983,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,645045508,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280138017,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79890601,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310456452,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69041656,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19442986,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78230913,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61851310,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,409,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216406,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38324,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5536637,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6769028,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1966095,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10047163,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7047100,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3799949,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118160,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27572916,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15399046,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177443,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,590,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79903,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17019251,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56443677,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4326447,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8538755,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1252497,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2465163,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373867,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1471139,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,187,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,443,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43221,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,430318,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,201310,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10918186,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2974601864,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2312708765,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16680945,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10148440,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41480,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,248149,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360524,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22042,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16800876,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31965833,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14941050,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,680151,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3116,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,429533,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91240,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,577255,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16485648,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22646709,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15966,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14638,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184319569,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184319569,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1335702,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223451,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10370,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19001,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17305,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025808,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74969,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667150,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40581,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12346772,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39782888,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79433081,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20810039,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62479755,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19927543,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16293083,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20760623,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5320671,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100428119,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197014,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66465,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241320,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4134681,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448782,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855850,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10788,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73630268,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139297367,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24987,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340918,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1110149,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8676220,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22489613,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119962926,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22417384,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172380283,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45866572,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18224593,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2975548,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,289585,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91042,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4752,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15233,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2583,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,806318,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56863,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1409260,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74623,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53216,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366487,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3423413,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20294417,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74906399,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90911379,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3491170,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19385232,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4930322,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11883741,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6742553,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1008845,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9045117,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,865396,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1531627,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54353,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,802891,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6278,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6218,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243971,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583672,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6312089,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73795,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24127,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88899,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843267,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,554040,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234205,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673918,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,396489,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167721,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5662,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27804135,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45436596,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549962554,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225810596,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,988684651,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150959678,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1014461856,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1265722812,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62803158,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47235410,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7031169,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,584468,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2254,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30302164,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1882,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46925283,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12545423,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5497558,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1566106,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,48572,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1342704,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2321174,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1242,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6290,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1099486,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,414423,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,424760,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7554,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,941,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10715,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18919197,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18958302,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,365717,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,929029581,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,752485100,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82440814,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41037697,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3892179,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148765,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133823,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,674590,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7865862,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5204613,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6760528,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37266628,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3533,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6500661,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622061,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312183,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6862153,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158118415,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91192,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4930254,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7273532,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137521,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,629,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27133,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5346,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35531,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1594306,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1375602,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6122546,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4485370,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3248320,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13744,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1513596,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95881,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35586288,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34188807,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184615,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28963962,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1639787466,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3041087975,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399744112,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349471184,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7499627,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3302211,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130302,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1865133,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,411567,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19122933,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77285356,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39264059,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108867464,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129167705,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11867670,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10006636,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128093500,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4941924,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164781887,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102260511,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88093405,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153791855,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18795116,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2012651,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3086330,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1961304,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436024,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135183018,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416714846,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2566458141,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129652546,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11502549,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12646349,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2170130,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85075,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239053,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77116,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8166029,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18347180,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25174359,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15054534,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9535699,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488546,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161933,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36876514,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252595491,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26783197,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118812684,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194109877,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103316611,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49100649,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11345151,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140139910,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,266508382,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30543,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8195836,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5314,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093453,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77824865,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193458135,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98088164,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110453749,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,867774,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2571865,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1233902,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17651095,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2457394,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35067755,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95212806,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37972578,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19760721,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4522307,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610366,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122369,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60905281,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287403,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1995712,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47485985,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43005197,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50382235,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11522405,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96079377,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198368964,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9338764,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17336160,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2464622560,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,610825555,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,332017894,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448557120,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488367397,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357241530,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78208010,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46689052,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12575109,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300847,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269966,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12500,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1475796,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183419,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1192041,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17067519,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173732762,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40461766,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1382249673,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,968423160,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324659315,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130797114,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43370042,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3062703,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,189928727,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11441274,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138073229,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116886368,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179370009,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135110305,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490793117,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,550759126,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56866196,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7449253,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123371612,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33004312,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20013606,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1634280929,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667553455,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315818880,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60697965,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29120920,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21183026,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72583224,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17223584,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15845726,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117152482,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137972533,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108867812,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8659780,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118615806,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,247965471,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,880729072,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,492910282,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301632512,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124388042,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35727985,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5109262,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73244713,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13024,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,719303,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2916230,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3078427,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1948482,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1058787,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52534,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1101229,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18921636,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1086108724,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240532707,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,950864877,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714265766,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511973373,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342440738,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45399110,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33923601,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3257433,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29892,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,399500,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,847350,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257013,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2623121,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10935793,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4643262,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95418755,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138340637,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3199964,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1435039400,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134882137,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4862139,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1563951306,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,609280158,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62193301,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515575174,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1078262847,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164273993,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,753425312,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53260435,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3790409,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,660682,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132408,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,297410,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10001344,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207596,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345852,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32193,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23928,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37326,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11159,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160854,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3143649,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52199080,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315649,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96422,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2893,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29373,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23885858,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2304453,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3772641,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15552902,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,478897,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1126020,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4874404,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31363887,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19045121,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46039704,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12594866,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325918,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,904080,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16420699,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2623,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27995,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33023,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108890,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5490,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9519,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50601,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19545,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19545,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198180,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2364,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3536,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5177,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17614,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7761,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19693,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1286,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4991494,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34505,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102433,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90538,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3733423,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8281,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6376932,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115707,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105144,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24284,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418935,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3298220,,,0
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20309,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25969,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15937,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2516842,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121032,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3550,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,737241,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6760,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229521,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,420796,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312915,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025120,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97903,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45579105,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35148147,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2964651,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167392,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2184040,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2175505,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17308,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19498,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2566,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13339,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2771,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8150393,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7593424,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8248672,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28870,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5782519,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3908,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2019565,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316573,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19712,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3981623,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51026488,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1505877,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,271916,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1723401,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22428076,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5819459,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234947,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115188,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390571,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1399829,,,4
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35510,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40401,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193040,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54070,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,459435,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2602010,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666803,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,530537,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4043986,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64322,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6855,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15910632,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3181233,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294752,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,799,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1161,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3704791,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2519198,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97362,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1976604,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,588731,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,793596,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294104,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123736,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14454912,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6414,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255143,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549942,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441701,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94103,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90148,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1416038,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195434,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1397,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4006914,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1269524,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2074,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140183,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,34963646,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31635327,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,124038379,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103121764,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4292674,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2119063,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1386,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403423,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12399874,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9080031,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1343576,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53832,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2367711,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36155,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1587,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,236342,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15366872,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479820,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,523,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,167342,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96559,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3154303,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88061,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1478,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2819855,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1150855,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,503455,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2080894,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80781,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269055,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218204,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,499096,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3156120,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1774720,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58948,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,270112,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70258045,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25311493,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6969422,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4690,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1525000,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5271,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35000,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8565674,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4447642,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8586031,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5891484,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192274,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97495,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21011,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72589,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70117,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8798734,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214103,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30458,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105404385,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3116643,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,159445645,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4185514,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68570,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42859158,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3111541,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2410168,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6097687,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6461958,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,862022,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6649073,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3257451,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481941,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1295374,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12438,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49325,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662628,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2568878181,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238529028,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14489360,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71128148,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8268872,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52100624,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66873046,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89288615,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15402987,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2745407,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36742271,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1440,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18386640,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25739627,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60214626,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28296142,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35792281,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8611983,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8487721,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3167,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25365,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191976,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43650,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1019,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423300,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253844,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113926,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27760,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23506,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9708701,,,4
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6024,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2397946,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383949,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46531,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608434,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,209385,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35827,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25554,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1588759,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36309284,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,393623777,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3930215,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1763121,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8419655,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10213295,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275659,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2311823,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376150,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1388,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7444,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20060,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2702087,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51502,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,777821,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351753,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63533,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3643455,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81166,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1693974,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20117468,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110275,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207049484,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,673899155,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,371622014,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,48769404,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7293647,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1400347,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699318,,,0
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2870770,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42162767,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,413144671,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36346951,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18739226,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6451760,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1337514,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20608,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2145952,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1933445,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3950,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111771,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97313,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28401,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444121,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,489,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3932339,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151157,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65681,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222426,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192478,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88213,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9984,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12544,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5120,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1660,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1855,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360894,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7071,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2259062,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2215760,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,817374,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1979846,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1347180,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1383081,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74293,,,4
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53632,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141096,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7355,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,281071,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,674,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1573,,,0
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4024,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,598,,,0

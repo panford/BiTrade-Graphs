@@ -1,0 +1,999 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46564,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223917,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5794902,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148058,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,622,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6325926,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67052,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81175532,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146985,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21504355,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32376307,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24924879,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82815,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1248,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250784,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6546549,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1073678,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75508488,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140790670,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94712,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10185056,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308922786,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48348166,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366524,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1298555,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243027257,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,537237867,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1394926,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99755388,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311380567,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,540478074,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10920,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8433,,,0
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188098544,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165493151,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239645,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48705,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1972045,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1773,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3066145,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18719,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13265838,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162033474,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416011,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88236,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4946301490,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1863541536,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24323,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475921086,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,587290333,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2664,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309607,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,445976,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204493,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477718,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32987,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32987,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2106127,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,914415,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4699,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1352,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2407032,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90551,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82551,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278646,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469923,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8253740,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11164105,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9112792,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34281,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138522196,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,695096189,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6490,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488327967,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774261122,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2606,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54649590,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605230542,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61067,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157533,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14715664,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108819,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538963,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250586,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2182570,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10476789,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34710917,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45543260,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21326120,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20909821,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10995080,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4477931,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3480087,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7700382,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78907223,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67058248,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,458900,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3517200,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169452200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125293900,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10522000,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64147800,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30071381,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67696271,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6252351,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,23736,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54737,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30436,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1630632772,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1516810603,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38993286,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,316603200,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,575414361,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10471794,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77511654,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12034108,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15231,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9507719,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19832603,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104255,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348903403,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80464035,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6449944,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,651373,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34838377,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76442055,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41354230,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70875797,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22987134,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13383277944,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2316452581,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2230313,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129256991,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2488990846,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1078,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16833960,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1833219000,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18250788585,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5065174,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,635683,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31795961,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51421821,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,651,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45239404,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12428492,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,707694,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,394198,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242126576,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34125114,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654054,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173688,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92282,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25575,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1776,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3523396,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22634684,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1634,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8578946,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782611,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392989,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8054976,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23387576,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75792680,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,82,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14138660,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6958213,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1094100,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4565410,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455496,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,109529638,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218448455,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216329183,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6125414,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7537982,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3824967,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14838133,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83157959,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128072,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,269698529,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780607097,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4739,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59709,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188692104,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70104092,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6561347,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113241458,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4591083794,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5905644104,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19845,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166442064,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69697586,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313024,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2380,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45072623,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2616786,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3183,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14498251,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460912,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,455337,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837090,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9386998,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15002878,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12098071,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1375114,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1498975,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1164517,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2507449,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4653862,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57077,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78814,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2164152,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126507922,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,573807560,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3091,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18740680,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4153861,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79722,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19473,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1626,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2162154,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2152940,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145388,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22155,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4611,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,421,,,0
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39150,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34071,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1375378,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683043,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,669466,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,484633,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30380261,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1639495816,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1776836346,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50038,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65769904,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70045042,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22972587,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333151172,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2028,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4311160974,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1819863383,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12802,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2098,,,0
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,970866775,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607630592,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43485488,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1046354020,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98365,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7630935952,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10149970093,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76413,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30946,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1900410756,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1364073748,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2328331,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13376776,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124627951,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80870196,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2212647,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64360603,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23285185,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1288480,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5328942,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342699,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1544564,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,496198,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14708279,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11528504,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19085,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4835863,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21211795,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428447,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3479192,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2826291,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3594744,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,509568,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65476884,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138947495,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177271310,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185214432,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116302238,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,538290602,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13410541,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13961188,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42722979,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180986078,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20969,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17091668,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44776313,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21113,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1378,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,634544256,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252454716,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4775965,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32344,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260196970,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,257487091,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,250000,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569551,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287701871,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64003999,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1322,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359243,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,241109575,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2398093372,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77764974,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520712333,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16577893,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1918543,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,392825457,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,930164592,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5862435,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74029689,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28808,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1273460551,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444499063,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84331137,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48892266,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205895000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52637000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2385000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63599023,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,739615830,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4536811,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1698,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978037648,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1890770831,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47593887,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490714,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24007,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143079,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,711102235,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855006651,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128983724,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1876553345,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2329025372,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1781744724,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,937921020,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19918450,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28882019,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,431406003,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2323667104,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105383,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,890253,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46129889,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6633554,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22881078,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5539706,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24271019,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76356657,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3000218,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57420634,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620773,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27842,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35680387,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21471196,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,965824,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2333294168,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641218247,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1287843976,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4678377754,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210140,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9748298,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,317443402,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1006764208,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226586938,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194638454,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30045655,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,689037,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166749290,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,150099820,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8614,,,0
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2330,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2073537,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1320,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4319004,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165355,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16380415,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26763369,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27275854,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,671649,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19470224,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5494585,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5624,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57367,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3240684,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69036,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101830,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824743,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54417168,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293505360,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82426,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5726174,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17812371,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321884,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1735169,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,507696162,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845423421,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20562686,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6325274,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1547,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4121863,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45100712,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66770225,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44888,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6731,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5510381,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7239612,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,853,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993815,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1242701,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356804,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179995,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146308619,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3864343,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1522,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307051319,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276721377,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127171,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,346919,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457801212,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98936754,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72956,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167558365,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1174692732,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7124709,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,620087,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97620,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5894859,,,0
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8778353,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488481,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4038201,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211374,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19975176,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283380,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1424102026,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120174214,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287719127,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173172266,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,641233,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22596910,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137016515,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,519013453,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19998,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549057,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,382949,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515841,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216240,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28392,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2323356,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,282308,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1813570,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237981,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46032521,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8829296,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143876615,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50630824,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35600186,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222817604,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19186266,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131674,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117539,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105639595,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,495548311,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,387352472,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10987994,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18661,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3040674,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,132231206,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129253478,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10899,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1066216,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112545,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12884,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93164945,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,670626669,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6651,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21306144,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6812941375,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4861833787,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8537,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173432,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,510494895,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1208106311,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22813756,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59491115,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,106722,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9935,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6183292,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1077300,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38791694,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29413842,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1303168,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5410,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766993,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,24746,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50701579,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,93695668,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,5304158,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125236,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3235358,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1440625,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10643622,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,738114,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,425632,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143603711,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1196,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39058,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97226185,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19784103,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,656014254,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118233433,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2935161,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119376,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8553,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15320895,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47892781,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259390,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29259,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22118295,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4101765,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4267882,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145340,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11173888,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38361126,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1199282,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13614501,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27573272,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33234260,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37246595,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2922038,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8624811,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126925927,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2393464316,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2648833700,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1997,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360572468,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115241757,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2854941,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21081388,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96588313,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204570098,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,779,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129623871,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31364905,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8497194,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31455937,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62697443,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264326447,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6219,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25326328,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33088748,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3097374,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112012965,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,647213270,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,776197198,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2740,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280693215,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259276936,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2512941,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4248583,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43590067,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22466079,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13257365,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1798048,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3075430154,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2880849684,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188558,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137172,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,726033476,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,343632146,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,763492,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53524,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,469331037,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1789337609,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,471302,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39973781,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,809,,,0
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49078830,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218675727,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2439,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20584,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73042208,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37382151,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1976324,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6697912,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,32388966,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76774534,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1200,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,32295519,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6986828,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,611794979,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63550986,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1144,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,328276,,,0
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80691863,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160749776,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82776,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160963318,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827755338,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56350811,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323267499,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2719995782,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369541403,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12238,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1692,,,0
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1047058908,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,274494036,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36078325,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,412133,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5206388,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5198,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60452769,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56237950,,,0
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1043417,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114437617,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4922,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12524713473,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15418173788,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,234,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305262,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162817433,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,245976736,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9384108,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,336168897,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435378422,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,649359782,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154300,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,147650987,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379028513,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2183589286,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7574307231,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3878213081,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17788,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17788,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,531247832,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106372638,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25882603,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72578,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,280432,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83479,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,741750965,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2581937819,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721855059,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95048811,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,221411408,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8162,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,840345532,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,546713123,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1314513,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1107177,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323116599,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352166256,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761855,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,481727,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5166466,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2387770,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3351533,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,797283,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72687976,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2383467606,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5117,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23166543108,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3857831983,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4133,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163206,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1634797451,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,883469456,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15347747,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4789009,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11772957,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472263,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23916271,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29123808,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1125437732,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1984163974,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59080433,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,290992,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138341,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5316926117,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5447543837,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273792555,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,650892,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19432665,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358409,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3762269975,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2808080622,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52768793,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7288507,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1241418,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3752370,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9523322,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8766516,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,792481,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,182981,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2023,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1135419,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246804,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14187157,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295099,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73069,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155553881,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1680600,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6424726,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1826412,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32136535,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79044476,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41565343,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17657154,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45161263,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170555594,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,667360,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,253560,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96581,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3362402,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59340,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240913,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272362,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,272362,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1027,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61017,,,0
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,31370,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,8934,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24198,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,71101,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76981,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3163285,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3056,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119299,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54770,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4343669,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13812448,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1438817,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81068,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18888,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10971780,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70752,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8195177,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1545332,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41570,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48101,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2721,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2778826,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7752792,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1581964,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35209102,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4240855,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,212709,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9498,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12393653,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,850009,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67792,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3134787,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,779692,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220000,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5934,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422465,,,4
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3727557,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14524,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1818157,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4692,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195925,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28638042,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,520352,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14501242,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6924641,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1566569,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20820,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69437046,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2371869,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66550,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41718235,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45532066,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53381,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16580354,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18569,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2002,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1620144,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21071,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49400442,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14404833,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,442507,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33795537,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29952015,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246629468,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,619675289,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292442,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1625078,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231651,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5781,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10083139,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226760,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240562,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3205908,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111421,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18915376,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4362434,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764105,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276160279,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3859073,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8041749,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25996907,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17757066,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,177838071,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41862682,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,108460,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144453,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,186259445,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33503630,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163167,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,782278,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7860617,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,222864,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57256,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2811023,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795003,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3385,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6858759,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377228,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5452,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3973339,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1223615,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,1528,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,57131403,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1996275,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3512883,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2319,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1334786,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1832344,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11771788,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,929519,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5059530,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18994,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26837,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,340953126,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13746705,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103673354,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70408,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,710,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48425484,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13838911,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91594,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3999980,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49667576,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6468479,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1942445,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226326829,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55816877,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23111,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207459,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1331639106,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,964915029,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118249285,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135708569,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8611974,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6124905,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1293,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8229,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,432900260,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940159392,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63187862,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,932760,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6879,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3146005,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39940991,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8409641,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704458,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136132329,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173249426,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64146,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1824061,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,730657810,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,364041448,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36801,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2828788,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69191760,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,969287849,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74080770,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40852956,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,238402513,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115364743,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130320384,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,494681854,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148008,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1557073,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64358,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8539460,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27440,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2476015,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1751550,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,646566,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,395307,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22576,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11836568,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12135,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10086,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4316046,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15359759,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2757489,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4933977,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10440143,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5656741,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28974030,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7048304,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20569647,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,640587,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13864329,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,592268,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40029,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84164167,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7199382,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5240055,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33991287,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,216700222,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19356172,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,690,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56639931,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164469918,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192317942,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172069462,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231902142,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12790775,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81776969,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133700762,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,333,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6669746,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1421699,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30595,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125762,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5531,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37041,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47407,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2962,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020569,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416153,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,218119,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24241,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9430,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93694,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65910,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435630,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50510,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,872558,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116362,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3558844,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,193012,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199873,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1209544,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51021733,,,4
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9615,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20280,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14417,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70129,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,18353,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1106948,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,601,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,499895,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,46913,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,14385,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,18127,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,36508,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,772771,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,11350,,,0

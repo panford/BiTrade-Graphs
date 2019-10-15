@@ -1,0 +1,637 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163847,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33428,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112927,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22469,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1249306,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275175,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50067724,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,305711,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58175,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10152,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156523,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,436,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17321,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11145892,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13519975,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79344963,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148449,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2106733,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41268,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17418973,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7647699,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8905889,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440,,,0
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405345,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,576,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,386154,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4891808,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148998182,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35301256,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110681918,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231623,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4560,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,389,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66496,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67034,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6942,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268529,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351732,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,101987075,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,971794,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67063697,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49280,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3099326,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14295,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,774599,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692669,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2192825,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51703,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175365,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252853,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8694,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,308090,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126499,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3997000,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4249100,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1113200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526800,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,409601,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15989729,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1956857,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,13504815,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4923374,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273392,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27119,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1019114,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184711,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2595793,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4741,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181910,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166681,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113530,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9751648,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6862,,,0
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,786505331,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,859154381,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22435009,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,762149251,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18269177,,,0
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3096407943,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,848219,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52066,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24034575,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512771,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,351447,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316887,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1183,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84949,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1818,,,0
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21779,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,176545,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,291148,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,80736,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,14536155,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14980977,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416957,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527393,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57839,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45585,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1861364,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,377436,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,60492996,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149438740,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149438740,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131270,,,0
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6895030,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14592421,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7049825,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35213,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3399,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4884416,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7845872,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8978596,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13181036,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176048880,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3517037,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47119,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110591,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13691,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28112,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8996,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,505355,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14874,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2393,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89746,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3680,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2707,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155225,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20348,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,341481,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306636,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300076,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13986,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304302,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1569285,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,504170,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42123,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4821103,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15412567,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8151517,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161626,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43190719,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204747712,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349146163,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,632064239,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79800,,,0
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4337096,,,0
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112432286,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77989630,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73525822,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,142456941,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16795911,,,0
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446051777,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11241188,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6933959,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26975445,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3781206,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24326397,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95295246,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15692,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2545,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9644549,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28750,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1573,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21704,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,945,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,183896,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1909169,,,0
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051451,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7376212,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70847465,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65405,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191422,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1276074,,,0
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1864362,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4817245,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136035,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4019,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7557,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,975681,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39768,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38821,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2620095,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99324231,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7855228,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53286794,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60771795,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,261147,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1119585,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,788667,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360555,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36785,,,0
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3897442,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9415468,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6786588,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452652,,,0
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2198000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5394000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,556000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123159906,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34741776,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98639,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,167760879,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90259373,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,243335,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517541,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1231002,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35056258,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,284870,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177476935,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21726522,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8244363,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123216020,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12936186,,,0
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1325377682,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1369,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349679,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210602,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1191642,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162447,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48330,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,889249,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24518755,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6467724,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4673145,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31467720,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27618394,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6866560480,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35620,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51855,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2720867,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448253,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8860,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1515875,,,0
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1723413,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,940024,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63645,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25011,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,448732,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1580770,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,565,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91953,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,126300,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190781,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3471,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97343,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,822671,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,506096,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,795535,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,380,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13019,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3679,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22277,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376565,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665119,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144718,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35915,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93451570,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76192216,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010084,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,259443,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11788,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86124,,,0
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62067482,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3932393,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84264592,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472737,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,517353,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4088880,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23841,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,935,,,0
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2750,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3595252,,,0
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283000,,,0
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5652076,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111651973,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,692786,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130399969,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11388,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10016,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41980,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205768,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329624,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184343579,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,764799,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6157221,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581068,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3802,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446288,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5695146,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,893747,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2742,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73421,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6844,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2729,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8412175,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2192572,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1341159,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,832886,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4349157,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3925533,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,749,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139578,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92355937,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64008936,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48342574,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73104764,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133618499,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20743,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,598933,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4816541,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53318693,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,439158,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44585,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4112712,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,214023,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36480,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5888,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16762181,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2609800,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1842783,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12416582,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,232997,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3143101,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2241,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10507383,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120815,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4033341,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19459811,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23140,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2248,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70119,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99239,,,0
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2846226,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158319,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143347,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,653664,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173265,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5760,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787663,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24885,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16529538,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8351283,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9175093,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5878181,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6374104,,,0
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21887614,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13890861,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22779278,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5914268,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43469,,,0
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843641,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13541874,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1142857,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2640075,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,331565642,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11920368,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14626403,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7484862,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4513417,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5036,,,0
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296405,,,0
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9811,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7922930,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660650,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1070098,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33787,,,0
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4376520,,,0
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67360169,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18423560,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,765824207,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,133746,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68110,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5210,,,0
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152844,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,734039,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6989804,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6824,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12760,,,0
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,348744,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1852938,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967766,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926992,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26112270,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172825983,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404994225,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,571621,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37918666,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,303000187,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174697384,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106013925,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95227886,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41491403,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60792058,,,0
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71266,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1146190,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4305198,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12238178,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5787450,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12541,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1023010,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,306259621,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4360183,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61911940,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37854198,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22164,,,0
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1281241,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75498179,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77714450,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56046560,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16823308,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78828322,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59476210,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2417,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439206,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,439206,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45110551,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86735602,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3782202,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65163963,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26719660,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,155126508,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4258,,,0
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14689,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,153213,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85962,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1102,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1464649,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18804415,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,215054981,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,105120292,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,819222,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1157691,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,400193,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28391,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7902053,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2403928,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4381176,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63404250,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127859316,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3368107,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,295686191,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61421605,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5439097,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37527697,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,557113097,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18309607,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1887,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,863105,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48641,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2011169,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26170,,,4
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163477,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8222,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217483270,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111236,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31070,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95535,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,158,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5663795,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581279,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46354813,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54990,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33265,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1216655,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54280,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,691,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,398,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3428,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18943,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488265,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652174,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46675908,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67261,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3674533,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1091680,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8618,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,809826,,,4
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106915,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40126,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3626717,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28343838,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,402302,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125341,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7713,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14328,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59039,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20509,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1552,,,0
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66843,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1236,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59168355,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37783,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5406527,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59360,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,342495,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108238833,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19389418,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2064212,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1054213,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1726,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126525,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20200,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,418456,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70787063,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10750956,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59992,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21292,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134382,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10055861,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260035,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13317626,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10660339,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164789,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,205670,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,482824,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,3875457,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2841997,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6204397,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6512595,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32301,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452200,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6419,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52752,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7764582,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,51395,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33960227,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11468311,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,804253,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4890,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146391,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70943,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47873834,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,526679,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2554281,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70390,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,515,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,260057,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1355408,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3174467,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2546212,,,4
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475146,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18320833,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3386772,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4461649,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7735404,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3010915,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13388,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1343271,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6248722,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76746420,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2621412,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,177932,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820615,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7522401,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11444311,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53827141,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6361475,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2592012810,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15632759,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3296897,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64807743,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31515077,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13132643,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1314382,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25600,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103769412,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,185978,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7356248,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13402702,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12092836,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91727,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4632,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46273,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36478,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36478,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2231517,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22185008,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112766,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1406566,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18742,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264840,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3237276,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1520550,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1246,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3551804,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,67119109,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353300,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,911308,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1283231,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42669752,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,864539,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18922376,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1358108,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30889573,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,596841,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9120,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2070387,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,252125,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20588,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11929,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111840,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,66,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1094,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202246,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35802426,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13360382,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223242,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1489994,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1091056,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2464114,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71415,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,25662,,,4

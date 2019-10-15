@@ -1,0 +1,1438 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5625583,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3963520,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27063592,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3839340,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46839954,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4049934,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72038,,,0
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4940,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1744756,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219468111,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48196052,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602963696,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10169231,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,583736290,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1606169601,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1486057,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3463406,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117269783,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1718301,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,138025,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2204363,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,452446,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2679,,,0
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18044841,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,323208,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19230,,,0
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29001,,,0
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1602139116,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1332118977,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26727948,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49276246,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5433993023,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4542858705,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5698628,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34855536,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16719986,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5819351,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129273341,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,684812344,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,316568636,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512543970,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2666813705,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4180542121,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2064650,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12666700,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128771024,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21395601,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85901297,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92423796,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29082889,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115405769,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9968518,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157353,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33600463,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4701867,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1017807,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8540,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,321863,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10671,,,0
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9725,,,0
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10291,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2531442461,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4283643664,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500477772,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746046575,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19637750880,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36217354115,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172995421,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143358001,,,4
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20582026,,,0
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121639562,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50723,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83377,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43563226,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512220,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1370,,,0
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,143225,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7103286,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,367356147,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1092719,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1704771,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345346,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17907,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54297011,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50166468,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194682,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49214,,,0
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45658777,,,0
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9627955,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454192,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8430788,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11053215,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23529671,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9701441,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90585740,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48311724,,,4
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83541,,,0
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,225650,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8626732,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186918809,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2508052810,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24494367,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129462620,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2304305241,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2844277431,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52679,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29844744,,,4
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1323900791,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2348121791,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5335737,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3976613,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126956,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131966154,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11338829,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9902,,,4
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227690,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2817,,,0
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30964223,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,186038394,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,518503357,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170360763,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,538057867,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,736359009,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16244432,,,0
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6442430,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6248519,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,824495,,,0
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99709582,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70537984,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56929604,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2728016,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48450772,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288874895,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7379,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57877,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,123750,,,0
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,423996,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11783800,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62522800,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1213519300,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3355316400,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249300200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2381738900,,,4
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43014400,,,0
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1268700,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2019600,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22578300,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,145349451,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1235217063,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141132728,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,86574236,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,206730192,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7327954,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6852457339,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13635952741,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,435017114,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10566434,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44903637,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1363320,,,0
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,60273064,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73864808,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3701148,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1563891114,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,301178590,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26997501,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113931581,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35199922,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7226694,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,267830305,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1043182453,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7969072,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2518022,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9855114,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7466,,,0
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324690,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2239025,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42417604,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139292929,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5877395,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16913991,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561692195,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579192166,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,574576,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347403,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140009179,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122827939,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12311158312,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28723965341,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2339641836,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5040644515,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,22328955902,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,56713517329,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335859050,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3119554166,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2650217225,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2151523503,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18110885,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26289930,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45043881,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18937670,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,462652935,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,403092887,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171512,,,0
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2572371,,,0
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64827829,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36132467,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39812434,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26645269,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8141784,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14316,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103737670,,,4
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94011702,,,4
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,457548,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,73188,,,0
+H5,2017,2017,2017,0,0,1,Import,178,Congo,COG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78399574,,,0
+H5,2017,2017,2017,0,0,2,Export,178,Congo,COG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,21343898,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4079959,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3891853,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14180636,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21671037,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129694699,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219288744,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42295,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5984,,,4
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35299265,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1432364,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1010096,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29155063,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26620826,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32614929,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,298568007,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,237114520,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,26876,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1399050,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,33883,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278513,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,35297707,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55553926,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31576791,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46881468,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9977962,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,528264,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,569929810,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190404261,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59374224,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,404915,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3234739,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,85417,,,0
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1098189,,,0
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2451450,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2399268,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96369201,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837342954,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,963880282,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1214566387,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4258895441,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9026391182,,,4
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9049206,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15604830,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14035685,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8284038,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40563534,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,472100282,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,146079516,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240692963,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3624527698,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7531768540,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6146260,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11735079,,,4
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33333322,,,0
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48226898,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8886036,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9421365,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4113355,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190972,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156799382,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102347670,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,820488,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,40480,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56244474,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1520318,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13672928,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41290021,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1310318,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70733093,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128884244,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,199860254,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87135,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53799543,,,0
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26022404,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9539322,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134473,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,683575,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88902,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45042075,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12520542,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,273588,,,0
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26999250,,,0
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,176682,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3282396,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45454715,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121367467,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,157413144,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,512358265,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,324042167,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369890,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,895722,,,0
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,896257,,,0
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12601486,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4351025,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4392545,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2525014,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156731,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162996,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,787,,,0
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19137997,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51047712,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,513606,,,0
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11347527,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349204168,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72994009,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,220330536,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2051796770,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2911936521,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4839333,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50057376,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32653250,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34423686,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1241908886,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3842976844,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,581243569,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,960284033,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31123289033,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35050753878,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76500805,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60024099,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130118174,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,181547549,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1219956409,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12653155985,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2553006261,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5161939196,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40956677147,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95827735055,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115331898,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179425128,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315071165,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,287934553,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63630475,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,288895279,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,207153005,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140992239,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1259952459,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1245506253,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14204176,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2565508,,,0
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2430309,,,0
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7417777,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63914,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198717,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5818543,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2577,,,0
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18572,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6200032,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,83748101,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,486812,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39944540,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39943304,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97663262,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2252372,,,0
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88949947,,,0
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1080667,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410158,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2311941,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114886,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6491010,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22663775,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92979474,,,4
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293700,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42222,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52511596,,,0
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,976206,,,0
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4365509047,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7732467277,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57593147,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210472279,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8032747887,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9326269666,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31010540,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89858293,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53730417,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100650787,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12343368,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,198680490,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1828811938,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1932741520,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2072693749,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3946512975,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,99330,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3337265,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3613736,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7378544,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,716822,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2601792,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2087171,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17815265,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,405292328,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,456653207,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74672,,,0
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30835,,,0
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128946,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2080212826,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1630063289,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539081168,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,296889108,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1050048027,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1407592283,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26006584,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277412239,,,0
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13263220,,,0
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32328206,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8179952082,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6696657212,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,163324296,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29519796,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1105876593,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48548794,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14256486,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28336061,,,0
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166600114,,,0
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310432,,,0
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27958332,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451434281,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55210467,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,49878775,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19592679137,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16333249188,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,827029,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27880248,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4826200,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16311512,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114427000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129899000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4306655000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5168083000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9854000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13578000,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164304000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18595000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1161809595,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6030810232,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127883302,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171393,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2798124737,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1564634312,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8385607,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23193373,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13048691641,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26195222433,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,759087877,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45642392,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46993398,,,0
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78751799,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6314851,,,0
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310736751,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,254106196,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,229968,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20741993704,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7219060230,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,630748802,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,454133597,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7069033100,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13725311242,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119061707,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,311525418,,,4
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48920640,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63213026,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84298312,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558763402,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,462149926,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1138401477,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,358972204,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,926762634,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2310540,,,0
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1510,,,0
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1673691,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,993754988,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349446445,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62890541,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,202950835,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7345018,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1718979,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359161831,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40190820,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16501082,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1413160,,,0
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028193,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48646,,,0
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14319005,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106018,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9557058156,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5388883458,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539313411,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,258559627,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6318744010,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8629047395,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40382228,,,0
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124818572,,,4
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115040288,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115477660,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2928612634,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,589498799,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29277519,,,0
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11753984,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,896567677,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29804966,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,625345,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2087490,,,0
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8057301,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8637599,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30698496,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38889551,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3545238,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14534663,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,191165889,,,4
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1074,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,359819976,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265762152,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441552480,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1029276,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446675771,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37413202,,,4
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372033,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3097812,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7932853,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1051460,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165689,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25197,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4878012,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,652079,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2326,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154303,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15382,,,0
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5931152,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122010334,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170171982,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,131125192,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,357549789,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,675422240,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139180,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,356533,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14255,,,0
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,897080,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3466449,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,151013308,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268140143,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,837840049,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967694689,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1025775436,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2162632,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2376402,,,0
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1260631,,,0
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7577295,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30236812,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52422933,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51317,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48417642,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13408444,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32649,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,304467425,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,487720455,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172313,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,188081,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1487692,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,797945,,,0
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,373333,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228284,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,276448598,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78854358,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145836,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2389925,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69281,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52642425,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44127675,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33183,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3464773,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3330854,,,0
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22389,,,0
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46724,,,0
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3063936014,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2798971325,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102770952,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106641007,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1587756026,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2272131383,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61157388,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,226239143,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12342183,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38735164,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,437969689,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,539612,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1053707,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18593934,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11396492,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50751,,,0
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4710,,,0
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112485301,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31377956,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1847984,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103188,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111028238,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249533595,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5979957,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1671869,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1659209,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3876284961,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1337832312,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89405728,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,122143962,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1946973499,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3791806832,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14420367,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27749188,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16224684,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56710201,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1945803,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2927542,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2485490,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27312467,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98431,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,401,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29364823,,,0
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,660535695,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1954005,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37427,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6913,,,0
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21445,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,312594,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1558789,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11161814,,,0
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,978063,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24478153,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6083469,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22854,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2776,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522254553,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,96868949,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,366854051,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24334417,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1019200038,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,605876744,,,4
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5112070,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25958914,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6551640,,,0
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16610730,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10282720299,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2255424572,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,406029526,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21104988,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3125679,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,268260,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,475073127,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113688033,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69483385,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45590360,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37593013,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18932354,,,0
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,808790,,,0
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,773932,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102037290,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,208375462,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48737475,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372371,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,277494,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108942,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53397089,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43943356,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1036144,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24068,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1725313,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,477193,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,279150,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33350,,,0
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3821400,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11416,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1156991978,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3189433888,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1543650719,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967426324,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24010933618,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43410699928,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54053668,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95836046,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,568780575,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,137335941,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1422244784,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,620494937,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32209185,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7121504,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8778661,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10038,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1234073194,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1028107926,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,40728792,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3894341,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3463753,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,15032,,,0
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4043324,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10598974,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,165270,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,355859,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5670600,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,385255,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166527,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16437815,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80218833,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12564,,,0
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15086381,,,0
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,117164,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,46921256,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,476227255,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60921049,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166212307,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4065652869,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21523276303,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2188970,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5121963,,,0
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,44142491,,,0
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13572041,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7523994442,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,869050183,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37604670,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8883284,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,161695236,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42125382,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,766014848,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1634955498,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11329000,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4506631,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13075939,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,104444793,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,901876,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179378,,,0
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1639307,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9316164,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63412359,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32575662,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,410506,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12050,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42448828,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,97712252,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,879120,,,0
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,112931803,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,219243317,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22374561,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,602478715,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22555394,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1622677,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,264431426,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,729374807,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7402,,,0
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,192356705,,,0
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39744785,,,0
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195729623,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,549823851,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2394178768,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4784483781,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5097159603,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14071242382,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27698228,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81286119,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54383146,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20376449,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19210985,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,179309229,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,278187400,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35049578,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2105805572,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4119688200,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22677819,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6680924,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92338107,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10261195,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,52996268,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313228576,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,905971590,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,545670995,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1907871666,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2890370100,,,4
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10193269,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3338168,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5804268,,,0
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6376441,,,0
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,169047695,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1367681261,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4935816853,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,7940787715,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4026549194,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5645826437,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54264444,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,149831187,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,126199281,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30413115,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15564732,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90775556,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,249815059,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,107824208,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265677277,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,315817703,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10632511,,,0
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372705,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1354813,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,704419,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23115459708,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28636263302,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2777420239,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,330647244,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4344085719,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8954722988,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1112108405,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1568207824,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24251043,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,190128746,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17907073,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,204294350,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,717358566,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,527075878,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2017600712,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5089780317,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,110494,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3048226,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3646303,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4429849,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,6582034,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,88675226,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47196029,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,162510383,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,448597787,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,608634225,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,654204,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,108028,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4616305,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2244771,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1111118224,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1756771239,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118790826,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115742967,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2494197946,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3473571980,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,33857591,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,451546919,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35849363,,,4
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,30086455,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381998644,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1970772698,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1486257466,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,441371744,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12914878538,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21370848728,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22682495,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41514662,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111981011,,,0
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,251212498,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1093602618,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1706632882,,,4
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,113162818,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64285,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102027948,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15894650,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40799,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230723,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,352162,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57121070,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,722105771,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100958787,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,381081510,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7936218389,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9164812813,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9429788,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,58107468,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6210455,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43570172,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10011384430,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4086419153,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,178468642,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320150341,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19384025295,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16914398934,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,294398203,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14733211,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,71821924,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,172566939,,,4
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,529725148,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135817494,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92428952,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6781929162,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3554408265,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3039475955,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938754516,,,4
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1162601570,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,931336712,,,0
+H5,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17582531,,,0
+H5,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26026283,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22644335,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5546920553,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9184156725,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2817132553,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1340709479,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6548620390,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9603188772,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48737087,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,115827621,,,0
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,388658685,,,0
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41718881,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1753590,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3070663,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70874536,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6626306,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,780175786,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76822343,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,376158,,,0
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9647298,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444,,,0
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2235483073,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9641434304,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,497697325,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,524649448,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4496972364,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,826,United Kingdom,GBR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4496972364,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20896616,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114233683,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70861213,,,0
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,227629747,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,596045597,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,87878973,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6957973,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,408501,,,0
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160352764,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18176576,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18109,,,0
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35270,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4474244965,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20078587124,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3485808105,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1074163194,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1788512886,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,79963717,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54171521570,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56242315595,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8453583106,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127201541,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,145290295,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15382935,,,0
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,607828470,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1587654567,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,345204515,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35799619,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8650559,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,416715,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1315509,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90296908,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47465621,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13361,,,0
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15942,,,0
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14514312,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,858,Uruguay,URY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14514312,,,4
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,468023711,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,293709697,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,121155,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1350504,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141783740,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,184561269,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1953119,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,165213057,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89889335,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,894,Zambia,ZMB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2544337,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,559948,,,0
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217904,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22773161,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11358399,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,460392902,,,0
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,428787737,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,239861506,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41293085,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,440285,,,0
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50992,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48704335,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,217838287,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16839911,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43402981,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,497924628,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,779609994,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,310193,,,0
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21127925,,,0
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,490628636,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1202803759,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,125494880,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,976887995,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313514,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43611122,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41045846,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,171662,,,0
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,677604,,,0
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,129553,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3448179,,,0
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,102787,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,40353,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11478575,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76754144,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1495317,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,888844,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,118434,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,16789,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2331,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11951,,,4
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,855663,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3669449,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56771035,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38267562,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92290,,,0
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,90772,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5707813,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5067212,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6819,,,0
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59237178,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1299686,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38449,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,390,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60717812,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9957089,,,4
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60460748,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24853732,,,4
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,228924,,,0
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,702272,,,0
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5423804,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,543413,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,813200,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2515426,,,4
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64799,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8474183,,,4
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4574224,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,714926,,,0
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13180453,,,0
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35346,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,89861170,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12099194,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5941634,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5073513,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25459447,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,141222,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,64640,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,845,,,0
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,925464,,,0
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5113,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,144970985,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37406172,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22575950,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,500,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446035622,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,124536211,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45840358,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,82151,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,98715758,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13204437,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2036587,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23853,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,998289,,,0
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1297311,,,0
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45701,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6768979,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29947,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,360011,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10800663,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,81759,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2123,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,307515376,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,800769245,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76785558,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37353513,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1099103121,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,329469633,,,4
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1108958,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,446739,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,594874,,,0
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1727475,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,61515686,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,38678543,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48121835,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,93227,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156170140,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,353155023,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1107251,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5581259,,,0
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2297764,,,0
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2126573,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3690441,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14324990,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,843375,,,0
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2214,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,74219448,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,51508073,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1615885,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3917247,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16275,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,300,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1338352213,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,255096052,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50248196,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,92056519,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6517790,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18203,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,288891914,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,372946537,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2722445,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,166178189,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,275903935,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,56105120,,,0
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14493988,,,0
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,173635051,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11839378,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,335941,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18487834,,,0
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,135072194,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32684034,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,43369701,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,68181093,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148,,,0
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,608844,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,37106108,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29494257,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22808241,,,0
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,154230,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21598120,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3121299,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,233648,,,0
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,80319,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,313831842,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6606530,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,50076595,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2949846,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25267589,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,16489,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8572,,,0
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11219591,,,0
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,398959917,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,316066784,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,191178312,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20862442,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2426975503,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2274734903,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2501615,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9453327,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,369493919,,,4
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,221216699,,,4
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1887241,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2462729,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,558577,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,511098841,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65524037,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18737562,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39365,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,57121579,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136149067,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47662446,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17010,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34463,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,561794,,,0
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,103578,,,0
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,531210734,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54582052,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,2080879,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2173111,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,36999570,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,210824609,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,4969424,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10815527,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,23039,,,0
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31294,,,0
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,175087743,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8091300,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60805686,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,77052,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24661221,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25358574,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1071342,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29034,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25941,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19607607,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2415789,,,0
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,379249392,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,200714225,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,119759836,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,42794,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1207027479,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1199897876,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6410633,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,579046,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27163402,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,242778156,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2446,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,11330,,,0
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,250055,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,866137996,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,658037370,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,152241071,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2555814,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,553923062,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,522182123,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1761137,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1151069,,,0
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,72161259,,,0
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12989964,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,244498,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,231474,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22605,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29381831,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11218348,,,4
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344239,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8754885238,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8073710700,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3335975913,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,665444180,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35497750,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,666874,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3129462353,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,555051845,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,383568051,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8872414,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134371083,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5852948,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9912828,,,0
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10400884,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5771607,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,160336289,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134112773,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,95804508,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,938442,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,65306644,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,60291072,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1022150,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,699639,,,0
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7470452,,,0
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8961,,,0
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8834085468,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3670474260,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,100286861,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15009065,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5539984448,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3054261606,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12074208,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,31586561,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19445849,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,18953500,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,569834178,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5026907572,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,109497949,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,246108056,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,747140499,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5415115561,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,347265335,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29014130,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,48922999,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,69632921,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75638065,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,223253293,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,164698,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,111395442,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1349211,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8604923,,,0
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,128275,,,0
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,265423,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1946814,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,604168,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,156861,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27758,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4120121,,,4
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,10146184,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,45172,,,0
+H4,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,35306565,,,0
+H4,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,114272,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,22663310,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26492765,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,26381457,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9496897,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240880,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,240880,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,9631520,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,541853,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180083,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,21870,,,0
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1449916,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,768,Togo,TGO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1418332,,,0
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,197030,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,136637961,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,78811134,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,349723117,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4311442,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,262497356,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,325062489,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,422577,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2396154,,,0
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,41641444,,,0
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,292557,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,659716295,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,444897784,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19759603,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,27567379,,,0
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,915914,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,488752,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,70591115,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13770626,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1292764,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,91794411,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,49796112,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7275103,,,0
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,320217,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,59297032,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,384773177,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,783876813,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,480097130,,,4
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,15634554,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2736195,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,6902693,,,0
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,134022,,,0
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,967529450,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2740609660,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2325496894,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,54994538,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1593437476,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1088637357,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1730660,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,29226499,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39009667,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,,,10682831,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7886380,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1695782,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,17597508,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,309313,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,39116631,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12067062,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8098,,,0
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1057173,,,0
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2350925,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1401,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,263212,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3969387,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,140789,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3232978,,,0
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5234,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5031,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127697,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,34479389,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13019715,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,13007967,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,735,,,0
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,116902,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2471750,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,53737863,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,7100,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,746614,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47892340,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,148490,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,36862708,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,127299921,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,63347,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3428456,,,0
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24698,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2676,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76803,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,47968,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5933911,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,195476,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,174933,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,2412,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1721,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,120612,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,25770,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24348724,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,391545,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,62748,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,884,,,0
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,230823,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1566760,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,20879,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,130464,,,0
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,86443,,,0
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,5532,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,344590437,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,211264424,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,180143091,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,662316,,,0
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,170574,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,75828357,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,76805287,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196730,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,139882,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,55345124,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,94630,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,84270,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3102409,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,32768919,,,4
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8470013,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,8179660,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,196333,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,168389,,,0
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,19745335,,,4
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1161889,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,106931942,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1198160,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,1020,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,3408214,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,194237,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,9418,,,0
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,4935,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,236827,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3811324,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2555731,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,122734,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,162,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,63998880,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,15908227,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3557167,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,18600,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,3980,,,0
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,4628317,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1902,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,936215,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,16000,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,13680,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,1085130,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,0,,0,,2836,,,0
