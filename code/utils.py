@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from torch.nn import functional as F
 from torch_geometric.data import Data
 import numpy as np
+from sklearn.metrics import jaccard_similarity_score, f1_score
 from sklearn.model_selection import train_test_split
 from torch_geometric.nn import GCNConv, GAE, VGAE, GATConv, AGNNConv, ChebConv
 
@@ -12,6 +13,10 @@ def makepath(path):
     if not os.path.exists(path):
         os.mkdir(path)
     return
+def eval_metrics(ytrue, ypred):
+    jac = jaccard_similarity_score(ytrue, ypred)
+    f_one = f1_score(ytrue, ypred)
+    return jac, f_one
 
 def getdata(infilepath):
     npzfile = np.load(infilepath, allow_pickle=True)
@@ -127,21 +132,21 @@ def classifier_train_test(model_name, input_data, output_dir, epochs=1000, lr=0.
         _, pred = test_out.max(dim=1)
         correct = float(pred[data.test_idx].eq(data.y[data.test_idx]).sum().item())
         acc = correct / len(data.test_idx)
+        jacc, f1 = eval_metrics(correct, pred)
         if best_val_acc < acc:
             best_val_acc = acc
             best_epoch = epoch
             best_train_loss = train_loss
             best_test_loss = test_loss
-            log = 'Epoch: {}, Train: {}, Val: {}, Test: {}'
+            log = 'Epoch: {}, Train: {}, Val: {}, Test: {}  jacc, f1'
         accs.append(acc)
         if (epoch % int(epochs / 10) == 0):
-            print('Epoch: {}           Train loss: {}   Test loss: {}    Test Accuracy: {}'.format(epoch, train_loss, test_loss, acc))
+            print('Epoch: {}           Train loss: {}   Test loss: {}    Test Accuracy: {}    Jaccard: {}  F1 score: {}'.format(epoch, train_loss, test_loss, acc, jacc, f1))
         if (epoch == epochs):
             print('-' * 65,
-                  '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}'.format(epoch,
-                                                                                                                  train_loss,
+                  '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}    Jaccard: {}  F1 score: {}'.format(epoch,                                                                                                            train_loss,
                                                                                                                   test_loss,
-                                                                                                                  acc))
+                                                                                                                  acc, jacc, f1))
     print('-' * 65)
     print('\033[1mBest Accuracy\nEpoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}\n'
           .format(best_epoch, best_train_loss, best_test_loss, best_val_acc))
