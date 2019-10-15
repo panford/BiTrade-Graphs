@@ -132,21 +132,22 @@ def classifier_train_test(model_name, input_data, output_dir, epochs=1000, lr=0.
         _, pred = test_out.max(dim=1)
         correct = float(pred[data.test_idx].eq(data.y[data.test_idx]).sum().item())
         acc = correct / len(data.test_idx)
-        jacc, f1 = eval_metrics(correct, pred)
+        
         if best_val_acc < acc:
             best_val_acc = acc
             best_epoch = epoch
             best_train_loss = train_loss
             best_test_loss = test_loss
-            log = 'Epoch: {}, Train: {}, Val: {}, Test: {}  jacc, f1'
+            log = 'Epoch: {}, Train: {}, Val: {}, Test: {}'
         accs.append(acc)
         if (epoch % int(epochs / 10) == 0):
-            print('Epoch: {}           Train loss: {}   Test loss: {}    Test Accuracy: {}    Jaccard: {}  F1 score: {}'.format(epoch, train_loss, test_loss, acc, jacc, f1))
+            print('Epoch: {}           Train loss: {}   Test loss: {}    Test Accuracy: {}'.format(epoch, train_loss, test_loss, acc))
         if (epoch == epochs):
             print('-' * 65,
-                  '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}    Jaccard: {}  F1 score: {}'.format(epoch,                                                                                                            train_loss,
+                  '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}'.format(epoch,
+                                                                                                                  train_loss,
                                                                                                                   test_loss,
-                                                                                                                  acc, jacc, f1))
+                                                                                                                  acc))
     print('-' * 65)
     print('\033[1mBest Accuracy\nEpoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}\n'
           .format(best_epoch, best_train_loss, best_test_loss, best_val_acc))
