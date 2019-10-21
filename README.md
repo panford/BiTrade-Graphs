@@ -52,7 +52,7 @@ Dependencies used in our experiments can be installed using either the requireme
 ### Notebooks
 Notebooks included show the steps followed from preprocessing of data to use on downstream tasks. Open [Jupyter Notebook](https://jupyter.org/):
 ```sh 
-   jupyter notebook 
+   $ jupyter notebook 
    ```
 Navigate to "notebooks" folder. First run all cells in the preprocessing.ipynb to process data and then training_nb.ipynb 
 ## License
