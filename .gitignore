@@ -3,6 +3,7 @@
 
 # Byte-compiled / optimized files
 __pycache__/
+code/__pycache__/
 *.py[cod]
 
 # IPython checkpoints
@@ -10,3 +11,5 @@ __pycache__/
 
 # Intellij IDE folder
 .idea/
+
+
