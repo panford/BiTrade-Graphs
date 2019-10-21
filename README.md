@@ -17,7 +17,7 @@ Data used for this experiment was downloaded from the Comtrade website.
    ```
 
 2. Install the dependencies.
-Dependencies used in our experiments can be install using either the requirements.txt or environments.yml files. Steps to follow are shown below.
+Dependencies used in our experiments can be install using either the requirements.txt or environments.yml files. Steps to follow are shown below.//
    1. 
    ```sh
    pip install -r requirements.txt
