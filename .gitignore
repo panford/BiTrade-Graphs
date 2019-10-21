@@ -10,6 +10,6 @@ code/__pycache__/
 .ipynb_checkpoints/
 
 # Intellij IDE folder
-.idea/
+.idea
 
 
