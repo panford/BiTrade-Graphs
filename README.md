@@ -13,7 +13,7 @@ Data used for this experiment was downloaded from the Comtrade website.
 ### Installation
 1. Clone this repository.
    ```sh
-   $ git https://github.com/panford/BiTrade-Graphs.git
+   $ git clone https://github.com/panford/BiTrade-Graphs.git
    $ cd BiTrade-Graphs
    ```
 
