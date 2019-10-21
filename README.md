@@ -28,16 +28,18 @@ Dependencies used in our experiments can be installed using either the requireme
    conda create -f environment.yml
    conda activate bitgraph_env
    ```
-   
+### Running codes
+
+ ```sh
+   cd <path/BiTradeGraph/code>
+   $ process_data
+   $ run_classifier
+   $ run_linkpredictor.py
+   ```
 3. Play with the Jupyter notebooks.
    ```sh
    jupyter notebook
    ```
-## Authors
-Kobby Panford-Quainoo 
-
-Michaël Defferrard
-
 ## License
 This project is licensed under the MIT License. The LICENSE.txt file has more details.
 
