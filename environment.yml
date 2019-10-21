@@ -1,4 +1,4 @@
-name: tgeom
+name: bitgraph_env
 channels:
   - pytorch
   - rwest
