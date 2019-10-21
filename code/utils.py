@@ -8,11 +8,21 @@ import numpy as np
 from sklearn.metrics import jaccard_similarity_score, f1_score
 from sklearn.model_selection import train_test_split
 from torch_geometric.nn import GCNConv, GAE, VGAE, GATConv, AGNNConv, ChebConv
+import csv
 
 def makepath(path):
     if not os.path.exists(path):
         os.mkdir(path)
     return
+
+def write_log(log, file_name):
+    with open(file_name + ".csv", mode='w') as log_file:
+        log_writer = csv.writer(log_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+        log_writer.writerow(log)
+        log_writer.writerow(log)
+    return
+
 def eval_metrics(ytrue, ypred):
     jac = jaccard_similarity_score(ytrue, ypred)
     f_one = f1_score(ytrue, ypred)
@@ -138,21 +148,29 @@ def classifier_train_test(model_name, input_data, output_dir, epochs=1000, lr=0.
             best_epoch = epoch
             best_train_loss = train_loss
             best_test_loss = test_loss
-            log = 'Epoch: {}, Train: {}, Val: {}, Test: {}'
+
         accs.append(acc)
+
+        figname = os.path.join(output_dir, "_".join((model_name.__name__, str(lr), str(weight_decay), str(epochs))))
+        makepath(output_dir)
+
         if (epoch % int(epochs / 10) == 0):
             print('Epoch: {}           Train loss: {}   Test loss: {}    Test Accuracy: {}'.format(epoch, train_loss, test_loss, acc))
         if (epoch == epochs):
             print('-' * 65,
-                  '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}'.format(epoch,
-                                                                                                                  train_loss,
-                                                                                                                  test_loss,
-                                                                                                                  acc))
+                  '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}'.format(epoch, train_loss, test_loss, acc))
+
+    log = 'Best Epoch: {}, Train: {}, Val: {}, Test: {}'.format(best_epoch, best_train_loss, best_test_loss,
+                                                                    best_val_acc)
+    write_log(log, figname)
+
+
     print('-' * 65)
     print('\033[1mBest Accuracy\nEpoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}\n'
           .format(best_epoch, best_train_loss, best_test_loss, best_val_acc))
-    figname = os.path.join(output_dir, "_".join((model_name.__name__, str(lr), str(weight_decay))))
-    makepath(output_dir)
+
+
+    write_log(log, figname)
     plot_classify(train_losses, test_losses, accs, output_dir, epochs, figname)
 
     return
@@ -198,6 +216,10 @@ def run_GAE(input_data, output_dir, epochs=1000, lr=0.01, weight_decay=0.0005):
         test_losses.append(test_loss.item())
         aucs.append(auc)
         aps.append(ap)
+
+        figname = os.path.join(output_dir, "_".join((GAE.__name__, str(lr), str(weight_decay))))
+        makepath(output_dir)
+
         if (epoch % int(epochs / 10) == 0):
             print('Epoch: {}       Train loss: {}    Test loss: {}     AUC: {}    AP: {}'.format(epoch,
                                                                                                                  train_loss,
@@ -208,9 +230,12 @@ def run_GAE(input_data, output_dir, epochs=1000, lr=0.01, weight_decay=0.0005):
             print('-' * 65,
                   '\nFinal epoch: {}    Train loss: {}    Test loss: {}    AUC: {}    AP: {}'.format(
                       epoch, train_loss, test_loss, auc, ap))
+        log = 'Final epoch: {}    Train loss: {}    Test loss: {}    AUC: {}    AP: {}'.format(
+            epoch, train_loss, test_loss, auc, ap)
+        write_log(log, figname)
     print('-' * 65)
-    figname = os.path.join(output_dir, "_".join((GAE.__name__, str(lr), str(weight_decay))))
-    makepath(output_dir)
+
+
     plot_linkpred(train_losses, test_losses, aucs, aps, output_dir, epochs, figname)
     return
 
@@ -252,6 +277,8 @@ def run_VGAE(input_data, output_dir, epochs=1000, lr=0.01, weight_decay=0.0005):
         test_losses.append(test_loss.item())
         aucs.append(auc)
         aps.append(ap)
+        makepath(output_dir)
+        figname = os.path.join(output_dir, "_".join((VGAE.__name__, str(lr), str(weight_decay), str(epochs))))
         # print('AUC: {:.4f}, AP: {:.4f}'.format(auc, ap))
         if (epoch % int(epochs / 10) == 0):
             print('Epoch: {}        Train loss: {}    Test loss: {}    AUC: {}    AP: {:.4f}'.format(epoch,
@@ -263,9 +290,11 @@ def run_VGAE(input_data, output_dir, epochs=1000, lr=0.01, weight_decay=0.0005):
             print('-' * 65,
                   '\nFinal epoch: {}  Train loss: {}    Test loss: {}    AUC: {}    AP: {}'.format(
                       epoch, train_loss, test_loss, auc, ap))
+        log = 'Final epoch: {}    Train loss: {}    Test loss: {}    AUC: {}    AP: {}'.format(
+                epoch, train_loss, test_loss, auc, ap)
+        write_log(log, figname)
     print('-' * 65)
-    makepath(output_dir)
-    figname = os.path.join(output_dir, "_".join((VGAE.__name__, str(lr), str(weight_decay))))
+
     plot_linkpred(train_losses, test_losses, aucs, aps, output_dir, epochs, figname)
     return
 
