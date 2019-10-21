@@ -29,17 +29,29 @@ Dependencies used in our experiments can be installed using either the requireme
    conda activate bitgraph_env
    ```
 ### Running codes
-
+* cd into the Bitrade-Graph/code folder
  ```sh
    cd <path/BiTradeGraph/code>
-   $ process_data
-   $ run_classifier
-   $ run_linkpredictor.py
-   ```
-3. Play with the Jupyter notebooks.
+  ```
+* Preprocess data
+ ```sh
+   $ process_data.py 
+  ```
+  This will create a "preprocessed.npy" file in the default path "data/processed" or a specific path using the "--outdir" command 
+* Node classification and Link Prediction
+   The classifier code can then be run using the command
+ ```sh
+   $ run_classifier.py 
+  ```
+  Results will be saved in the default directory "results". In the same way, terminal command below will  
    ```sh
-   jupyter notebook
+    $ run_linkpredictor.py
    ```
+  
+
+### Notebooks
+Notebooks included show the steps followed from preprocessing of data to use on downstream tasks.
+Open and navigate to "notebooks" folder. First run all cells in the preprocessing.ipynb to process data and then training_nb.ipynb ```sh jupyter notebook ``` as shown
 ## License
 This project is licensed under the MIT License. The LICENSE.txt file has more details.
 
