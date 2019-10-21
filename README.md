@@ -13,25 +13,25 @@ Data used for this experiment was downloaded from the Comtrade website.
 ### Installation
 1. Clone this repository.
    ```sh
-   git https://github.com/panford/BiTrade-Graphs.git
-   cd BiTrade-Graphs
+   $ git clone https://github.com/panford/BiTrade-Graphs.git
+   $ cd BiTrade-Graphs
    ```
 
 2. Install dependencies.
 Dependencies used in our experiments can be installed using either the requirements.txt or environments.yml files. Follow any of the steps that follows to set up the environment.
    
    ```sh
-   pip install -r requirements.txt
+   $ pip install -r requirements.txt
    ```
  
    ```sh
-   conda create -f environment.yml
-   conda activate bitgraph_env
+   $ conda create -f environment.yml
+   $ conda activate bitgraph_env
    ```
 ### Running codes
 * cd into the Bitrade-Graph/code folder
  ```sh
-   cd <path/BiTradeGraph/code>
+   $ cd <path/BiTradeGraph/code>
   ```
 * Preprocess data
  ```sh
@@ -50,8 +50,14 @@ Dependencies used in our experiments can be installed using either the requireme
   
 
 ### Notebooks
-Notebooks included show the steps followed from preprocessing of data to use on downstream tasks.
-Open and navigate to "notebooks" folder. First run all cells in the preprocessing.ipynb to process data and then training_nb.ipynb ```sh jupyter notebook ``` as shown
+Notebooks included show the steps followed from preprocessing of data to use on downstream tasks. 
+* Open [Jupyter Notebook](https://jupyter.org/):
+```sh 
+   $ jupyter notebook 
+   ```
+* Navigate to "notebooks" folder. 
+
+First run all cells in the preprocessing.ipynb to process data and then training_nb.ipynb 
 ## License
 This project is licensed under the MIT License. The LICENSE.txt file has more details.
 
