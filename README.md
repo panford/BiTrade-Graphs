@@ -9,7 +9,7 @@ Here we show how bilateral trade between countries can be framed as a problem of
 We also show that the likeliness of any two countries to trade can be predicted (link prediction). 
 Data used for this experiment was downloaded from the Comtrade website.
 
-#Installation
+### Installation
 1. Clone this repository.
    ```sh
    git https://github.com/panford/BiTrade-Graphs.git
