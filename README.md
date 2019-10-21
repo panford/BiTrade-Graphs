@@ -1,6 +1,7 @@
 # BiTrade-Graphs : Modelling Bilateral Trade with Graph Neural Networks
 
 [Kobby Panford-Quainoo][panford], [Michaël Defferrard][mdeff]
+
 [panford]: https://panford.github.io/kobby
 [mdeff]: http://deff.ch
 
@@ -33,7 +34,8 @@ Dependencies used in our experiments can be installed using either the requireme
    jupyter notebook
    ```
 ## Authors
-Kobby Panford-Quainoo \\
+Kobby Panford-Quainoo 
+
 Michaël Defferrard
 
 ## License
