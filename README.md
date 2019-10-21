@@ -32,3 +32,10 @@ Dependencies used in our experiments can be installed using either the requireme
    ```sh
    jupyter notebook
    ```
+## Authors
+Kobby Panford-Quainoo \\
+Michaël Defferrard
+
+## License
+This project is licensed under the MIT License. The LICENSE.txt file has more details.
+
