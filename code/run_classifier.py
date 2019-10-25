@@ -5,7 +5,7 @@ import torch
 from sklearn.model_selection import train_test_split
 from models import GCNet, GATNet, AGNNet, GAEncoder, VGAEncoder 
 from utils import classifier_train_test, getdata
-
+from hypertune import tuner, print_params
 
 def main():
     
@@ -17,6 +17,7 @@ def main():
     parser.add_argument("-epochs", type = int, default = 5)
     parser.add_argument("-lr", type = float, default = 0.001, help = "Enter learning rate for training")
     parser.add_argument("-weight_decay", type = str, default = 5e-3, help = 'Enter weight decay')
+    parser.add_argument("-hparam_tune", type = bool, default = 'n', help = "Enter 'y' or '1' for hyperparameter tuning or leave default 'no'")
     
 
     args = parser.parse_args()
@@ -42,6 +43,10 @@ def main():
     else:
         print("sorry! model not implemented")
         
+    if args.hparam_tune == 1 or 'y':
+        best_params = tuner(params)
+        print_params(best_params)
+
         
 if __name__  == "__main__":
     main()
