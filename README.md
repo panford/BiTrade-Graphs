@@ -18,7 +18,7 @@ Data used for this experiment was downloaded from the Comtrade website.
    ```
 
 2. Install dependencies.
-Dependencies used in our experiments can be installed using either the requirements.txt or environments.yml files. Follow any of the steps that follows to set up the environment.
+Dependencies used in our experiments can be installed using either the requirements.txt or environments.yml files. Follow any of the steps that follows to set up the environment. 
    
    ```sh
    $ pip install -r requirements.txt
@@ -28,6 +28,7 @@ Dependencies used in our experiments can be installed using either the requireme
    $ conda create -f environment.yml
    $ conda activate bitgraph_env
    ```
+   Check out the {PyTorch Geometric installationn guide}(https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html#) page for hints on how to set up {PyTorch}(https://pytorch.org/) and {PyTorch Geometric}(https://pytorch-geometric.readthedocs.io/en/latest/index.html)  environment with the right version of cuda.
 ### Running codes
 * cd into the Bitrade-Graph/code folder
  ```sh
