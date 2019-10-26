@@ -28,7 +28,7 @@ Dependencies used in our experiments can be installed using either the requireme
    $ conda create -f environment.yml
    $ conda activate bitgraph_env
    ```
-   Check out the {PyTorch Geometric installationn guide}(https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html#) page for hints on how to set up {PyTorch}(https://pytorch.org/) and {PyTorch Geometric}(https://pytorch-geometric.readthedocs.io/en/latest/index.html)  environment with the right version of cuda.
+   Check out the [PyTorch Geometric installationn guide](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html#) page for hints on how to set up [PyTorch](https://pytorch.org/) and [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/index.html)  environment with the right version of cuda.
 ### Running codes
 * cd into the Bitrade-Graph/code folder
  ```sh
