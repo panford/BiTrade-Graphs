@@ -61,4 +61,3 @@ Notebooks included show the steps followed from preprocessing of data to use on 
 First run all cells in the preprocessing.ipynb to process data and then training_nb.ipynb 
 ## License
 This project is licensed under the MIT License. The LICENSE.txt file has more details.
-
