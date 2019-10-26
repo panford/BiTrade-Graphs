@@ -1,0 +1,16 @@
+*~
+.DS_Store
+
+# Byte-compiled / optimized files
+__pycache__/
+code/__pycache__/
+*.py[cod]
+
+# IPython checkpoints
+.ipynb_checkpoints/
+
+# Intellij IDE folder
+.idea
+
+
+.idea/
