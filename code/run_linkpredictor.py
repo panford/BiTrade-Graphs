@@ -4,6 +4,7 @@ from torch_geometric.nn import GAE, VGAE
 from utils import getdata, run_VGAE, run_GAE
 
 def main():
+    
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type = str, default="all")
     parser.add_argument("--data_dir", type=str, default= "../data/processed")
@@ -15,6 +16,7 @@ def main():
     args = parser.parse_args()
     input_file_path = os.path.join(args.data_dir, args.input_filename)
     input_data = getdata(input_file_path)
+    
     print("Running link prediction...")
 
     if args.model_name == 'all':

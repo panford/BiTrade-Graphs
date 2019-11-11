@@ -121,7 +121,7 @@ def classifier_train_test(model_name, input_data, output_dir, epochs=1000, lr=0.
     accs = []
     best_val_acc = 0
     best_train_loss = 0
-    best_test_loss = 0
+    best_val_loss = 0
     best_epoch = 0
     model.train()
     for epoch in range(1, epochs + 1):
@@ -147,7 +147,7 @@ def classifier_train_test(model_name, input_data, output_dir, epochs=1000, lr=0.
             best_val_acc = acc
             best_epoch = epoch
             best_train_loss = train_loss
-            best_test_loss = test_loss
+            best_val_loss = test_loss
 
         accs.append(acc)
 
@@ -160,20 +160,19 @@ def classifier_train_test(model_name, input_data, output_dir, epochs=1000, lr=0.
             print('-' * 65,
                   '\nFinal epoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}'.format(epoch, train_loss, test_loss, acc))
 
-    log = 'Best Epoch: {}, Train: {}, Val: {}, Test: {}'.format(best_epoch, best_train_loss, best_test_loss,
-                                                                    best_val_acc)
+    log = 'Best Epoch: {}, Train: {}, Val: {}, Test: {}'.format(best_epoch, best_train_loss, best_val_loss, best_val_acc)
     write_log(log, figname)
 
 
     print('-' * 65)
     print('\033[1mBest Accuracy\nEpoch: {}     Train loss: {}   Test loss: {}     Test Accuracy: {}\n'
-          .format(best_epoch, best_train_loss, best_test_loss, best_val_acc))
+          .format(best_epoch, best_train_loss, best_val_loss, best_val_acc))
 
 
     write_log(log, figname)
     plot_classify(train_losses, test_losses, accs, output_dir, epochs, figname)
-
-    return
+    
+    return acc
 
 
 def run_GAE(input_data, output_dir, epochs=1000, lr=0.01, weight_decay=0.0005):
@@ -221,11 +220,7 @@ def run_GAE(input_data, output_dir, epochs=1000, lr=0.01, weight_decay=0.0005):
         makepath(output_dir)
 
         if (epoch % int(epochs / 10) == 0):
-            print('Epoch: {}       Train loss: {}    Test loss: {}     AUC: {}    AP: {}'.format(epoch,
-                                                                                                                 train_loss,
-                                                                                                                 test_loss,
-                                                                                                                 auc,
-                                                                                                                 ap))
+            print('Epoch: {}       Train loss: {}    Test loss: {}     AUC: {}    AP: {}'.format(epoch,train_loss,test_loss, auc, ap))
         if (epoch == epochs):
             print('-' * 65,
                   '\nFinal epoch: {}    Train loss: {}    Test loss: {}    AUC: {}    AP: {}'.format(
