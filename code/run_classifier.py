@@ -5,12 +5,18 @@ import torch
 from sklearn.model_selection import train_test_split
 from models import GCNet, GATNet, AGNNet, GAEncoder, VGAEncoder 
 from utils import classifier_train_test, getdata
+<<<<<<< HEAD
 
 def do_train(model_name, data_dir, output_dir, input_filename, epochs, lr, weight_decay):
     input_file_path = os.path.join(data_dir, input_filename)
     input_data = getdata(input_file_path)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("Running classifiers")
+||||||| merged common ancestors
+
+=======
+from hypertune import tuner, print_params
+>>>>>>> 9b85780fc5435c01d1211334ef1446fb0608f75b
 
     if model_name == "all":
         classifier_train_test(GCNet, input_data, output_dir, epochs, lr, weight_decay)
@@ -40,6 +46,7 @@ def main():
     parser.add_argument("-epochs", type = int, default = 5)
     parser.add_argument("-lr", type = float, default = 0.001, help = "Enter learning rate for training")
     parser.add_argument("-weight_decay", type = str, default = 5e-3, help = 'Enter weight decay')
+    parser.add_argument("-hparam_tune", type = bool, default = 'n', help = "Enter 'y' or '1' for hyperparameter tuning or leave default 'no'")
     
 
     args = parser.parse_args()
@@ -52,7 +59,33 @@ def main():
                         lr = args.lr, 
                         weight_decay = args.weight_decay)
     
+<<<<<<< HEAD
     acc = do_train(**input_params)
+||||||| merged common ancestors
+    elif args.model_name == "GATNet":
+        classifier_train_test(GATNet, input_data, args.output_dir, args.epochs, args.lr, args.weight_decay)
+   
+    elif args.model_name == "AGNNet":
+        classifier_train_test(AGNNet, input_data, args.output_dir, args.epochs, args.lr, args.weight_decay)
+    
+    else:
+        print("sorry! model not implemented")
+        
+=======
+    elif args.model_name == "GATNet":
+        classifier_train_test(GATNet, input_data, args.output_dir, args.epochs, args.lr, args.weight_decay)
+   
+    elif args.model_name == "AGNNet":
+        classifier_train_test(AGNNet, input_data, args.output_dir, args.epochs, args.lr, args.weight_decay)
+    
+    else:
+        print("sorry! model not implemented")
+        
+    if args.hparam_tune == 1 or 'y':
+        best_params = tuner(params)
+        print_params(best_params)
+
+>>>>>>> 9b85780fc5435c01d1211334ef1446fb0608f75b
         
 if __name__  == "__main__":
     main()
