@@ -107,5 +107,3 @@ dependencies:
     - urllib3==1.25.6
     - wcwidth==0.1.7
     - zipp==0.6.0
-prefix: /home/kobbypanfordquainoo/anaconda3/envs/bitgraph_env
-
